@@ -1,0 +1,22 @@
+{
+	version: 1
+	uuid: "b1284f62b0d339b690b3a2438888ab09"
+	name: "Shinkar#b1284f62"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		0470194500CBE26C: 1
+	}
+	started: {
+		1D4E5CDD59FFB7A0: 1738625613677L
+		2574E7CF699D5B45: 1738625613677L
+		0470194500CBE26C: 1738625613677L
+		0000000000000001: 1738625613677L
+	}
+	completed: {
+		2574E7CF699D5B45: 1738625613689L
+		0470194500CBE26C: 1738625613689L
+	}
+	claimed_rewards: { }
+	player_data: { }
+}
