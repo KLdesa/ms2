@@ -233,6 +233,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-02-04 05:46:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2025-02-04 05:15:52 +0000"
@@ -317,6 +323,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/bow_repairing": {
+    "criteria": {
+      "has_bow": "2025-02-04 05:32:31 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/building_blocks/amethyst_slab": {
     "criteria": {
       "has_amethyst_block": "2025-02-04 05:04:20 +0000"
@@ -332,6 +344,12 @@
   "twigs:recipes/tuff/tuff_slab_stonecutting": {
     "criteria": {
       "has_item": "2025-02-04 05:15:59 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/ender_perl_to_block": {
+    "criteria": {
+      "has_ender_pearl": "2025-02-04 05:38:14 +0000"
     },
     "done": true
   },
@@ -539,6 +557,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/ender_eye_amber": {
+    "criteria": {
+      "has_ender_pearl": "2025-02-04 05:38:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2025-02-04 04:42:35 +0000"
@@ -731,6 +755,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/diamond_pickaxe_repairing": {
+    "criteria": {
+      "has_diamond_pickaxe": "2025-02-04 05:31:58 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/blaze_trophy": {
     "criteria": {
       "has_blaze_trophy": "2025-02-04 04:42:35 +0000"
@@ -752,6 +782,12 @@
   "betterend:recipes/redstone/mossy_glowshroom_gate": {
     "criteria": {
       "has_stick": "2025-02-04 04:42:58 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/infusion_pedestal": {
+    "criteria": {
+      "has_ender_pearl": "2025-02-04 05:38:14 +0000"
     },
     "done": true
   },
@@ -896,6 +932,12 @@
   "betterend:recipes/misc/leather_to_stripes": {
     "criteria": {
       "has_leather": "2025-02-04 04:47:27 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/blue_ice_freezing": {
+    "criteria": {
+      "has_water_bucket": "2025-02-04 05:38:24 +0000"
     },
     "done": true
   },
@@ -1064,6 +1106,12 @@
   "stoneworks:recipes/building_blocks/tuff_paver_slab_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-02-04 05:15:59 +0000"
+    },
+    "done": true
+  },
+  "backpacked:recipes/misc/backpack": {
+    "criteria": {
+      "has_the_recipe": "2025-02-04 05:48:46 +0000"
     },
     "done": true
   },
@@ -1951,6 +1999,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/ender_pearl_to_dust": {
+    "criteria": {
+      "has_item.minecraft.ender_pearl": "2025-02-04 05:38:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-04 05:09:44 +0000"
@@ -2728,7 +2782,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:river": "2025-02-04 04:45:39 +0000",
-      "minecraft:forest": "2025-02-04 04:40:29 +0000"
+      "minecraft:forest": "2025-02-04 04:40:29 +0000",
+      "minecraft:plains": "2025-02-04 05:39:23 +0000"
     },
     "done": false
   },
@@ -2906,6 +2961,12 @@
     },
     "done": true
   },
+  "aether:recipes/building_blocks/packed_ice_freezing": {
+    "criteria": {
+      "has_water_bucket": "2025-02-04 05:38:24 +0000"
+    },
+    "done": true
+  },
   "shieldexp:recipes/wooden_shield": {
     "criteria": {
       "has_stick": "2025-02-04 04:42:58 +0000"
@@ -3047,6 +3108,12 @@
   "farmersdelight:recipes/cooking/chicken_soup": {
     "criteria": {
       "has_any_ingredient": "2025-02-04 04:47:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-02-04 05:38:04 +0000"
     },
     "done": true
   },
@@ -3374,6 +3441,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-02-04 05:32:31 +0000"
+    },
+    "done": true
+  },
   "naturescompass:natures_compass_sapling": {
     "criteria": {
       "has_recipe": "2025-02-04 04:42:28 +0000"
@@ -3608,6 +3681,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/shadow_berry_jelly": {
+    "criteria": {
+      "has_tag_c_water_bottles": "2025-02-04 05:38:24 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/food_prep_table": {
     "criteria": {
       "has_item": "2025-02-04 04:53:43 +0000"
@@ -3761,6 +3840,12 @@
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2025-02-04 05:11:51 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/ice_from_bucket_freezing": {
+    "criteria": {
+      "has_water_bucket": "2025-02-04 05:38:24 +0000"
     },
     "done": true
   },
@@ -4049,6 +4134,12 @@
   "betternether:recipes/decorations/jungle_taburet": {
     "criteria": {
       "has_stick": "2025-02-04 04:42:58 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/blossom_berry_jelly": {
+    "criteria": {
+      "has_tag_c_water_bottles": "2025-02-04 05:38:24 +0000"
     },
     "done": true
   },
@@ -4561,7 +4652,9 @@
       "minecraft:skeleton": "2025-02-04 05:11:49 +0000",
       "minecraft:spider": "2025-02-04 05:08:32 +0000",
       "minecraft:creeper": "2025-02-04 04:57:01 +0000",
-      "minecraft:zombie": "2025-02-04 04:50:56 +0000"
+      "minecraft:enderman": "2025-02-04 05:37:47 +0000",
+      "minecraft:zombie": "2025-02-04 04:50:56 +0000",
+      "minecraft:zombie_villager": "2025-02-04 05:35:53 +0000"
     },
     "done": false
   },
@@ -4988,6 +5081,12 @@
   "another_furniture:recipes/bamboo_drawer": {
     "criteria": {
       "has_planks": "2025-02-04 04:42:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-02-04 05:38:24 +0000"
     },
     "done": true
   },
@@ -5465,6 +5564,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/sweet_berry_jelly": {
+    "criteria": {
+      "has_tag_c_water_bottles": "2025-02-04 05:38:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2025-02-04 04:44:09 +0000"
@@ -5732,6 +5837,12 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-02-04 05:15:52 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/frozen/cutting/ice_bow": {
+    "criteria": {
+      "has_bow": "2025-02-04 05:32:31 +0000"
     },
     "done": true
   },
