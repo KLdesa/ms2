@@ -4033,3 +4033,100 @@ java.lang.ClassCastException: class net.minecraft.world.level.block.AirBlock can
 [04Feb2025 06:11:10.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sirfafnir55 has made the advancement [Sweet Dreams]
 [04Feb2025 06:11:20.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JOSHEEEE> zzz
 [04Feb2025 06:12:08.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JOSHEEEE> a donde vamos
+[04Feb2025 06:12:49.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sirfafnir55> xaero-waypoint:a:A:645:63:372:7:false:0:Internal-overworld-waypoints
+[04Feb2025 06:14:12.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JOSHEEEE> hijita esta looteando eso
+[04Feb2025 06:14:18.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JOSHEEEE> y se quda callado
+[04Feb2025 06:14:27.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JOSHEEEE> la torre
+[04Feb2025 06:15:43.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JOSHEEEE> librerias
+[04Feb2025 06:16:40.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sirfafnir55 has made the advancement [Diamonds!]
+[04Feb2025 06:18:49.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JOSHEEEE> a donde voy?
+[04Feb2025 06:18:54.664] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sirfafnir55 was kicked for floating too long!
+[04Feb2025 06:18:54.665] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sirfafnir55 lost connection: Disconnected
+[04Feb2025 06:18:54.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sirfafnir55 left the game
+[04Feb2025 06:18:54.665] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for edb6134e-223e-3469-9573-7afb11cfbf0d
+[04Feb2025 06:18:54.764] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[04Feb2025 06:19:06.440] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sirfafnir55[/127.33.68.235:55413] logged in with entity id 47285 at (639.1638629577352, 102.04043298343217, 380.05080349073086)
+[04Feb2025 06:19:06.446] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Sirfafnir55
+[04Feb2025 06:19:06.446] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Sirfafnir55
+[04Feb2025 06:19:06.447] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Sirfafnir55
+[04Feb2025 06:19:06.447] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Sirfafnir55
+[04Feb2025 06:19:06.448] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Sirfafnir55
+[04Feb2025 06:19:06.450] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Sirfafnir55
+[04Feb2025 06:19:06.450] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Sirfafnir55
+[04Feb2025 06:19:06.459] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[04Feb2025 06:19:06.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sirfafnir55 joined the game
+[04Feb2025 06:19:06.531] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for edb6134e-223e-3469-9573-7afb11cfbf0d
+[04Feb2025 06:19:06.539] [Server thread/INFO] [Jade/]: Syncing config to Sirfafnir55 (edb6134e-223e-3469-9573-7afb11cfbf0d)
+[04Feb2025 06:19:06.958] [Server thread/INFO] [ping-wheel/]: Channel update: Sirfafnir55 -> default
+[04Feb2025 06:19:06.987] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
+[04Feb2025 06:19:34.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JOSHEEEE> si
+[04Feb2025 06:19:43.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JOSHEEEE> cuantP?
+[04Feb2025 06:19:56.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JOSHEEEE> no tengo
+[04Feb2025 06:20:02.512] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sirfafnir55 was kicked for floating too long!
+[04Feb2025 06:20:02.573] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sirfafnir55 lost connection: Flying is not enabled on this server
+[04Feb2025 06:20:02.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sirfafnir55 left the game
+[04Feb2025 06:20:02.574] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for edb6134e-223e-3469-9573-7afb11cfbf0d
+[04Feb2025 06:20:03.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JOSHEEEE> busquemos arañas nomas
+[04Feb2025 06:20:12.991] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sirfafnir55[/127.33.68.235:49041] logged in with entity id 48217 at (639.1638629577352, 78.46381359589606, 380.05080349073086)
+[04Feb2025 06:20:12.997] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Sirfafnir55
+[04Feb2025 06:20:12.997] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Sirfafnir55
+[04Feb2025 06:20:12.997] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Sirfafnir55
+[04Feb2025 06:20:12.998] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Sirfafnir55
+[04Feb2025 06:20:12.999] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Sirfafnir55
+[04Feb2025 06:20:13.001] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Sirfafnir55
+[04Feb2025 06:20:13.002] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Sirfafnir55
+[04Feb2025 06:20:13.013] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[04Feb2025 06:20:13.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sirfafnir55 joined the game
+[04Feb2025 06:20:13.074] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for edb6134e-223e-3469-9573-7afb11cfbf0d
+[04Feb2025 06:20:13.081] [Server thread/INFO] [Jade/]: Syncing config to Sirfafnir55 (edb6134e-223e-3469-9573-7afb11cfbf0d)
+[04Feb2025 06:20:13.453] [Server thread/INFO] [ping-wheel/]: Channel update: Sirfafnir55 -> default
+[04Feb2025 06:20:13.453] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
+[04Feb2025 06:20:35.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JOSHEEEE> enconter hilo
+[04Feb2025 06:22:17.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JOSHEEEE> dime
+[04Feb2025 06:22:35.381] [Worker-Main-14/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[04Feb2025 06:22:35.381] [Worker-Main-14/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[04Feb2025 06:22:35.381] [Worker-Main-14/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[04Feb2025 06:22:35.381] [Worker-Main-14/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[04Feb2025 06:22:35.397] [Worker-Main-14/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[04Feb2025 06:22:37.696] [Worker-Main-21/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[04Feb2025 06:22:37.722] [Worker-Main-13/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:iron_fishing_rod",tag:{Damage:0,Inventory:{Items:[{Count:1b,Slot:1,id:"aquaculture:worm",tag:{Damage:0}},{Count:1b,Slot:2,id:"aquaculture:fishing_line"},{Count:1b,Slot:3,id:"aquaculture:bobber"}],Size:4}}}
+[04Feb2025 06:22:37.723] [Worker-Main-13/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:oak_fish_mount
+[04Feb2025 06:22:37.723] [Worker-Main-13/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:iron_fillet_knife",tag:{Damage:0}}
+[04Feb2025 06:22:37.723] [Worker-Main-13/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:fish_fillet_raw"}
+[04Feb2025 06:22:37.724] [Worker-Main-13/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[04Feb2025 06:26:58.903] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JOSHEEEE lost connection: Disconnected
+[04Feb2025 06:26:58.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOSHEEEE left the game
+[04Feb2025 06:26:58.904] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 05c95e7d-3331-3e5a-9d76-5424e66cc84e
+[04Feb2025 06:26:59.955] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sirfafnir55 lost connection: Disconnected
+[04Feb2025 06:26:59.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sirfafnir55 left the game
+[04Feb2025 06:26:59.955] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for edb6134e-223e-3469-9573-7afb11cfbf0d
+[04Feb2025 06:27:02.056] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shinkar lost connection: Disconnected
+[04Feb2025 06:27:02.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar left the game
+[04Feb2025 06:27:02.057] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for b1284f62-b0d3-39b6-90b3-a2438888ab09
+[04Feb2025 06:27:21.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[04Feb2025 06:27:21.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[04Feb2025 06:27:21.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[04Feb2025 06:27:21.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[04Feb2025 06:27:22.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04Feb2025 06:27:22.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[04Feb2025 06:27:22.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everbright
+[04Feb2025 06:27:22.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[04Feb2025 06:27:22.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[04Feb2025 06:27:22.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[04Feb2025 06:27:22.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[04Feb2025 06:27:22.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everdawn
+[04Feb2025 06:27:22.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04Feb2025 06:27:22.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04Feb2025 06:27:22.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everbright): All chunks are saved
+[04Feb2025 06:27:22.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[04Feb2025 06:27:22.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[04Feb2025 06:27:22.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04Feb2025 06:27:22.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[04Feb2025 06:27:22.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everdawn): All chunks are saved
+[04Feb2025 06:27:22.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[04Feb2025 06:27:22.708] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Stopping IO worker...
+[04Feb2025 06:27:22.711] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Stopped IO worker!
+[04Feb2025 06:27:22.715] [Server thread/INFO] [Framework/]: Unloading server configs...
+[04Feb2025 06:27:22.716] [Server thread/INFO] [Framework/]: Sending config unload event for backpacked.server.toml
+[04Feb2025 06:27:22.717] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[04Feb2025 06:27:22.717] [Server thread/INFO] [Framework/]: Finished unloading server configs
