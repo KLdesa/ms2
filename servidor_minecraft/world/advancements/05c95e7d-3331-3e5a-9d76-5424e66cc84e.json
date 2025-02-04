@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/smooth_netherrack/smooth_netherrack": {
+    "criteria": {
+      "has_item": "2025-02-04 05:56:35 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/misc/copy_bowl_upgrade": {
     "criteria": {
       "has_diamond": "2025-02-04 05:15:52 +0000"
@@ -56,6 +62,12 @@
   "betterend:recipes/decorations/end_lotus_ladder": {
     "criteria": {
       "has_stick": "2025-02-04 04:42:58 +0000"
+    },
+    "done": true
+  },
+  "boatload:recipes/transportation/large_warped_boat": {
+    "criteria": {
+      "has_boat": "2025-02-04 05:53:30 +0000"
     },
     "done": true
   },
@@ -119,6 +131,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/cracked_netherrack_bricks_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-04 05:56:35 +0000"
+    },
+    "done": true
+  },
   "backpacked:recipes/decorations/cherry_backpack_shelf": {
     "criteria": {
       "has_stick": "2025-02-04 04:42:58 +0000"
@@ -134,6 +152,12 @@
   "handcrafted:recipes/misc/hammer": {
     "criteria": {
       "has_hammer": "2025-02-04 04:57:34 +0000"
+    },
+    "done": true
+  },
+  "boatload:recipes/transportation/bamboo_furnace_raft": {
+    "criteria": {
+      "has_boat": "2025-02-04 05:53:30 +0000"
     },
     "done": true
   },
@@ -275,6 +299,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-04 05:53:30 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/netherrack_brick_stairs_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-04 05:56:35 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/fir_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-04 05:53:30 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/transportation/rail": {
     "criteria": {
       "has_stick": "2025-02-04 04:42:58 +0000"
@@ -296,6 +338,12 @@
   "supplementaries:recipes/candle_holders/candle_holder_light_gray": {
     "criteria": {
       "has_iron_ingot": "2025-02-04 04:57:34 +0000"
+    },
+    "done": true
+  },
+  "boatload:recipes/transportation/large_spruce_boat": {
+    "criteria": {
+      "has_boat": "2025-02-04 05:53:30 +0000"
     },
     "done": true
   },
@@ -371,6 +419,12 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/cincinnasite_fire_bowl": {
+    "criteria": {
+      "has_netherrack": "2025-02-04 05:56:35 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/redstone/mushroom_fir_gate": {
     "criteria": {
       "has_stick": "2025-02-04 04:42:58 +0000"
@@ -380,6 +434,12 @@
   "mynethersdelight:recipes/building_blocks/letios_compost_from_rotten_flesh": {
     "criteria": {
       "has_rotten_flesh": "2025-02-04 04:50:58 +0000"
+    },
+    "done": true
+  },
+  "boatload:recipes/transportation/warped_furnace_boat": {
+    "criteria": {
+      "has_boat": "2025-02-04 05:53:30 +0000"
     },
     "done": true
   },
@@ -713,6 +773,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/obsidian_bricks_stairs_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-02-04 05:55:23 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/combat/iron_knife": {
     "criteria": {
       "has_iron_ingot": "2025-02-04 04:57:34 +0000"
@@ -746,6 +812,12 @@
   "betterend:recipes/decorations/tenanea_sign": {
     "criteria": {
       "has_stick": "2025-02-04 04:42:58 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-04 05:53:30 +0000"
     },
     "done": true
   },
@@ -833,6 +905,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/boat_jar": {
+    "criteria": {
+      "minecraft:boats": "2025-02-04 05:53:30 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_tuff_brick_stairs_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-02-04 05:15:59 +0000"
@@ -845,6 +923,12 @@
     },
     "done": true
   },
+  "betternether:recipes/misc/farmland": {
+    "criteria": {
+      "has_netherrack": "2025-02-04 05:56:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2025-02-04 04:43:49 +0000"
@@ -854,6 +938,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2025-02-04 04:43:49 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/transformation_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-04 05:53:30 +0000"
     },
     "done": true
   },
@@ -965,9 +1055,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/golden_thin_pot": {
+    "criteria": {
+      "has_golden_thin_pot": "2025-02-04 05:55:04 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2025-02-04 04:46:03 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_netherrack_wall_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-04 05:56:35 +0000"
     },
     "done": true
   },
@@ -1091,6 +1193,12 @@
     },
     "done": true
   },
+  "boatload:recipes/transportation/mangrove_furnace_boat": {
+    "criteria": {
+      "has_boat": "2025-02-04 05:53:30 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/building_blocks/oak_support": {
     "criteria": {
       "has_plank": "2025-02-04 04:42:35 +0000"
@@ -1106,6 +1214,12 @@
   "stoneworks:recipes/building_blocks/tuff_paver_slab_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-02-04 05:15:59 +0000"
+    },
+    "done": true
+  },
+  "boatload:recipes/transportation/jungle_furnace_boat": {
+    "criteria": {
+      "has_boat": "2025-02-04 05:53:30 +0000"
     },
     "done": true
   },
@@ -1145,6 +1259,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-04 05:53:30 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/notice_board": {
     "criteria": {
       "minecraft:planks": "2025-02-04 04:42:35 +0000"
@@ -1154,6 +1274,12 @@
   "betternether:recipes/decorations/willow_bar_stool": {
     "criteria": {
       "has_stick": "2025-02-04 04:42:58 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_netherrack_stairs_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-04 05:56:35 +0000"
     },
     "done": true
   },
@@ -1184,6 +1310,12 @@
   "stoneworks:recipes/building_blocks/calcite_pillar_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-02-04 05:04:03 +0000"
+    },
+    "done": true
+  },
+  "boatload:recipes/transportation/large_jungle_boat": {
+    "criteria": {
+      "has_boat": "2025-02-04 05:53:30 +0000"
     },
     "done": true
   },
@@ -1256,6 +1388,12 @@
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-02-04 04:44:09 +0000"
+    },
+    "done": true
+  },
+  "boatload:recipes/transportation/crimson_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-04 05:53:30 +0000"
     },
     "done": true
   },
@@ -1415,6 +1553,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/obsidian_tile_small_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-02-04 05:55:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-02-04 04:54:37 +0000",
@@ -1495,6 +1639,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-04 05:56:35 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/crimson_ladder": {
     "criteria": {
       "has_stick": "2025-02-04 04:42:58 +0000"
@@ -1531,6 +1681,12 @@
     },
     "done": true
   },
+  "boatload:recipes/transportation/oak_furnace_boat": {
+    "criteria": {
+      "has_boat": "2025-02-04 05:53:30 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/skyroot_bed": {
     "criteria": {
       "has_wool": "2025-02-04 04:49:40 +0000"
@@ -1564,6 +1720,12 @@
   "farmersdelight:recipes/cooking/rabbit_stew": {
     "criteria": {
       "has_any_ingredient": "2025-02-04 05:25:40 +0000"
+    },
+    "done": true
+  },
+  "boatload:recipes/transportation/acacia_furnace_boat": {
+    "criteria": {
+      "has_boat": "2025-02-04 05:53:30 +0000"
     },
     "done": true
   },
@@ -1699,6 +1861,12 @@
     },
     "done": true
   },
+  "boatload:recipes/transportation/wide_bamboo_raft": {
+    "criteria": {
+      "has_boat": "2025-02-04 05:53:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/spyglass": {
     "criteria": {
       "has_amethyst_shard": "2025-02-04 05:20:02 +0000"
@@ -1735,6 +1903,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_netherrack_bricks_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-04 05:56:35 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/redstone/umbrella_tree_gate": {
     "criteria": {
       "has_stick": "2025-02-04 04:42:58 +0000"
@@ -1750,6 +1924,12 @@
   "supplementaries:recipes/bomb": {
     "criteria": {
       "has_iron_ingot": "2025-02-04 04:57:34 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/maple_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-04 05:53:30 +0000"
     },
     "done": true
   },
@@ -1777,9 +1957,27 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/palm_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-04 05:53:30 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_tile_slab_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-02-04 05:55:23 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/white_stool": {
     "criteria": {
       "has_wool": "2025-02-04 04:49:40 +0000"
+    },
+    "done": true
+  },
+  "boatload:recipes/transportation/large_birch_boat": {
+    "criteria": {
+      "has_boat": "2025-02-04 05:53:30 +0000"
     },
     "done": true
   },
@@ -1867,6 +2065,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-02-04 05:53:30 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/copy_tool_assembly": {
     "criteria": {
       "has_stick": "2025-02-04 04:42:58 +0000"
@@ -1885,9 +2089,21 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/polished_netherrack_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-04 05:56:35 +0000"
+    },
+    "done": true
+  },
   "boatload:recipes/transportation/warped_boat": {
     "criteria": {
       "in_water": "2025-02-04 04:46:03 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_netherrack_wall_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-04 05:56:35 +0000"
     },
     "done": true
   },
@@ -1900,6 +2116,12 @@
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2025-02-04 04:57:34 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_medium_pot": {
+    "criteria": {
+      "has_golden_medium_pot": "2025-02-04 05:55:04 +0000"
     },
     "done": true
   },
@@ -1936,6 +2158,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-04 04:58:49 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/hellbark_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-04 05:53:30 +0000"
     },
     "done": true
   },
@@ -2035,6 +2263,12 @@
     },
     "done": true
   },
+  "boatload:recipes/transportation/spruce_furnace_boat": {
+    "criteria": {
+      "has_boat": "2025-02-04 05:53:30 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/basalt_blocks/smooth_basalt_brick_slab_from_smooth_basalt_stonecutting": {
     "criteria": {
       "has_item": "2025-02-04 05:04:00 +0000"
@@ -2092,6 +2326,12 @@
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2025-02-04 04:43:49 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-04 05:56:35 +0000"
     },
     "done": true
   },
@@ -2203,6 +2443,18 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/golden_thick_pot": {
+    "criteria": {
+      "has_golden_thick_pot": "2025-02-04 05:55:04 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_netherrack_brick_wall_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-04 05:56:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2025-02-04 04:57:34 +0000"
@@ -2230,6 +2482,12 @@
   "aether:recipes/decorations/skyroot_jukebox": {
     "criteria": {
       "has_diamond": "2025-02-04 05:15:52 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/canopy_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-04 05:53:30 +0000"
     },
     "done": true
   },
@@ -2326,6 +2584,18 @@
   "aether_redux:recipes/transportation/blightwillow_boat": {
     "criteria": {
       "in_water": "2025-02-04 04:46:03 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/time_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-04 05:53:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-04 05:53:30 +0000"
     },
     "done": true
   },
@@ -2449,9 +2719,27 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/cobbled_netherrack_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-04 05:56:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-02-04 04:49:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-04 05:53:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-04 05:53:30 +0000"
     },
     "done": true
   },
@@ -2464,6 +2752,12 @@
   "decorative_blocks:recipes/building_blocks/rocky_dirt": {
     "criteria": {
       "has_dirt": "2025-02-04 04:43:16 +0000"
+    },
+    "done": true
+  },
+  "boatload:recipes/transportation/large_oak_boat": {
+    "criteria": {
+      "has_boat": "2025-02-04 05:53:30 +0000"
     },
     "done": true
   },
@@ -2506,6 +2800,12 @@
   "aether:recipes/tools/wooden_axe_repairing": {
     "criteria": {
       "has_wooden_axe": "2025-02-04 04:44:33 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_netherrack_brick_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-04 05:56:35 +0000"
     },
     "done": true
   },
@@ -2629,9 +2929,21 @@
     },
     "done": true
   },
+  "boatload:recipes/transportation/large_dark_oak_boat": {
+    "criteria": {
+      "has_boat": "2025-02-04 05:53:30 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/crimson_drawer": {
     "criteria": {
       "has_planks": "2025-02-04 04:42:58 +0000"
+    },
+    "done": true
+  },
+  "boatload:recipes/transportation/large_acacia_boat": {
+    "criteria": {
+      "has_boat": "2025-02-04 05:53:30 +0000"
     },
     "done": true
   },
@@ -2781,6 +3093,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:beach": "2025-02-04 05:52:59 +0000",
       "minecraft:river": "2025-02-04 04:45:39 +0000",
       "minecraft:forest": "2025-02-04 04:40:29 +0000",
       "minecraft:plains": "2025-02-04 05:39:23 +0000"
@@ -2832,6 +3145,18 @@
   "betterend:recipes/decorations/umbrella_tree_taburet": {
     "criteria": {
       "has_stick": "2025-02-04 04:42:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-02-04 05:55:23 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/transportation/skyroot_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-04 05:53:30 +0000"
     },
     "done": true
   },
@@ -2955,6 +3280,12 @@
     },
     "done": true
   },
+  "boatload:recipes/transportation/warped_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-04 05:53:30 +0000"
+    },
+    "done": true
+  },
   "takesapillage:root": {
     "criteria": {
       "always": "2025-02-04 04:40:28 +0000"
@@ -3033,6 +3364,12 @@
     },
     "done": true
   },
+  "magnumtorch:recipes/decorations/emerald_magnum_torch": {
+    "criteria": {
+      "has_emerald": "2025-02-04 05:58:49 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/transportation/skyroot_boat": {
     "criteria": {
       "in_water": "2025-02-04 04:46:03 +0000"
@@ -3054,6 +3391,12 @@
   "betterend:recipes/decorations/tenanea_taburet": {
     "criteria": {
       "has_stick": "2025-02-04 04:42:58 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/jacaranda_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-04 05:53:30 +0000"
     },
     "done": true
   },
@@ -3111,6 +3454,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-04 05:53:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-02-04 05:38:04 +0000"
@@ -3138,6 +3487,12 @@
   "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2025-02-04 04:46:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-02-04 05:58:47 +0000"
     },
     "done": true
   },
@@ -3195,9 +3550,27 @@
     },
     "done": true
   },
+  "aether_redux:recipes/transportation/glacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-04 05:53:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2025-02-04 04:47:27 +0000"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/transportation/crystal_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-04 05:53:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-04 05:53:30 +0000"
     },
     "done": true
   },
@@ -3261,6 +3634,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/cobbled_netherrack_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-04 05:56:35 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/feather_block": {
     "criteria": {
       "has_feather": "2025-02-04 04:47:47 +0000"
@@ -3297,6 +3676,12 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/transportation/bloom_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-04 05:53:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2025-02-04 04:50:09 +0000"
@@ -3330,6 +3715,12 @@
   "betternether:recipes/decorations/nether_reed_ladder": {
     "criteria": {
       "has_stick": "2025-02-04 04:42:58 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-04 05:53:30 +0000"
     },
     "done": true
   },
@@ -3378,6 +3769,12 @@
   "supplementaries:recipes/candle_holders/candle_holder_red": {
     "criteria": {
       "has_iron_ingot": "2025-02-04 04:57:34 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/netherrack_brick_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-04 05:56:35 +0000"
     },
     "done": true
   },
@@ -3561,6 +3958,12 @@
     },
     "done": true
   },
+  "aether_redux:recipes/transportation/blightwillow_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-04 05:53:30 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_magenta": {
     "criteria": {
       "has_iron_ingot": "2025-02-04 04:57:34 +0000"
@@ -3573,9 +3976,21 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/umbran_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-04 05:53:30 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/andesite_paver_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-04 04:58:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-02-04 05:56:35 +0000"
     },
     "done": true
   },
@@ -3693,6 +4108,18 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/netherrack_brick_wall_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-04 05:56:35 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_wall_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-04 05:56:35 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/tuff/tuff_slab": {
     "criteria": {
       "has_item": "2025-02-04 05:15:59 +0000"
@@ -3771,6 +4198,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/obsidian_tile_stairs_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-02-04 05:55:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-02-04 04:57:34 +0000"
@@ -3798,6 +4231,12 @@
   "mynethersdelight:recipes/cooking/spicy_noodle_soup": {
     "criteria": {
       "has_any_ingredient": "2025-02-04 04:50:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-02-04 05:58:49 +0000"
     },
     "done": true
   },
@@ -3933,6 +4372,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/redwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-04 05:53:30 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/copy_handle_attachment": {
     "criteria": {
       "has_stick": "2025-02-04 04:42:58 +0000"
@@ -3948,6 +4393,18 @@
   "betternether:recipes/decorations/willow_sign": {
     "criteria": {
       "has_stick": "2025-02-04 04:42:58 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/empyreal_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-04 05:53:30 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_rod_tiles_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-02-04 05:55:23 +0000"
     },
     "done": true
   },
@@ -4095,6 +4552,18 @@
     },
     "done": true
   },
+  "boatload:recipes/transportation/large_crimson_boat": {
+    "criteria": {
+      "has_boat": "2025-02-04 05:53:30 +0000"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/transportation/cloudcap_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-04 05:53:30 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/hellbark_boat": {
     "criteria": {
       "in_water": "2025-02-04 04:46:03 +0000"
@@ -4128,6 +4597,12 @@
   "biomesoplenty:recipes/transportation/jacaranda_boat": {
     "criteria": {
       "in_water": "2025-02-04 04:46:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-02-04 05:55:23 +0000"
     },
     "done": true
   },
@@ -4206,6 +4681,12 @@
   "betternether:recipes/decorations/spruce_chair": {
     "criteria": {
       "has_stick": "2025-02-04 04:42:58 +0000"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/transportation/jellyshroom_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-04 05:53:30 +0000"
     },
     "done": true
   },
@@ -4425,6 +4906,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-02-04 05:55:04 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/willow_taburet": {
     "criteria": {
       "has_stick": "2025-02-04 04:42:58 +0000"
@@ -4509,6 +4996,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/sorting_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-04 05:53:30 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_blue": {
     "criteria": {
       "has_iron_ingot": "2025-02-04 04:57:34 +0000"
@@ -4575,6 +5068,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/pine_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-04 05:53:30 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/lock_block": {
     "criteria": {
       "minecraft:planks": "2025-02-04 04:42:35 +0000"
@@ -4590,6 +5089,12 @@
   "incubation:recipes/food/scrambled_eggs": {
     "criteria": {
       "has_eggs": "2025-02-04 04:47:55 +0000"
+    },
+    "done": true
+  },
+  "boatload:recipes/transportation/dark_oak_furnace_boat": {
+    "criteria": {
+      "has_boat": "2025-02-04 05:53:30 +0000"
     },
     "done": true
   },
@@ -4632,6 +5137,12 @@
   "supplementaries:recipes/cage": {
     "criteria": {
       "has_iron_ingot": "2025-02-04 04:57:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-04 05:53:30 +0000"
     },
     "done": true
   },
@@ -4748,6 +5259,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/mining_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-04 05:53:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_redstone": "2025-02-04 05:10:45 +0000"
@@ -4763,6 +5280,12 @@
   "betternether:recipes/decorations/wart_sign": {
     "criteria": {
       "has_stick": "2025-02-04 04:42:58 +0000"
+    },
+    "done": true
+  },
+  "boatload:recipes/transportation/cherry_furnace_boat": {
+    "criteria": {
+      "has_boat": "2025-02-04 05:53:30 +0000"
     },
     "done": true
   },
@@ -4796,6 +5319,12 @@
     },
     "done": true
   },
+  "boatload:recipes/transportation/birch_furnace_boat": {
+    "criteria": {
+      "has_boat": "2025-02-04 05:53:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2025-02-04 04:52:14 +0000"
@@ -4820,6 +5349,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/polished_netherrack_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-04 05:56:35 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/spruce_drawer": {
     "criteria": {
       "has_planks": "2025-02-04 04:42:58 +0000"
@@ -4835,6 +5370,12 @@
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2025-02-04 04:54:20 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/transportation/echo_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-04 05:53:30 +0000"
     },
     "done": true
   },
@@ -4988,6 +5529,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/dark_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-04 05:53:30 +0000"
+    },
+    "done": true
+  },
   "naturescompass:natures_compass_log": {
     "criteria": {
       "has_log": "2025-02-04 04:42:28 +0000"
@@ -5036,6 +5583,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-02-04 05:55:23 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_calcite_brick_wall_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-02-04 05:04:03 +0000"
@@ -5054,6 +5607,12 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/netherrack_furnace": {
+    "criteria": {
+      "has_netherrack": "2025-02-04 05:56:35 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/nether_sakura_ladder": {
     "criteria": {
       "has_stick": "2025-02-04 04:42:58 +0000"
@@ -5063,6 +5622,12 @@
   "stoneworks:recipes/building_blocks/cracked_calcite_tiles_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-02-04 05:04:03 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_tile_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-02-04 05:55:23 +0000"
     },
     "done": true
   },
@@ -5117,6 +5682,12 @@
   "stoneworks:recipes/building_blocks/andesite_shingle_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-04 04:58:49 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_netherrack_brick_stairs_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-04 05:56:35 +0000"
     },
     "done": true
   },
@@ -5192,6 +5763,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/cobbled_netherrack_stairs_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-04 05:56:35 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/granite_brick_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-02-04 04:54:20 +0000"
@@ -5237,6 +5814,12 @@
   "stoneworks:recipes/building_blocks/mossy_cobbled_granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-02-04 04:54:20 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/bricks_fire_bowl": {
+    "criteria": {
+      "has_netherrack": "2025-02-04 05:56:35 +0000"
     },
     "done": true
   },
@@ -5342,6 +5925,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/obsidian_glass_smelting": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-02-04 05:55:23 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/tuff_brick_slab_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-02-04 05:15:59 +0000"
@@ -5396,6 +5985,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/obsidian_bricks_slab_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-02-04 05:55:23 +0000"
+    },
+    "done": true
+  },
   "backpacked:recipes/decorations/birch_backpack_shelf": {
     "criteria": {
       "has_stick": "2025-02-04 04:42:58 +0000"
@@ -5429,6 +6024,18 @@
   "twilightforest:recipes/transportation/transformation_boat": {
     "criteria": {
       "in_water": "2025-02-04 04:46:03 +0000"
+    },
+    "done": true
+  },
+  "boatload:recipes/transportation/crimson_furnace_boat": {
+    "criteria": {
+      "has_boat": "2025-02-04 05:53:30 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/magic_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-04 05:53:30 +0000"
     },
     "done": true
   },
@@ -5480,6 +6087,12 @@
     },
     "done": true
   },
+  "advancednetherite:recipes/misc/netherite_emerald_ingot": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:gems/emerald]": "2025-02-04 05:58:49 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/granite_shingles_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-02-04 04:54:20 +0000"
@@ -5528,6 +6141,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/dead_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-04 05:53:30 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/goblet": {
     "criteria": {
       "has_iron_ingot": "2025-02-04 04:57:34 +0000"
@@ -5549,6 +6168,12 @@
   "betterend:recipes/decorations/pythadendron_bar_stool": {
     "criteria": {
       "has_stick": "2025-02-04 04:42:58 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_bricks_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-02-04 05:55:23 +0000"
     },
     "done": true
   },
@@ -5588,9 +6213,27 @@
     },
     "done": true
   },
+  "boatload:recipes/transportation/large_cherry_boat": {
+    "criteria": {
+      "has_boat": "2025-02-04 05:53:30 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/twilight_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-04 05:53:30 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/granite_shingle_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-02-04 04:54:20 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_tile": {
+    "criteria": {
+      "has_obsidian": "2025-02-04 05:55:23 +0000"
     },
     "done": true
   },
@@ -5633,6 +6276,12 @@
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2025-02-04 04:49:40 +0000"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/transportation/fieldsproot_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-04 05:53:30 +0000"
     },
     "done": true
   },
@@ -5738,6 +6387,18 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/golden_wide_pot": {
+    "criteria": {
+      "has_golden_wide_pot": "2025-02-04 05:55:04 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_stairs_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-04 05:56:35 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/umbrella_tree_bar_stool": {
     "criteria": {
       "has_stick": "2025-02-04 04:42:58 +0000"
@@ -5768,6 +6429,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/netherrack_bricks_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-04 05:56:35 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/building_blocks/chiseled_amethyst_from_amethyst_block_stonecutting": {
     "criteria": {
       "has_amethyst_block": "2025-02-04 05:04:20 +0000"
@@ -5777,6 +6444,12 @@
   "farmersdelight:recipes/food/chicken_sandwich": {
     "criteria": {
       "has_cooked_chicken": "2025-02-04 05:08:42 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/mahogany_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-04 05:53:30 +0000"
     },
     "done": true
   },
@@ -5837,6 +6510,12 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-02-04 05:15:52 +0000"
+    },
+    "done": true
+  },
+  "boatload:recipes/transportation/large_mangrove_boat": {
+    "criteria": {
+      "has_boat": "2025-02-04 05:53:30 +0000"
     },
     "done": true
   },

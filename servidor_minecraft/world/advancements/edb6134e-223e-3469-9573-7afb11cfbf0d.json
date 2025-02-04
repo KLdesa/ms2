@@ -1097,6 +1097,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/kitchen_hood_pipe": {
+    "criteria": {
+      "has_kitchen_hood_pipe": "2025-02-04 05:58:20 +0000"
+    },
+    "done": true
+  },
   "backpacked:recipes/decorations/jungle_backpack_shelf": {
     "criteria": {
       "has_stick": "2025-02-04 04:54:35 +0000"
@@ -1298,6 +1304,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2025-02-04 05:17:22 +0000",
+      "golden_apple": "2025-02-04 05:51:20 +0000",
       "cooked_chicken": "2025-02-04 05:05:52 +0000"
     },
     "done": false
@@ -1512,6 +1519,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorations/brazier": {
+    "criteria": {
+      "has_bar": "2025-02-04 05:58:20 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/nether_mushroom_bar_stool": {
     "criteria": {
       "has_stick": "2025-02-04 04:54:35 +0000"
@@ -1713,6 +1726,12 @@
   "backpacked:recipes/decorations/acacia_backpack_shelf": {
     "criteria": {
       "has_stick": "2025-02-04 04:54:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-02-04 05:57:14 +0000"
     },
     "done": true
   },
@@ -1977,6 +1996,12 @@
   "betterend:recipes/decorations/end_lotus_chair": {
     "criteria": {
       "has_stick": "2025-02-04 04:54:36 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/iron_ladder": {
+    "criteria": {
+      "has_iron_bars": "2025-02-04 05:58:20 +0000"
     },
     "done": true
   },
@@ -2507,9 +2532,16 @@
       "minecraft:beach": "2025-02-04 04:58:27 +0000",
       "minecraft:river": "2025-02-04 04:57:06 +0000",
       "minecraft:cold_ocean": "2025-02-04 05:07:07 +0000",
-      "minecraft:forest": "2025-02-04 04:51:28 +0000"
+      "minecraft:forest": "2025-02-04 04:51:28 +0000",
+      "minecraft:plains": "2025-02-04 05:55:34 +0000"
     },
     "done": false
+  },
+  "decorative_blocks:recipes/decorations/soul_brazier": {
+    "criteria": {
+      "has_bar": "2025-02-04 05:58:20 +0000"
+    },
+    "done": true
   },
   "supplementaries:recipes/pulley": {
     "criteria": {
@@ -2706,6 +2738,12 @@
   "betterend:recipes/decorations/jellyshroom_chair": {
     "criteria": {
       "has_stick": "2025-02-04 04:54:35 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/kitchen_hood": {
+    "criteria": {
+      "has_kitchen_hood": "2025-02-04 05:58:20 +0000"
     },
     "done": true
   },
@@ -4035,6 +4073,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-02-04 05:57:14 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_lime": {
     "criteria": {
       "has_iron_ingot": "2025-02-04 05:24:10 +0000"
@@ -4395,6 +4439,12 @@
   "supplementaries:recipes/candle_holders/candle_holder_purple": {
     "criteria": {
       "has_iron_ingot": "2025-02-04 05:24:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-02-04 05:57:14 +0000"
     },
     "done": true
   },
