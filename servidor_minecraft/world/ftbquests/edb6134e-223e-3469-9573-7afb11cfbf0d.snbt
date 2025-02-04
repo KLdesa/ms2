@@ -1,0 +1,22 @@
+{
+	version: 1
+	uuid: "edb6134e223e346995737afb11cfbf0d"
+	name: "Sirfafnir55#edb6134e"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		0470194500CBE26C: 1
+	}
+	started: {
+		1D4E5CDD59FFB7A0: 1738644823963L
+		2574E7CF699D5B45: 1738644823963L
+		0470194500CBE26C: 1738644823963L
+		0000000000000001: 1738644823963L
+	}
+	completed: {
+		2574E7CF699D5B45: 1738644823963L
+		0470194500CBE26C: 1738644823963L
+	}
+	claimed_rewards: { }
+	player_data: { }
+}

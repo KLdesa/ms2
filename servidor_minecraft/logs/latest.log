@@ -3945,3 +3945,27 @@ java.lang.ClassCastException: class net.minecraft.world.level.block.AirBlock can
 [04Feb2025 04:47:17.766] [Server thread/INFO] [ping-wheel/]: Channel update: Digigamerfer -> default
 [04Feb2025 04:47:17.767] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
 [04Feb2025 04:50:56.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOSHEEEE has made the advancement [Monster Hunter]
+[04Feb2025 04:51:27.263] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sirfafnir55[/127.33.68.235:57729] logged in with entity id 4281 at (-40.5, 70.0, 32.5)
+[04Feb2025 04:51:27.269] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Sirfafnir55
+[04Feb2025 04:51:27.269] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Sirfafnir55
+[04Feb2025 04:51:27.270] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Sirfafnir55
+[04Feb2025 04:51:27.270] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Sirfafnir55
+[04Feb2025 04:51:27.272] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Sirfafnir55
+[04Feb2025 04:51:27.274] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Sirfafnir55
+[04Feb2025 04:51:27.274] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Sirfafnir55
+[04Feb2025 04:51:27.286] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[04Feb2025 04:51:27.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sirfafnir55 joined the game
+[04Feb2025 04:51:27.345] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for edb6134e-223e-3469-9573-7afb11cfbf0d
+[04Feb2025 04:51:27.356] [Server thread/INFO] [Jade/]: Syncing config to Sirfafnir55 (edb6134e-223e-3469-9573-7afb11cfbf0d)
+[04Feb2025 04:51:42.265] [Server thread/INFO] [ping-wheel/]: Channel update: Sirfafnir55 -> default
+[04Feb2025 04:51:42.313] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
+[04Feb2025 04:54:15.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer has made the advancement [Monster Hunter]
+[04Feb2025 04:54:34.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer was slain by Zombie
+[04Feb2025 04:55:05.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sirfafnir55 has made the advancement [Monster Hunter]
+[04Feb2025 04:57:34.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOSHEEEE has made the advancement [Acquire Hardware]
+[04Feb2025 04:57:54.002] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2908ms or 58 ticks behind
+[04Feb2025 04:57:58.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar has made the advancement [Acquire Hardware]
+[04Feb2025 04:58:04.264] [Worker-Main-12/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:mine_with_campsite/side_pool which is being called from mvs:other_decoration/mine_with_campsite
+[04Feb2025 04:58:05.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar has made the advancement [Isn't It Iron Pick]
+[04Feb2025 05:00:57.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sirfafnir55 has completed the challenge [Free Willy]
+[04Feb2025 05:01:16.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sirfafnir55 has made the advancement [Hunt and Gather]
