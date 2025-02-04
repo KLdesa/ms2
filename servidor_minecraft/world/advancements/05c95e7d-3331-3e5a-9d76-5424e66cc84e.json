@@ -509,6 +509,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-02-04 05:59:40 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/helix_tree_fence": {
     "criteria": {
       "has_stick": "2025-02-04 04:42:58 +0000"
@@ -899,6 +905,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-02-04 06:04:45 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/building_blocks/amethyst_brick_stairs_from_amethyst_block_stonecutting": {
     "criteria": {
       "has_amethyst_block": "2025-02-04 05:04:20 +0000"
@@ -1172,6 +1184,12 @@
   "betternether:recipes/decorations/bar_stool_cincinnasite": {
     "criteria": {
       "has_stick": "2025-02-04 04:42:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-02-04 06:04:44 +0000"
     },
     "done": true
   },
@@ -2191,6 +2209,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2025-02-04 06:04:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2025-02-04 05:15:52 +0000"
@@ -3095,6 +3119,7 @@
     "criteria": {
       "minecraft:beach": "2025-02-04 05:52:59 +0000",
       "minecraft:river": "2025-02-04 04:45:39 +0000",
+      "minecraft:cold_ocean": "2025-02-04 06:04:32 +0000",
       "minecraft:forest": "2025-02-04 04:40:29 +0000",
       "minecraft:plains": "2025-02-04 05:39:23 +0000"
     },
@@ -4612,6 +4637,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-02-04 06:04:45 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/blossom_berry_jelly": {
     "criteria": {
       "has_tag_c_water_bottles": "2025-02-04 05:38:24 +0000"
@@ -4873,6 +4904,12 @@
   "stoneworks:recipes/building_blocks/andesite_shingle_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-04 04:58:49 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap/map": {
+    "criteria": {
+      "has_filled_map": "2025-02-04 06:06:45 +0000"
     },
     "done": true
   },
@@ -5964,6 +6001,12 @@
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2025-02-04 05:10:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-02-04 06:04:45 +0000"
     },
     "done": true
   },

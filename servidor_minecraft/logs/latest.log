@@ -4024,3 +4024,12 @@ java.lang.ClassCastException: class net.minecraft.world.level.block.AirBlock can
 [04Feb2025 05:58:47.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOSHEEEE has made the advancement [Voluntary Exile]
 [04Feb2025 05:59:40.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOSHEEEE has made the advancement [Best Friends Forever]
 [04Feb2025 06:01:53.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JOSHEEEE> 64
+[04Feb2025 06:06:59.913] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sirfafnir55) moved wrongly! 0.2677020149391467
+[04Feb2025 06:07:12.128] [pool-10-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_warped], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_mountains], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_badlands], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_jungle], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_swamp], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_mediterranean]] from pos BlockPos{x=363, y=71, z=85}
+[04Feb2025 06:07:14.766] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2222ms or 44 ticks behind
+[04Feb2025 06:09:41.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar has made the advancement [Sweet Dreams]
+[04Feb2025 06:09:48.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shinkar> zzzz
+[04Feb2025 06:09:55.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JOSHEEEE> zzzzzz
+[04Feb2025 06:11:10.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sirfafnir55 has made the advancement [Sweet Dreams]
+[04Feb2025 06:11:20.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JOSHEEEE> zzz
+[04Feb2025 06:12:08.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JOSHEEEE> a donde vamos

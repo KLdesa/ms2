@@ -575,6 +575,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-02-04 06:03:53 +0000"
+    },
+    "done": true
+  },
   "betterdungeons:root": {
     "criteria": {
       "always": "2025-02-04 04:51:27 +0000"
@@ -938,6 +944,12 @@
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2025-02-04 05:12:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_onion": "2025-02-04 06:05:06 +0000"
     },
     "done": true
   },
@@ -1801,6 +1813,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-04 06:05:06 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oak_dining_bench": {
     "criteria": {
       "has_oak_dining_bench": "2025-02-04 04:54:07 +0000"
@@ -2155,6 +2173,14 @@
     },
     "done": true
   },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "jacaranda_glade": "2025-02-04 06:07:26 +0000",
+      "dune_beach": "2025-02-04 06:07:27 +0000",
+      "gravel_beach": "2025-02-04 06:07:19 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2025-02-04 04:54:07 +0000"
@@ -2176,6 +2202,12 @@
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2025-02-04 04:54:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-04 06:03:53 +0000"
     },
     "done": true
   },
@@ -2533,6 +2565,7 @@
       "minecraft:river": "2025-02-04 04:57:06 +0000",
       "minecraft:cold_ocean": "2025-02-04 05:07:07 +0000",
       "minecraft:forest": "2025-02-04 04:51:28 +0000",
+      "minecraft:ocean": "2025-02-04 06:07:33 +0000",
       "minecraft:plains": "2025-02-04 05:55:34 +0000"
     },
     "done": false
@@ -2999,6 +3032,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-02-04 06:03:53 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/granite_pillar_trim": {
     "criteria": {
       "has_granite_pillar_trim": "2025-02-04 05:25:37 +0000"
@@ -3092,6 +3131,12 @@
   "betterend:recipes/decorations/end_lotus_taburet": {
     "criteria": {
       "has_stick": "2025-02-04 04:54:35 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "gravel_beach": "2025-02-04 06:07:19 +0000"
     },
     "done": true
   },
@@ -3422,6 +3467,12 @@
   "supplementaries:recipes/checker": {
     "criteria": {
       "has_cobblestone": "2025-02-04 05:10:04 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/spicy_noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-04 06:03:53 +0000"
     },
     "done": true
   },
@@ -3779,6 +3830,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-04 06:05:06 +0000"
+    },
+    "done": true
+  },
   "hearth_and_home:recipes/oak_lattice": {
     "criteria": {
       "has_item": "2025-02-04 04:54:07 +0000"
@@ -3881,6 +3938,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-04 06:05:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2025-02-04 05:12:50 +0000"
@@ -3938,6 +4001,12 @@
   "stoneworks:recipes/building_blocks/andesite_shingle_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-04 05:12:49 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap/map": {
+    "criteria": {
+      "has_filled_map": "2025-02-04 06:06:28 +0000"
     },
     "done": true
   },
@@ -4826,6 +4895,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-04 06:05:06 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/mossy_glowshroom_bar_stool": {
     "criteria": {
       "has_stick": "2025-02-04 04:54:35 +0000"
@@ -4892,6 +4967,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-04 06:03:53 +0000"
+    },
+    "done": true
+  },
   "backpacked:recipes/decorations/birch_backpack_shelf": {
     "criteria": {
       "has_stick": "2025-02-04 04:54:35 +0000"
@@ -4937,6 +5018,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2025-02-04 05:24:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-02-04 06:03:53 +0000"
     },
     "done": true
   },
@@ -5321,6 +5408,12 @@
   "advancednetherite:recipes/misc/netherite_iron_ingot": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/iron]": "2025-02-04 05:24:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2025-02-04 06:05:06 +0000"
     },
     "done": true
   },
