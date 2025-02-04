@@ -3969,3 +3969,17 @@ java.lang.ClassCastException: class net.minecraft.world.level.block.AirBlock can
 [04Feb2025 04:58:05.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar has made the advancement [Isn't It Iron Pick]
 [04Feb2025 05:00:57.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sirfafnir55 has completed the challenge [Free Willy]
 [04Feb2025 05:01:16.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sirfafnir55 has made the advancement [Hunt and Gather]
+[04Feb2025 05:01:47.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sirfafnir55 has reached the goal [Reach For The Sea-Stars!]
+[04Feb2025 05:01:48.863] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 05:02:37.217] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 05:02:44.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer has made the advancement [Acquire Hardware]
+[04Feb2025 05:03:08.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer has made the advancement [Isn't It Iron Pick]
+[04Feb2025 05:03:42.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOSHEEEE has made the advancement [Isn't It Iron Pick]
+[04Feb2025 05:04:54.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer was shot by Skeleton
+[04Feb2025 05:05:23.988] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WanderingTrader['Columbus'/10225, l='ServerLevel[world]', x=13.14, y=63.00, z=28.48] died: Columbus was slain by Sirfafnir55
+[04Feb2025 05:06:37.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar has made the advancement [Diamonds!]
+[04Feb2025 05:10:04.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sirfafnir55 has made the advancement [Stone Age]
+[04Feb2025 05:10:56.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar has made the advancement [Not Today, Thank You]
+[04Feb2025 05:11:15.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sirfafnir55 has made the advancement [Getting an Upgrade]
+[04Feb2025 05:11:21.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOSHEEEE has made the advancement [Suit Up]
+[04Feb2025 05:11:29.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOSHEEEE has made the advancement [Not Today, Thank You]

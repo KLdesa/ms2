@@ -431,6 +431,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_sword": "2025-02-04 05:01:15 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/mossy_glowshroom_sign": {
     "criteria": {
       "has_stick": "2025-02-04 04:54:35 +0000"
@@ -617,6 +623,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/misc/gold_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_golden_knife": "2025-02-04 05:01:16 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/jellyshroom_bar_stool": {
     "criteria": {
       "has_stick": "2025-02-04 04:54:36 +0000"
@@ -668,6 +680,18 @@
   "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
     "criteria": {
       "has_rotten_flesh": "2025-02-04 04:55:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_chicken": "2025-02-04 05:05:52 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/daub": {
+    "criteria": {
+      "has_clay_ball": "2025-02-04 05:07:53 +0000"
     },
     "done": true
   },
@@ -977,6 +1001,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "golden_knife": "2025-02-04 05:01:16 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/lucernia_ladder": {
     "criteria": {
       "has_stick": "2025-02-04 04:54:36 +0000"
@@ -1019,6 +1049,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_the_recipe": "2025-02-04 05:05:39 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/copy_terminite_upgrade": {
     "criteria": {
       "has_stick": "2025-02-04 04:54:35 +0000"
@@ -1046,6 +1082,12 @@
   "suppsquared:recipes/decorations/item_shelf_birch": {
     "criteria": {
       "has_planks": "2025-02-04 04:54:27 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_sword_repairing": {
+    "criteria": {
+      "has_golden_sword": "2025-02-04 05:01:15 +0000"
     },
     "done": true
   },
@@ -1311,6 +1353,7 @@
     "criteria": {
       "minecraft:beach": "2025-02-04 04:58:27 +0000",
       "minecraft:river": "2025-02-04 04:57:06 +0000",
+      "minecraft:cold_ocean": "2025-02-04 05:07:07 +0000",
       "minecraft:forest": "2025-02-04 04:51:28 +0000"
     },
     "done": false
@@ -1519,6 +1562,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-02-04 05:07:53 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/anchor_tree_sign": {
     "criteria": {
       "has_stick": "2025-02-04 04:54:36 +0000"
@@ -1579,6 +1628,12 @@
     },
     "done": true
   },
+  "crabbersdelight:main/reach_for_the_sea_stars": {
+    "criteria": {
+      "crab_claw": "2025-02-04 05:01:47 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/redstone/stalagnate_gate": {
     "criteria": {
       "has_stick": "2025-02-04 04:54:36 +0000"
@@ -1594,6 +1649,12 @@
   "betternether:recipes/decorations/nether_reed_ladder": {
     "criteria": {
       "has_stick": "2025-02-04 04:54:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/gold_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_golden_knife": "2025-02-04 05:01:16 +0000"
     },
     "done": true
   },
@@ -1642,6 +1703,12 @@
   "naturescompass:natures_compass_sapling": {
     "criteria": {
       "has_recipe": "2025-02-04 04:53:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-02-04 05:07:53 +0000"
     },
     "done": true
   },
@@ -1999,6 +2066,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/flint_and_steel_repairing": {
+    "criteria": {
+      "has_flint_and_steel": "2025-02-04 05:01:17 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/mangrove_taburet": {
     "criteria": {
       "has_stick": "2025-02-04 04:54:35 +0000"
@@ -2020,6 +2093,12 @@
   "betternether:recipes/decorations/cherry_chair": {
     "criteria": {
       "has_stick": "2025-02-04 04:54:35 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_boots_repairing": {
+    "criteria": {
+      "has_golden_boots": "2025-02-04 05:01:17 +0000"
     },
     "done": true
   },
@@ -2107,6 +2186,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2025-02-04 05:00:57 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/redstone/piston": {
     "criteria": {
       "has_tag_minecraft_planks": "2025-02-04 04:54:07 +0000"
@@ -2125,6 +2210,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2025-02-04 05:05:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2025-02-04 04:54:27 +0000"
@@ -2134,6 +2225,12 @@
   "supplementaries:recipes/lock_block": {
     "criteria": {
       "minecraft:planks": "2025-02-04 04:54:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_sword": "2025-02-04 05:01:15 +0000"
     },
     "done": true
   },
@@ -2486,6 +2583,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/misc/rift_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2025-02-04 05:01:17 +0000"
+    },
+    "done": true
+  },
   "backpacked:recipes/decorations/birch_backpack_shelf": {
     "criteria": {
       "has_stick": "2025-02-04 04:54:35 +0000"
@@ -2525,6 +2628,12 @@
   "bclib:recipes/combat/tag_shield": {
     "criteria": {
       "has_tag_minecraft_planks": "2025-02-04 04:54:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-02-04 05:05:52 +0000"
     },
     "done": true
   },
@@ -2660,6 +2769,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/wooden_shovel_repairing": {
+    "criteria": {
+      "has_wooden_shovel": "2025-02-04 05:06:05 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/umbrella_tree_bar_stool": {
     "criteria": {
       "has_stick": "2025-02-04 04:54:35 +0000"
@@ -2669,6 +2784,12 @@
   "twigs:recipes/tables/birch_table": {
     "criteria": {
       "has_bamboo": "2025-02-04 04:54:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2025-02-04 05:05:39 +0000"
     },
     "done": true
   },
