@@ -3889,3 +3889,59 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [04Feb2025 04:40:28.498] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
 [04Feb2025 04:40:39.054] [Server thread/INFO] [ping-wheel/]: Channel update: JOSHEEEE -> default
 [04Feb2025 04:40:39.058] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
+[04Feb2025 04:41:29.487] [Worker-Main-13/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Starting feature recycler...
+[04Feb2025 04:41:29.780] [Worker-Main-13/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Finished recycling features. Took 293ms
+[04Feb2025 04:42:13.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar has made the advancement [Stone Age]
+[04Feb2025 04:43:21.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar has made the advancement [Getting an Upgrade]
+[04Feb2025 04:43:49.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOSHEEEE has made the advancement [Stone Age]
+[04Feb2025 04:44:09.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOSHEEEE has made the advancement [Getting an Upgrade]
+[04Feb2025 04:44:17.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer has made the advancement [Stone Age]
+[04Feb2025 04:45:41.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer has made the advancement [Getting an Upgrade]
+[04Feb2025 04:45:46.865] [Server thread/ERROR] [net.minecraft.world.level.block.entity.BlockEntity/]: Failed to create block entity minecraft:banner
+java.lang.ClassCastException: class net.minecraft.world.level.block.AirBlock cannot be cast to class net.minecraft.world.level.block.AbstractBannerBlock (net.minecraft.world.level.block.AirBlock and net.minecraft.world.level.block.AbstractBannerBlock are in module minecraft@1.20.1 of loader 'TRANSFORMER' @7a02d760)
+	at net.minecraft.world.level.block.entity.BannerBlockEntity.<init>(BannerBlockEntity.java:42) ~[server-1.20.1-20230612.114412-srg.jar%23649!/:?]
+	at net.minecraft.world.level.block.entity.BlockEntityType.m_155264_(BlockEntityType.java:92) ~[server-1.20.1-20230612.114412-srg.jar%23649!/:?]
+	at net.minecraft.world.level.block.entity.BlockEntity.m_155236_(BlockEntity.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23649!/:?]
+	at java.util.Optional.map(Optional.java:260) ~[?:?]
+	at net.minecraft.world.level.block.entity.BlockEntity.m_155241_(BlockEntity.java:113) ~[server-1.20.1-20230612.114412-srg.jar%23649!/:?]
+	at net.minecraft.world.level.chunk.LevelChunk.m_62870_(LevelChunk.java:534) ~[server-1.20.1-20230612.114412-srg.jar%23649!/:?]
+	at net.minecraft.world.level.chunk.LevelChunk.m_5685_(LevelChunk.java:306) ~[server-1.20.1-20230612.114412-srg.jar%23649!/:?]
+	at net.minecraft.world.level.chunk.LevelChunk.m_7702_(LevelChunk.java:293) ~[server-1.20.1-20230612.114412-srg.jar%23649!/:?]
+	at net.minecraft.world.level.chunk.LevelChunk.m_62812_(LevelChunk.java:515) ~[server-1.20.1-20230612.114412-srg.jar%23649!/:?]
+	at net.minecraft.server.level.ChunkMap.m_214959_(ChunkMap.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23649!/:?]
+	at com.mojang.datafixers.util.Either$Left.ifLeft(Either.java:43) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at net.minecraft.server.level.ChunkMap.m_214929_(ChunkMap.java:746) ~[server-1.20.1-20230612.114412-srg.jar%23649!/:?]
+	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:646) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23649!/:?]
+	at net.minecraft.server.level.ServerChunkCache$MainThreadExecutor.m_6367_(ServerChunkCache.java:541) ~[server-1.20.1-20230612.114412-srg.jar%23649!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23649!/:?]
+	at net.minecraft.server.level.ServerChunkCache$MainThreadExecutor.m_7245_(ServerChunkCache.java:549) ~[server-1.20.1-20230612.114412-srg.jar%23649!/:?]
+	at net.minecraft.server.level.ServerChunkCache.m_8466_(ServerChunkCache.java:269) ~[server-1.20.1-20230612.114412-srg.jar%23649!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:758) ~[server-1.20.1-20230612.114412-srg.jar%23649!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23649!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23649!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23649!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23649!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23649!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[04Feb2025 04:45:46.879] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id minecraft:banner
+[04Feb2025 04:45:46.879] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:cave_air} but failed at location BlockPos{x=-251, y=-29, z=17}
+[04Feb2025 04:46:06.860] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Digigamerfer lost connection: Disconnected
+[04Feb2025 04:46:06.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer left the game
+[04Feb2025 04:46:06.860] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for d2e2f9d0-5f14-3e71-a1c1-1f34957f0684
+[04Feb2025 04:47:17.292] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Digigamerfer[/127.175.27.76:54973] logged in with entity id 2174 at (-22.562269950547037, 63.0, 30.998336703980616)
+[04Feb2025 04:47:17.298] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Digigamerfer
+[04Feb2025 04:47:17.298] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Digigamerfer
+[04Feb2025 04:47:17.299] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Digigamerfer
+[04Feb2025 04:47:17.299] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Digigamerfer
+[04Feb2025 04:47:17.301] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Digigamerfer
+[04Feb2025 04:47:17.303] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Digigamerfer
+[04Feb2025 04:47:17.303] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Digigamerfer
+[04Feb2025 04:47:17.315] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[04Feb2025 04:47:17.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer joined the game
+[04Feb2025 04:47:17.397] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for d2e2f9d0-5f14-3e71-a1c1-1f34957f0684
+[04Feb2025 04:47:17.404] [Server thread/INFO] [Jade/]: Syncing config to Digigamerfer (d2e2f9d0-5f14-3e71-a1c1-1f34957f0684)
+[04Feb2025 04:47:17.766] [Server thread/INFO] [ping-wheel/]: Channel update: Digigamerfer -> default
+[04Feb2025 04:47:17.767] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
+[04Feb2025 04:50:56.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOSHEEEE has made the advancement [Monster Hunter]

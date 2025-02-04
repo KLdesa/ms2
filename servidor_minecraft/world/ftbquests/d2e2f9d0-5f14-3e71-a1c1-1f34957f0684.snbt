@@ -1,0 +1,22 @@
+{
+	version: 1
+	uuid: "d2e2f9d05f143e71a1c11f34957f0684"
+	name: "Digigamerfer#d2e2f9d0"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		0470194500CBE26C: 1
+	}
+	started: {
+		1D4E5CDD59FFB7A0: 1738644050610L
+		2574E7CF699D5B45: 1738644050610L
+		0470194500CBE26C: 1738644050610L
+		0000000000000001: 1738644050610L
+	}
+	completed: {
+		2574E7CF699D5B45: 1738644050614L
+		0470194500CBE26C: 1738644050614L
+	}
+	claimed_rewards: { }
+	player_data: { }
+}
