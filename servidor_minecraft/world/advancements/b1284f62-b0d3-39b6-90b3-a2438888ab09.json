@@ -2033,11 +2033,13 @@
     "criteria": {
       "minecraft:pillager": "2025-02-05 03:17:56 +0000",
       "minecraft:skeleton": "2025-02-03 23:39:52 +0000",
+      "minecraft:ravager": "2025-02-05 03:40:46 +0000",
       "minecraft:vindicator": "2025-02-05 03:18:53 +0000",
       "minecraft:spider": "2025-02-05 02:34:39 +0000",
       "minecraft:creeper": "2025-02-04 05:31:03 +0000",
       "minecraft:witch": "2025-02-05 03:16:53 +0000",
       "minecraft:stray": "2025-02-05 03:13:05 +0000",
+      "minecraft:vex": "2025-02-05 03:42:27 +0000",
       "minecraft:zombie": "2025-02-03 23:39:37 +0000",
       "minecraft:zombie_villager": "2025-02-04 05:09:09 +0000"
     },
@@ -5551,11 +5553,23 @@
     },
     "done": true
   },
+  "delightful:recipes/campfire/roasted_acorn": {
+    "criteria": {
+      "roasted_acorn": "2025-02-05 03:50:02 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/spruce_dining_bench": {
     "criteria": {
       "has_spruce_dining_bench": "2025-02-05 03:38:15 +0000"
     },
     "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "sweet_berries": "2025-02-05 03:43:48 +0000"
+    },
+    "done": false
   },
   "aether:recipes/decorations/skyroot_cartography_table": {
     "criteria": {
@@ -5665,6 +5679,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-02-05 03:55:02 +0000"
+    },
+    "done": true
+  },
   "hearth_and_home:recipes/shoji": {
     "criteria": {
       "has_item": "2025-02-05 03:36:46 +0000"
@@ -5695,9 +5715,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/berry_jam_jar": {
+    "criteria": {
+      "has_berry_jam_jar": "2025-02-05 03:43:12 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/ash_brick": {
     "criteria": {
       "forge:ash": "2025-02-05 03:29:02 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/planter_rich": {
+    "criteria": {
+      "has_bone_meal": "2025-02-05 03:55:02 +0000"
     },
     "done": true
   },
@@ -5791,6 +5823,12 @@
     },
     "done": true
   },
+  "delightful:recipes/storage/acorn_storage_block": {
+    "criteria": {
+      "has_acorn": "2025-02-05 03:50:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2025-02-05 03:36:46 +0000"
@@ -5881,6 +5919,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-02-05 03:44:10 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/building_blocks/spruce_palisade": {
     "criteria": {
       "has_log": "2025-02-05 03:38:08 +0000"
@@ -5899,6 +5943,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/sweet_berry_cookie": {
+    "criteria": {
+      "has_sweet_berries": "2025-02-05 03:43:12 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/pie_crust": {
     "criteria": {
       "has_wheat": "2025-02-05 02:58:41 +0000"
@@ -5908,6 +5958,12 @@
   "handcrafted:recipes/misc/spruce_corner_trim": {
     "criteria": {
       "has_spruce_corner_trim": "2025-02-05 03:38:15 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/smelting/roasted_acorn": {
+    "criteria": {
+      "roasted_acorn": "2025-02-05 03:50:02 +0000"
     },
     "done": true
   },
@@ -5926,6 +5982,12 @@
   "farmersdelight:recipes/food/wheat_dough_from_eggs": {
     "criteria": {
       "has_wheat": "2025-02-05 02:58:41 +0000"
+    },
+    "done": true
+  },
+  "crabbersdelight:recipes/tools/bucket_of_clam_chum": {
+    "criteria": {
+      "has_bonemeal": "2025-02-05 03:55:02 +0000"
     },
     "done": true
   },
@@ -5950,6 +6012,18 @@
   "supplementaries:recipes/decorations/sign_post_spruce": {
     "criteria": {
       "has_planks": "2025-02-05 03:38:15 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/smoking/roasted_acorn": {
+    "criteria": {
+      "roasted_acorn": "2025-02-05 03:50:02 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/sweet_berry_jelly_potion": {
+    "criteria": {
+      "has_sweet_berries": "2025-02-05 03:43:12 +0000"
     },
     "done": true
   },
@@ -6019,6 +6093,12 @@
     },
     "done": true
   },
+  "mynethersdelight:recipes/building_blocks/letios_compost_from_bone_alt": {
+    "criteria": {
+      "has_bone_meal": "2025-02-05 03:55:02 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candy": {
     "criteria": {
       "has_paper": "2025-02-05 03:36:46 +0000"
@@ -6043,9 +6123,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-02-05 03:55:02 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/food/cooking/nut_butter_bottle": {
+    "criteria": {
+      "has_nuts": "2025-02-05 03:50:02 +0000"
+    },
+    "done": true
+  },
+  "crabbersdelight:recipes/tools/bucket_of_shrimp_chum": {
+    "criteria": {
+      "has_bonemeal": "2025-02-05 03:55:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2025-02-05 03:03:24 +0000"
+    },
+    "done": true
+  },
+  "crabbersdelight:recipes/tools/bucket_of_clawster_chum": {
+    "criteria": {
+      "has_bonemeal": "2025-02-05 03:55:02 +0000"
     },
     "done": true
   },
@@ -6064,6 +6168,12 @@
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2025-02-05 03:38:15 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/sweet_berry_jelly": {
+    "criteria": {
+      "has_sweet_berries": "2025-02-05 03:43:12 +0000"
     },
     "done": true
   },
@@ -6100,6 +6210,12 @@
   "blue_skies:recipes/building_blocks/trough": {
     "criteria": {
       "has_item": "2025-02-05 03:31:43 +0000"
+    },
+    "done": true
+  },
+  "crabbersdelight:recipes/tools/bucket_of_crab_chum": {
+    "criteria": {
+      "has_bonemeal": "2025-02-05 03:55:02 +0000"
     },
     "done": true
   },

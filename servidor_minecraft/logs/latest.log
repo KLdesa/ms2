@@ -4131,3 +4131,33 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [05Feb2025 03:42:52.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar was slain by Vex
 [05Feb2025 03:44:10.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar has made the advancement [Voluntary Exile]
 [05Feb2025 03:44:13.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar was killed by Evoker using magic
+[05Feb2025 03:45:30.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar was slain by Vex
+[05Feb2025 03:45:41.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sirfafnir55 was slain by Vex
+[05Feb2025 03:45:52.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar was killed by Evoker using magic
+[05Feb2025 03:46:12.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar was killed by Evoker using magic
+[05Feb2025 03:46:35.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar was slain by Vex
+[05Feb2025 03:46:45.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sirfafnir55 was slain by Vex
+[05Feb2025 03:47:35.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar was killed by Evoker using magic
+[05Feb2025 03:48:24.646] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Dana'/14657, l='ServerLevel[world]', x=-654.29, y=91.44, z=12.49] died, message: 'Dana went up in flames'
+[05Feb2025 03:48:24.647] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Dana'/14657, l='ServerLevel[world]', x=-654.29, y=91.44, z=12.49] died: Dana went up in flames
+[05Feb2025 03:48:42.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer was slain by Inquisitor
+[05Feb2025 03:49:01.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar was killed by Evoker using magic
+[05Feb2025 03:51:13.928] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JOSHEEEE[/127.134.46.10:35393] logged in with entity id 46782 at (366.2296534776389, 67.0, 378.30000001192093)
+[05Feb2025 03:51:13.934] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to JOSHEEEE
+[05Feb2025 03:51:13.934] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to JOSHEEEE
+[05Feb2025 03:51:13.935] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to JOSHEEEE
+[05Feb2025 03:51:13.935] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to JOSHEEEE
+[05Feb2025 03:51:13.936] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to JOSHEEEE
+[05Feb2025 03:51:13.939] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to JOSHEEEE
+[05Feb2025 03:51:13.939] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to JOSHEEEE
+[05Feb2025 03:51:13.951] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[05Feb2025 03:51:13.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOSHEEEE joined the game
+[05Feb2025 03:51:14.015] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 05c95e7d-3331-3e5a-9d76-5424e66cc84e
+[05Feb2025 03:51:14.021] [Server thread/INFO] [Jade/]: Syncing config to JOSHEEEE (05c95e7d-3331-3e5a-9d76-5424e66cc84e)
+[05Feb2025 03:51:29.359] [Server thread/INFO] [ping-wheel/]: Channel update: JOSHEEEE -> default
+[05Feb2025 03:51:29.360] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
+[05Feb2025 03:51:34.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sirfafnir55> xaero-waypoint:Villa coca cola:A:-660:95:24:8:false:0:Internal-overworld-waypoints
+[05Feb2025 03:51:44.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Digigamerfer> xaero-waypoint:Villa coca cola:A:-660:95:24:8:false:0:Internal-overworld-waypoints
+[05Feb2025 03:53:58.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOSHEEEE has made the advancement [Mine? Mine? Mine?]
+[05Feb2025 03:54:12.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer was shot by Stray
+[05Feb2025 03:54:45.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer was shot by Skeleton

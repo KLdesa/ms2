@@ -2473,8 +2473,10 @@
       "minecraft:vindicator": "2025-02-05 03:24:23 +0000",
       "minecraft:spider": "2025-02-04 05:30:37 +0000",
       "minecraft:creeper": "2025-02-05 02:32:04 +0000",
+      "minecraft:evoker": "2025-02-05 03:47:47 +0000",
       "minecraft:witch": "2025-02-05 03:30:01 +0000",
       "minecraft:stray": "2025-02-05 03:14:09 +0000",
+      "minecraft:vex": "2025-02-05 03:43:17 +0000",
       "minecraft:zombie": "2025-02-04 04:55:05 +0000",
       "minecraft:drowned": "2025-02-04 04:55:18 +0000",
       "minecraft:zombie_villager": "2025-02-05 02:50:15 +0000"
@@ -2790,6 +2792,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-02-05 03:18:42 +0000",
+      "sweet_berries": "2025-02-05 03:44:34 +0000",
       "cooked_beef": "2025-02-04 05:17:22 +0000",
       "apple": "2025-02-05 02:35:06 +0000",
       "golden_apple": "2025-02-04 05:51:20 +0000",
@@ -6887,6 +6890,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "sweet_berries": "2025-02-05 03:43:43 +0000"
+    },
+    "done": false
+  },
   "everycomp:recipes/decorations/fd/biomesoplenty/dead_cabinet": {
     "criteria": {
       "has_planks": "2025-02-05 03:11:41 +0000"
@@ -6914,6 +6923,12 @@
   "everycomp:recipes/decorations/hnhome/biomesoplenty/dead_vertical_trim": {
     "criteria": {
       "has_planks": "2025-02-05 03:11:41 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_cartography_table": {
+    "criteria": {
+      "has_paper": "2025-02-05 03:50:14 +0000"
     },
     "done": true
   },
@@ -7019,6 +7034,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sugar_cube": {
+    "criteria": {
+      "has_sugar": "2025-02-05 03:50:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2025-02-05 03:23:37 +0000"
@@ -7055,6 +7076,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-02-05 03:43:57 +0000"
+    },
+    "done": true
+  },
+  "hearth_and_home:recipes/shoji": {
+    "criteria": {
+      "has_item": "2025-02-05 03:50:14 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/af/biomesoplenty/dead_table": {
     "criteria": {
       "has_planks": "2025-02-05 03:11:41 +0000"
@@ -7079,6 +7112,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/berry_jam_jar": {
+    "criteria": {
+      "has_berry_jam_jar": "2025-02-05 03:43:29 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/hc/biomesoplenty/dead_dining_bench": {
     "criteria": {
       "has_planks": "2025-02-05 03:11:41 +0000"
@@ -7090,6 +7129,12 @@
       "in_witch_hut_oak": "2025-02-05 02:46:10 +0000"
     },
     "done": false
+  },
+  "supplementaries:recipes/ash_brick": {
+    "criteria": {
+      "forge:ash": "2025-02-05 03:55:10 +0000"
+    },
+    "done": true
   },
   "everycomp:recipes/decorations/q/biomesoplenty/dead_trapped_chest": {
     "criteria": {
@@ -7127,6 +7172,12 @@
     },
     "done": true
   },
+  "twigs:recipes/paper_lanterns/paper_lantern": {
+    "criteria": {
+      "has_item": "2025-02-05 03:50:14 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/sack": {
     "criteria": {
       "has_string": "2025-02-05 03:05:29 +0000"
@@ -7139,11 +7190,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-02-05 03:50:14 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/hc/biomesoplenty/dead_table": {
     "criteria": {
       "has_planks": "2025-02-05 03:11:41 +0000"
     },
     "done": true
+  },
+  "friendsandfoes:adventure/the_magicians": {
+    "criteria": {
+      "killed_evoker": "2025-02-05 03:47:47 +0000"
+    },
+    "done": false
   },
   "everycomp:recipes/building_blocks/db/biomesoplenty/dead_support": {
     "criteria": {
@@ -7193,6 +7256,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-02-05 03:50:14 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/spruce_chair": {
     "criteria": {
       "has_spruce_chair": "2025-02-05 03:23:37 +0000"
@@ -7208,6 +7277,12 @@
   "everycomp:recipes/decorations/q/biomesoplenty/hollow_dead_log": {
     "criteria": {
       "has_planks": "2025-02-05 03:11:41 +0000"
+    },
+    "done": true
+  },
+  "hearth_and_home:recipes/paper_lanterns": {
+    "criteria": {
+      "has_item": "2025-02-05 03:50:14 +0000"
     },
     "done": true
   },
@@ -7343,6 +7418,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/sweet_berry_cookie": {
+    "criteria": {
+      "has_sweet_berries": "2025-02-05 03:43:29 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/decorations/biomesoplenty/sign_post_dead": {
     "criteria": {
       "has_planks": "2025-02-05 03:11:41 +0000"
@@ -7373,6 +7454,12 @@
     },
     "done": true
   },
+  "crabbersdelight:recipes/tools/bucket_of_clam_chum": {
+    "criteria": {
+      "has_bonemeal": "2025-02-05 03:43:57 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/hnhome/biomesoplenty/dead_trim_1": {
     "criteria": {
       "has_planks": "2025-02-05 03:11:41 +0000"
@@ -7382,6 +7469,12 @@
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2025-02-05 03:23:28 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pancake_fd": {
+    "criteria": {
+      "has_sugar": "2025-02-05 03:50:50 +0000"
     },
     "done": true
   },
@@ -7400,6 +7493,12 @@
   "everycomp:recipes/decorations/hnhome/biomesoplenty/dead_lattice": {
     "criteria": {
       "has_planks": "2025-02-05 03:11:41 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/food/marshmallow_stick": {
+    "criteria": {
+      "has_sugar": "2025-02-05 03:50:50 +0000"
     },
     "done": true
   },
@@ -7433,6 +7532,18 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/charcoal_block": {
+    "criteria": {
+      "has_charcoal": "2025-02-05 03:49:59 +0000"
+    },
+    "done": true
+  },
+  "voidtotem:recipes/combat/totem_of_void_undying": {
+    "criteria": {
+      "has_totem": "2025-02-05 03:50:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/snow": {
     "criteria": {
       "has_snowball": "2025-02-05 03:24:55 +0000"
@@ -7448,6 +7559,12 @@
   "another_furniture:recipes/spruce_table": {
     "criteria": {
       "has_planks": "2025-02-05 03:23:37 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/sulphur_gunpowder": {
+    "criteria": {
+      "has_bone_meal": "2025-02-05 03:43:57 +0000"
     },
     "done": true
   },
@@ -7475,9 +7592,21 @@
     },
     "done": true
   },
+  "mynethersdelight:recipes/building_blocks/letios_compost_from_bone_alt": {
+    "criteria": {
+      "has_bone_meal": "2025-02-05 03:43:57 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/dead_sign": {
     "criteria": {
       "has_planks": "2025-02-05 03:11:41 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candy": {
+    "criteria": {
+      "has_paper": "2025-02-05 03:50:14 +0000"
     },
     "done": true
   },
@@ -7487,9 +7616,39 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/cave_pumpkin_pie": {
+    "criteria": {
+      "has_sugar": "2025-02-05 03:50:50 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/present": {
+    "criteria": {
+      "has_paper": "2025-02-05 03:50:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-02-05 03:43:57 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/building_blocks/db/biomesoplenty/dead_palisade": {
     "criteria": {
       "has_planks": "2025-02-05 03:11:41 +0000"
+    },
+    "done": true
+  },
+  "crabbersdelight:recipes/tools/bucket_of_shrimp_chum": {
+    "criteria": {
+      "has_bonemeal": "2025-02-05 03:43:57 +0000"
+    },
+    "done": true
+  },
+  "crabbersdelight:recipes/tools/bucket_of_clawster_chum": {
+    "criteria": {
+      "has_bonemeal": "2025-02-05 03:43:57 +0000"
     },
     "done": true
   },
@@ -7556,6 +7715,12 @@
   "biomesoplenty:recipes/redstone/dead_door": {
     "criteria": {
       "has_planks": "2025-02-05 03:11:41 +0000"
+    },
+    "done": true
+  },
+  "crabbersdelight:recipes/tools/bucket_of_crab_chum": {
+    "criteria": {
+      "has_bonemeal": "2025-02-05 03:43:57 +0000"
     },
     "done": true
   },
