@@ -5617,6 +5617,12 @@
     },
     "done": true
   },
+  "crabbersdelight:recipes/building_blocks/tropical_fish_barrel": {
+    "criteria": {
+      "has_tropical_fish": "2025-02-05 05:23:16 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/sign_post_oak": {
     "criteria": {
       "has_oak_sign": "2025-02-05 04:45:54 +0000"
@@ -5863,6 +5869,12 @@
     },
     "done": true
   },
+  "crabbersdelight:recipes/food/cooked_tropical_fish": {
+    "criteria": {
+      "cooked_tropical_fish": "2025-02-05 05:23:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2025-02-05 04:57:55 +0000"
@@ -5896,6 +5908,12 @@
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2025-02-05 03:38:15 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/iron_axe_repairing": {
+    "criteria": {
+      "has_iron_axe": "2025-02-05 05:16:03 +0000"
     },
     "done": true
   },
@@ -6349,6 +6367,12 @@
     },
     "done": true
   },
+  "crabbersdelight:recipes/food/cooked_tropical_fish_from_campfire_cooking": {
+    "criteria": {
+      "cooked_tropical_fish": "2025-02-05 05:23:16 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/crimson_bookshelf": {
     "criteria": {
       "has_book": "2025-02-05 04:57:55 +0000"
@@ -6487,6 +6511,12 @@
     },
     "done": true
   },
+  "crabbersdelight:recipes/food/cooked_tropical_fish_from_smoking": {
+    "criteria": {
+      "cooked_tropical_fish": "2025-02-05 05:23:16 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/anchor_tree_bookshelf": {
     "criteria": {
       "has_book": "2025-02-05 04:57:55 +0000"
@@ -6604,6 +6634,12 @@
   "oceansdelight:recipes/oceansdelight/stuffed_cod": {
     "criteria": {
       "has_cod": "2025-02-05 05:03:43 +0000"
+    },
+    "done": true
+  },
+  "crabbersdelight:recipes/building_blocks/pufferfish_barrel": {
+    "criteria": {
+      "has_pufferfish": "2025-02-05 05:22:51 +0000"
     },
     "done": true
   },

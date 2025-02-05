@@ -77,6 +77,7 @@
       "minecraft:forest": "2025-02-04 04:40:29 +0000",
       "minecraft:ocean": "2025-02-05 03:55:31 +0000",
       "minecraft:flower_forest": "2025-02-04 06:22:53 +0000",
+      "minecraft:deep_dark": "2025-02-05 05:21:58 +0000",
       "minecraft:plains": "2025-02-04 05:39:23 +0000"
     },
     "done": false
@@ -2905,6 +2906,7 @@
       "minecraft:spider": "2025-02-04 05:08:32 +0000",
       "minecraft:creeper": "2025-02-04 04:57:01 +0000",
       "minecraft:evoker": "2025-02-05 04:32:31 +0000",
+      "quark:forgotten": "2025-02-05 05:23:44 +0000",
       "minecraft:enderman": "2025-02-04 05:37:47 +0000",
       "minecraft:vex": "2025-02-05 04:43:10 +0000",
       "minecraft:zombie": "2025-02-04 04:50:56 +0000",
@@ -7223,6 +7225,12 @@
     },
     "done": true
   },
+  "advancednetherite:recipes/misc/lodestone": {
+    "criteria": {
+      "has_chiseled_stone_bricks": "2025-02-05 05:20:03 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/building_blocks/smooth_lumiere_from_lumiere_block_stonecutting": {
     "criteria": {
       "has_lumiere_block": "2025-02-05 04:48:23 +0000"
@@ -7481,6 +7489,12 @@
     },
     "done": true
   },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2025-02-05 05:21:58 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/rhyolite/rhyolite_wall": {
     "criteria": {
       "has_item": "2025-02-05 04:55:14 +0000"
@@ -7556,6 +7570,12 @@
   "alexsmobs:alexsmobs/seagull_steal": {
     "criteria": {
       "ex": "2025-02-05 03:53:58 +0000"
+    },
+    "done": true
+  },
+  "quark:get_forgotten_hat": {
+    "criteria": {
+      "get_forgotten_hat": "2025-02-05 05:24:32 +0000"
     },
     "done": true
   },
@@ -7796,6 +7816,12 @@
   "galosphere:recipes/building_blocks/lumiere_brick_slab_from_lumiere_block_stonecutting": {
     "criteria": {
       "has_lumiere_block": "2025-02-05 04:48:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-02-05 05:22:18 +0000"
     },
     "done": true
   },
