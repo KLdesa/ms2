@@ -5785,9 +5785,21 @@
     },
     "done": true
   },
+  "galosphere:recipes/misc/silver_ingot_from_blasting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-02-05 05:32:47 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/transportation/willow_chest_boat": {
     "criteria": {
       "has_tag_c_chest": "2025-02-05 02:51:34 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/decorations/allurite_lamp": {
+    "criteria": {
+      "has_allurite_shard": "2025-02-05 05:34:30 +0000"
     },
     "done": true
   },
@@ -5929,6 +5941,12 @@
     },
     "done": true
   },
+  "galosphere:recipes/building_blocks/allurite_block": {
+    "criteria": {
+      "has_allurite_shard": "2025-02-05 05:34:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/crystal_planks_to_skyroot_bookshelf": {
     "criteria": {
       "has_book": "2025-02-05 04:57:55 +0000"
@@ -5986,6 +6004,12 @@
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2025-02-05 03:36:46 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/decorations/lumiere_lamp": {
+    "criteria": {
+      "has_lumiere_shard": "2025-02-05 05:35:19 +0000"
     },
     "done": true
   },
@@ -6325,6 +6349,12 @@
     },
     "done": true
   },
+  "galosphere:recipes/building_blocks/lumiere_block": {
+    "criteria": {
+      "has_lumiere_shard": "2025-02-05 05:35:19 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/building_blocks/end_lotus_bookshelf": {
     "criteria": {
       "has_book": "2025-02-05 04:57:55 +0000"
@@ -6469,6 +6499,12 @@
     },
     "done": true
   },
+  "galosphere:recipes/misc/silver_ingot_from_smelting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-02-05 05:32:47 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/efficiency_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-02-05 04:57:55 +0000"
@@ -6604,6 +6640,12 @@
   "betternether:recipes/transportation/stalagnate_chest_boat": {
     "criteria": {
       "has_tag_c_chest": "2025-02-05 02:51:34 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/misc/raw_silver_block": {
+    "criteria": {
+      "has_raw_silver": "2025-02-05 05:32:47 +0000"
     },
     "done": true
   },
