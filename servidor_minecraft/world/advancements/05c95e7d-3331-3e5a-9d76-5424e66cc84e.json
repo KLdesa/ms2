@@ -2723,6 +2723,7 @@
       "maple_woods": "2025-02-05 04:09:10 +0000",
       "aspen_glade": "2025-02-05 03:55:07 +0000",
       "dune_beach": "2025-02-04 06:13:24 +0000",
+      "seasonal_forest": "2025-02-05 06:03:39 +0000",
       "lavender_field": "2025-02-04 06:13:45 +0000",
       "pumpkin_patch": "2025-02-04 04:49:17 +0000",
       "gravel_beach": "2025-02-05 03:55:13 +0000",
@@ -7144,7 +7145,8 @@
   },
   "adorabuild_structures:tireless_legs": {
     "criteria": {
-      "oak_house_small_3": "2025-02-04 06:22:56 +0000"
+      "oak_house_small_3": "2025-02-04 06:22:56 +0000",
+      "spruce_house_small_1": "2025-02-05 06:01:41 +0000"
     },
     "done": false
   },
@@ -7238,6 +7240,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "potato": "2025-02-05 05:57:43 +0000"
+    },
+    "done": false
+  },
   "twigs:recipes/rhyolite/rhyolite_stairs_stonecutting": {
     "criteria": {
       "has_item": "2025-02-05 04:55:14 +0000"
@@ -7283,6 +7291,12 @@
   "stoneworks:recipes/building_blocks/diorite_shingle_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-02-05 04:54:32 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/iron_hoe_repairing": {
+    "criteria": {
+      "has_iron_hoe": "2025-02-05 05:57:14 +0000"
     },
     "done": true
   },
@@ -7538,6 +7552,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-02-05 05:56:53 +0000"
+    },
+    "done": true
+  },
   "hearth_and_home:recipes/shoji": {
     "criteria": {
       "has_item": "2025-02-05 04:28:18 +0000"
@@ -7595,6 +7615,12 @@
   "stoneworks:recipes/building_blocks/diorite_plate_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-02-05 04:54:32 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/planter_rich": {
+    "criteria": {
+      "has_bone_meal": "2025-02-05 05:56:53 +0000"
     },
     "done": true
   },
@@ -7880,6 +7906,12 @@
     },
     "done": true
   },
+  "repurposed_structures:ruins": {
+    "criteria": {
+      "in_ruins_land_icy": "2025-02-05 06:00:55 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-02-05 05:38:51 +0000"
@@ -8063,6 +8095,12 @@
   "supplementaries:recipes/gold_trapdoor": {
     "criteria": {
       "has_gold_ingot": "2025-02-05 05:38:51 +0000"
+    },
+    "done": true
+  },
+  "crabbersdelight:recipes/tools/bucket_of_clam_chum": {
+    "criteria": {
+      "has_bonemeal": "2025-02-05 05:56:53 +0000"
     },
     "done": true
   },
@@ -8264,6 +8302,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/sulphur_gunpowder": {
+    "criteria": {
+      "has_bone_meal": "2025-02-05 05:56:53 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_diorite_brick_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-02-05 04:54:32 +0000"
@@ -8315,6 +8359,12 @@
   "minecraft:recipes/misc/black_dye": {
     "criteria": {
       "has_ink_sac": "2025-02-05 03:54:35 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/building_blocks/letios_compost_from_bone_alt": {
+    "criteria": {
+      "has_bone_meal": "2025-02-05 05:56:53 +0000"
     },
     "done": true
   },
@@ -8390,6 +8440,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-02-05 05:56:53 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/diorite_paver_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-02-05 04:54:32 +0000"
@@ -8399,6 +8455,12 @@
   "galosphere:recipes/building_blocks/allurite_brick_stairs_from_allurite_block_stonecutting": {
     "criteria": {
       "has_allurite_block": "2025-02-05 04:48:21 +0000"
+    },
+    "done": true
+  },
+  "crabbersdelight:recipes/tools/bucket_of_shrimp_chum": {
+    "criteria": {
+      "has_bonemeal": "2025-02-05 05:56:53 +0000"
     },
     "done": true
   },
@@ -8417,6 +8479,12 @@
   "handcrafted:recipes/misc/diorite_pillar_trim": {
     "criteria": {
       "has_diorite_pillar_trim": "2025-02-05 04:54:32 +0000"
+    },
+    "done": true
+  },
+  "crabbersdelight:recipes/tools/bucket_of_clawster_chum": {
+    "criteria": {
+      "has_bonemeal": "2025-02-05 05:56:53 +0000"
     },
     "done": true
   },
@@ -8471,6 +8539,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-02-05 03:57:00 +0000"
+    },
+    "done": true
+  },
+  "crabbersdelight:recipes/tools/bucket_of_crab_chum": {
+    "criteria": {
+      "has_bonemeal": "2025-02-05 05:56:53 +0000"
     },
     "done": true
   },

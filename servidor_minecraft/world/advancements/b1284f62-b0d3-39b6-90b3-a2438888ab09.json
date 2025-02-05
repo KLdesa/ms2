@@ -75,7 +75,9 @@
       "minecraft:snowy_taiga": "2025-02-05 02:46:08 +0000",
       "minecraft:cold_ocean": "2025-02-04 06:13:02 +0000",
       "minecraft:forest": "2025-02-03 23:30:44 +0000",
+      "minecraft:ice_spikes": "2025-02-05 06:04:53 +0000",
       "minecraft:ocean": "2025-02-05 02:36:27 +0000",
+      "minecraft:snowy_beach": "2025-02-05 06:02:38 +0000",
       "minecraft:plains": "2025-02-04 05:49:36 +0000"
     },
     "done": false
@@ -6637,6 +6639,12 @@
     },
     "done": true
   },
+  "adorabuild_structures:treasure_seeker": {
+    "criteria": {
+      "oak_tree_1": "2025-02-05 06:02:48 +0000"
+    },
+    "done": false
+  },
   "betternether:recipes/transportation/stalagnate_chest_boat": {
     "criteria": {
       "has_tag_c_chest": "2025-02-05 02:51:34 +0000"
@@ -6777,7 +6785,8 @@
   },
   "adorabuild_structures:tireless_legs": {
     "criteria": {
-      "spruce_house_large_1": "2025-02-05 04:58:24 +0000"
+      "spruce_house_large_1": "2025-02-05 04:58:24 +0000",
+      "oak_tree_1": "2025-02-05 06:02:48 +0000"
     },
     "done": false
   },

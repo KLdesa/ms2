@@ -4315,3 +4315,14 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [05Feb2025 05:42:51.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOSHEEEE has completed the challenge [It Spreads]
 [05Feb2025 05:42:53.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOSHEEEE has made the advancement [Sneak 100]
 [05Feb2025 05:43:03.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOSHEEEE was shot by Skeleton
+[05Feb2025 05:59:06.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sirfafnir55 was slain by Vex
+[05Feb2025 05:59:12.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shinkar> vaia
+[05Feb2025 06:00:19.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sirfafnir55 was slain by Vex
+[05Feb2025 06:00:21.391] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-462, y=63, z=-536}
+[05Feb2025 06:04:20.296] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity friendsandfoes:iceologer but it was marked as removed already
+[05Feb2025 06:04:20.296] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity friendsandfoes:iceologer but it was marked as removed already
+[05Feb2025 06:04:20.297] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity friendsandfoes:iceologer but it was marked as removed already
+[05Feb2025 06:04:20.297] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity friendsandfoes:iceologer but it was marked as removed already
+[05Feb2025 06:07:02.191] [Worker-Main-9/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[05Feb2025 06:07:30.626] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1058, y=-18, z=423} but found not block entity block Block{minecraft:cave_air} at location
+[05Feb2025 06:07:30.627] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:cave_air} but failed at location BlockPos{x=-1058, y=-18, z=423}
