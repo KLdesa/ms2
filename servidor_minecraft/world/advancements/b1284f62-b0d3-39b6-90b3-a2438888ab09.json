@@ -73,6 +73,7 @@
       "minecraft:beach": "2025-02-04 06:12:46 +0000",
       "minecraft:river": "2025-02-03 23:39:49 +0000",
       "minecraft:snowy_plains": "2025-02-05 02:57:07 +0000",
+      "minecraft:dripstone_caves": "2025-02-05 06:31:58 +0000",
       "minecraft:snowy_taiga": "2025-02-05 02:46:08 +0000",
       "minecraft:cold_ocean": "2025-02-04 06:13:02 +0000",
       "minecraft:forest": "2025-02-03 23:30:44 +0000",
@@ -6831,6 +6832,12 @@
       "has_pufferfish": "2025-02-05 05:22:51 +0000"
     },
     "done": true
+  },
+  "repurposed_structures:mineshafts": {
+    "criteria": {
+      "in_mineshaft_icy": "2025-02-05 06:31:38 +0000"
+    },
+    "done": false
   },
   "blue_skies:recipes/building_blocks/maple_bookshelf": {
     "criteria": {

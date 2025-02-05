@@ -8218,6 +8218,18 @@
     },
     "done": true
   },
+  "hearth_and_home:recipes/thatch": {
+    "criteria": {
+      "has_item": "2025-02-05 06:35:07 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/diamond_pickaxe_repairing": {
+    "criteria": {
+      "has_diamond_pickaxe": "2025-02-05 06:32:17 +0000"
+    },
+    "done": true
+  },
   "advancednetherite:recipes/misc/lodestone": {
     "criteria": {
       "has_chiseled_stone_bricks": "2025-02-05 05:38:25 +0000"
@@ -8314,6 +8326,12 @@
     },
     "done": true
   },
+  "incubation:recipes/decorations/hay_nest": {
+    "criteria": {
+      "has_wheat": "2025-02-05 06:35:07 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/white_stool": {
     "criteria": {
       "has_wool": "2025-02-05 06:05:56 +0000"
@@ -8359,6 +8377,12 @@
   "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
     "criteria": {
       "has_iron_knife": "2025-02-05 05:12:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-05 06:25:32 +0000"
     },
     "done": true
   },
@@ -8488,6 +8512,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-05 06:25:32 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/building_blocks/smooth_lumiere": {
     "criteria": {
       "has_lumiere_block": "2025-02-05 05:28:42 +0000"
@@ -8518,9 +8548,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-02-05 06:35:07 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/building_blocks/lumiere_stairs_from_lumiere_block_stonecutting": {
     "criteria": {
       "has_lumiere_block": "2025-02-05 05:28:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2025-02-05 06:35:07 +0000"
     },
     "done": true
   },
@@ -8539,6 +8581,12 @@
   "comforts:sleeping_bag_gray": {
     "criteria": {
       "has_gray_wool": "2025-02-05 05:46:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-05 06:25:32 +0000"
     },
     "done": true
   },
@@ -8602,6 +8650,18 @@
     },
     "done": false
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-02-05 06:35:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-02-05 06:35:07 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/fodder": {
     "criteria": {
       "has_hay_block": "2025-02-05 05:17:12 +0000"
@@ -8632,6 +8692,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/stone_tile": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-05 06:25:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_sheet_from_light_gray_dye": {
     "criteria": {
       "has_light_gray_sheet": "2025-02-05 05:47:17 +0000"
@@ -8641,6 +8707,18 @@
   "minecraft:recipes/decorations/gray_bed": {
     "criteria": {
       "has_gray_wool": "2025-02-05 05:46:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-05 06:25:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-05 06:25:32 +0000"
     },
     "done": true
   },
@@ -8662,9 +8740,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2025-02-05 06:35:07 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/white_cushion": {
     "criteria": {
       "has_white_cushion": "2025-02-05 06:05:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-05 06:25:32 +0000"
     },
     "done": true
   },
@@ -8719,6 +8809,12 @@
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2025-02-05 05:17:12 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stonecutting/stone_tile": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-05 06:25:32 +0000"
     },
     "done": true
   },
