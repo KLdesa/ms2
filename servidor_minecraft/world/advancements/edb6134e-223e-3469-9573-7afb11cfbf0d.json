@@ -7692,7 +7692,8 @@
   },
   "friendsandfoes:adventure/the_magicians": {
     "criteria": {
-      "killed_evoker": "2025-02-05 03:47:47 +0000"
+      "killed_evoker": "2025-02-05 03:47:47 +0000",
+      "killed_illusioner": "2025-02-05 06:37:39 +0000"
     },
     "done": false
   },
@@ -8194,6 +8195,12 @@
     },
     "done": true
   },
+  "twigs:recipes/rhyolite/rhyolite_stairs_stonecutting": {
+    "criteria": {
+      "has_item": "2025-02-05 06:43:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/orange_sheet_from_orange_dye": {
     "criteria": {
       "has_orange_sheet": "2025-02-05 05:47:17 +0000"
@@ -8302,9 +8309,21 @@
     },
     "done": true
   },
+  "twigs:recipes/rhyolite/rhyolite_slab": {
+    "criteria": {
+      "has_item": "2025-02-05 06:43:08 +0000"
+    },
+    "done": true
+  },
   "aether_redux:recipes/combat/veridium_dart": {
     "criteria": {
       "has_feather": "2025-02-05 05:21:37 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/polished_rhyolite_bricks_from_rhyolite_stonecutting": {
+    "criteria": {
+      "has_item": "2025-02-05 06:43:08 +0000"
     },
     "done": true
   },
@@ -8368,6 +8387,12 @@
     },
     "done": true
   },
+  "twigs:recipes/rhyolite/polished_rhyolite_stonecutting": {
+    "criteria": {
+      "has_item": "2025-02-05 06:43:08 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/building_blocks/smooth_lumiere_stairs_from_lumiere_block_stonecutting": {
     "criteria": {
       "has_lumiere_block": "2025-02-05 05:28:42 +0000"
@@ -8377,6 +8402,12 @@
   "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
     "criteria": {
       "has_iron_knife": "2025-02-05 05:12:31 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite_wall": {
+    "criteria": {
+      "has_item": "2025-02-05 06:43:08 +0000"
     },
     "done": true
   },
@@ -8458,6 +8489,18 @@
     },
     "done": true
   },
+  "twigs:recipes/rhyolite/polished_rhyolite": {
+    "criteria": {
+      "has_item": "2025-02-05 06:43:08 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite_stairs": {
+    "criteria": {
+      "has_item": "2025-02-05 06:43:08 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_white": {
     "criteria": {
       "has_white_wool": "2025-02-05 06:05:56 +0000"
@@ -8485,6 +8528,12 @@
   "galosphere:recipes/building_blocks/lumiere_brick_stairs_from_lumiere_block_stonecutting": {
     "criteria": {
       "has_lumiere_block": "2025-02-05 05:28:42 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite_wall_stonecutting": {
+    "criteria": {
+      "has_item": "2025-02-05 06:43:08 +0000"
     },
     "done": true
   },
@@ -8611,6 +8660,12 @@
   "another_furniture:recipes/gray_stool": {
     "criteria": {
       "has_wool": "2025-02-05 05:46:57 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite_slab_stonecutting": {
+    "criteria": {
+      "has_item": "2025-02-05 06:43:08 +0000"
     },
     "done": true
   },
@@ -8761,6 +8816,12 @@
   "galosphere:recipes/building_blocks/lumiere_slab": {
     "criteria": {
       "has_lumiere_block": "2025-02-05 05:28:42 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/kill_illusioner": {
+    "criteria": {
+      "killed_illusioner": "2025-02-05 06:37:39 +0000"
     },
     "done": true
   },
