@@ -2042,6 +2042,7 @@
       "minecraft:vindicator": "2025-02-05 03:18:53 +0000",
       "minecraft:spider": "2025-02-05 02:34:39 +0000",
       "minecraft:creeper": "2025-02-04 05:31:03 +0000",
+      "minecraft:evoker": "2025-02-05 07:00:14 +0000",
       "minecraft:witch": "2025-02-05 03:16:53 +0000",
       "minecraft:stray": "2025-02-05 03:13:05 +0000",
       "minecraft:vex": "2025-02-05 03:42:27 +0000",
@@ -5682,6 +5683,12 @@
     },
     "done": true
   },
+  "advancednetherite:recipes/misc/lodestone": {
+    "criteria": {
+      "has_chiseled_stone_bricks": "2025-02-05 07:03:51 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/infinity_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-02-05 04:57:55 +0000"
@@ -6108,6 +6115,12 @@
     },
     "done": true
   },
+  "friendsandfoes:adventure/the_magicians": {
+    "criteria": {
+      "killed_evoker": "2025-02-05 07:00:14 +0000"
+    },
+    "done": false
+  },
   "betterend:recipes/misc/fire_aspect_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-02-05 04:57:55 +0000"
@@ -6195,6 +6208,12 @@
   "another_furniture:recipes/spruce_shutter": {
     "criteria": {
       "has_slab": "2025-02-05 03:31:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template": {
+    "criteria": {
+      "has_vex_armor_trim_smithing_template": "2025-02-05 07:01:12 +0000"
     },
     "done": true
   },
@@ -6798,6 +6817,12 @@
     },
     "done": true
   },
+  "voidtotem:recipes/combat/totem_of_void_undying": {
+    "criteria": {
+      "has_totem": "2025-02-05 07:02:40 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/misc/raw_silver_block": {
     "criteria": {
       "has_raw_silver": "2025-02-05 05:32:47 +0000"
@@ -7076,6 +7101,12 @@
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2025-02-05 05:01:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-02-05 07:01:12 +0000"
     },
     "done": true
   },

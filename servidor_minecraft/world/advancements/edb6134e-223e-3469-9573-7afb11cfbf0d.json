@@ -8351,6 +8351,12 @@
     },
     "done": true
   },
+  "betterdungeons:small_dungeon": {
+    "criteria": {
+      "in_better_monster_room": "2025-02-05 07:02:23 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/white_stool": {
     "criteria": {
       "has_wool": "2025-02-05 06:05:56 +0000"
@@ -8647,6 +8653,7 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
+      "in_better_monster_room": "2025-02-05 07:02:23 +0000",
       "in_better_spider_dungeon": "2025-02-05 05:37:38 +0000"
     },
     "done": false
