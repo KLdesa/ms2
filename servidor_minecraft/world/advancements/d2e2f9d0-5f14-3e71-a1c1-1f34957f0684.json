@@ -68,8 +68,10 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-02-05 01:59:58 +0000",
+      "minecraft:frozen_river": "2025-02-05 02:13:32 +0000",
       "minecraft:beach": "2025-02-04 05:00:33 +0000",
       "minecraft:river": "2025-02-05 01:50:59 +0000",
+      "minecraft:snowy_plains": "2025-02-05 02:16:20 +0000",
       "minecraft:snowy_taiga": "2025-02-05 02:09:06 +0000",
       "minecraft:cold_ocean": "2025-02-04 05:14:38 +0000",
       "minecraft:forest": "2025-02-04 04:40:07 +0000"
@@ -2888,6 +2890,7 @@
       "minecraft:creeper": "2025-02-04 05:08:04 +0000",
       "minecraft:slime": "2025-02-04 05:27:34 +0000",
       "minecraft:cave_spider": "2025-02-04 05:32:10 +0000",
+      "minecraft:stray": "2025-02-05 02:11:14 +0000",
       "minecraft:zombie": "2025-02-04 04:54:15 +0000"
     },
     "done": false
@@ -5190,6 +5193,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/flint_block": {
+    "criteria": {
+      "has_flint": "2025-02-05 02:14:39 +0000"
+    },
+    "done": true
+  },
   "hearth_and_home:recipes/chimneys": {
     "criteria": {
       "has_item": "2025-02-05 01:55:01 +0000"
@@ -5238,6 +5247,12 @@
     },
     "done": true
   },
+  "repurposed_structures:pyramids": {
+    "criteria": {
+      "in_pyramid_snowy": "2025-02-05 02:10:55 +0000"
+    },
+    "done": false
+  },
   "incubation:recipes/food/fried_egg_from_campfire_cooking": {
     "criteria": {
       "has_eggs": "2025-02-05 02:04:49 +0000"
@@ -5277,6 +5292,12 @@
   "incubation:recipes/building_blocks/chicken_egg_crate": {
     "criteria": {
       "has_egg": "2025-02-05 02:04:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-02-05 02:14:39 +0000"
     },
     "done": true
   },
@@ -5342,6 +5363,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "muskeg": "2025-02-05 02:16:23 +0000",
       "maple_woods": "2025-02-05 02:06:03 +0000",
       "snowy_maple_woods": "2025-02-05 02:08:17 +0000"
     },
@@ -5368,6 +5390,12 @@
   "farmersdelight:recipes/decorations/stove": {
     "criteria": {
       "has_campfire": "2025-02-05 01:55:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-02-05 02:14:38 +0000"
     },
     "done": true
   },
@@ -5437,6 +5465,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-02-05 02:14:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-02-05 02:14:38 +0000"
+    },
+    "done": true
+  },
   "incubation:recipes/food/scrambled_eggs": {
     "criteria": {
       "has_bowl": "2025-02-05 01:55:31 +0000"
@@ -5446,6 +5486,18 @@
   "crabbersdelight:recipes/building_blocks/crab_barrel": {
     "criteria": {
       "has_crab": "2025-02-05 01:49:45 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bone_meal_from_seashells": {
+    "criteria": {
+      "has_item": "2025-02-05 02:13:36 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_fletching_table": {
+    "criteria": {
+      "has_flint": "2025-02-05 02:14:39 +0000"
     },
     "done": true
   },
@@ -5470,6 +5522,12 @@
   "blue_skies:recipes/food/cake_compat": {
     "criteria": {
       "has_item": "2025-02-05 02:04:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-02-05 02:14:39 +0000"
     },
     "done": true
   },
