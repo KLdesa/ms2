@@ -4333,3 +4333,9 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [05Feb2025 06:14:30.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOSHEEEE has made the advancement [Frosted Prison]
 [05Feb2025 06:17:01.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOSHEEEE was blown up by Creeper
 [05Feb2025 06:17:45.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JOSHEEEE> xaero-waypoint:castillo:C:-1324:~:265:13:false:0:Internal-overworld-waypoints
+[05Feb2025 06:21:26.209] [Worker-Main-16/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[05Feb2025 06:22:58.066] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GatekeeperEntity['Lizbeth'/118211, l='ServerLevel[world]', x=-1026.35, y=95.16, z=-329.66] died: Lizbeth was impaled by Marauder
+[05Feb2025 06:23:43.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOSHEEEE was slain by Royal Draugr
+[05Feb2025 06:28:09.723] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JOSHEEEE lost connection: Disconnected
+[05Feb2025 06:28:09.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOSHEEEE left the game
+[05Feb2025 06:28:09.724] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 05c95e7d-3331-3e5a-9d76-5424e66cc84e

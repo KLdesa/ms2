@@ -67,6 +67,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-02-05 06:21:32 +0000",
       "minecraft:taiga": "2025-02-05 02:42:41 +0000",
       "minecraft:frozen_river": "2025-02-05 04:55:24 +0000",
       "minecraft:beach": "2025-02-04 06:12:46 +0000",
@@ -5661,6 +5662,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/onion": {
+    "criteria": {
+      "has_onion_crate": "2025-02-05 06:15:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2025-02-05 03:31:50 +0000"
@@ -5763,6 +5770,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2025-02-05 06:15:32 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/spruce_drawer": {
     "criteria": {
       "has_spruce_drawer": "2025-02-05 03:38:15 +0000"
@@ -5793,9 +5806,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/tomato": {
+    "criteria": {
+      "has_tomato_crate": "2025-02-05 06:15:53 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/spruce_cupboard": {
     "criteria": {
       "has_spruce_cupboard": "2025-02-05 03:38:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-02-05 06:15:32 +0000"
     },
     "done": true
   },
@@ -6030,6 +6055,12 @@
   "aether:recipes/misc/book_of_lore": {
     "criteria": {
       "has_book": "2025-02-05 04:57:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-02-05 06:15:32 +0000"
     },
     "done": true
   },
@@ -6912,7 +6943,9 @@
   "adorabuild_structures:tireless_legs": {
     "criteria": {
       "spruce_house_large_1": "2025-02-05 04:58:24 +0000",
-      "oak_tree_1": "2025-02-05 06:02:48 +0000"
+      "oak_house_small_3": "2025-02-05 06:19:28 +0000",
+      "oak_tree_1": "2025-02-05 06:02:48 +0000",
+      "spruce_house_small_2": "2025-02-05 06:25:06 +0000"
     },
     "done": false
   },
@@ -6949,6 +6982,12 @@
   "crabbersdelight:recipes/building_blocks/salmon_barrel": {
     "criteria": {
       "has_salmon": "2025-02-05 05:05:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/harvest_ropelogged_tomato": {
+    "criteria": {
+      "harvest_ropelogged_tomato": "2025-02-05 06:16:44 +0000"
     },
     "done": true
   },
