@@ -3464,6 +3464,7 @@
       "baked_potato": "2025-02-05 06:19:45 +0000",
       "apple": "2025-02-05 05:27:20 +0000",
       "bread": "2025-02-05 03:58:12 +0000",
+      "golden_apple": "2025-02-05 17:01:42 +0000",
       "cooked_chicken": "2025-02-04 05:08:46 +0000"
     },
     "done": false
@@ -8686,6 +8687,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-02-05 16:51:26 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/kitchen_hood_pipe": {
     "criteria": {
       "has_kitchen_hood_pipe": "2025-02-05 16:42:19 +0000"
@@ -8719,6 +8726,18 @@
   "handcrafted:recipes/misc/kitchen_hood": {
     "criteria": {
       "has_kitchen_hood": "2025-02-05 16:42:19 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/service_bell": {
+    "criteria": {
+      "has_nugget": "2025-02-05 16:51:26 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce_soul": {
+    "criteria": {
+      "has_iron_nugget": "2025-02-05 16:51:26 +0000"
     },
     "done": true
   },

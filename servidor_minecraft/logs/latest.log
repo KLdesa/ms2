@@ -3867,3 +3867,4 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [05Feb2025 16:30:41.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOSHEEEE was slain by Royal Draugr
 [05Feb2025 16:32:35.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOSHEEEE was slain by Draugr
 [05Feb2025 16:35:59.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOSHEEEE was slain by Draugr
+[05Feb2025 17:03:38.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOSHEEEE tried to swim in lava
