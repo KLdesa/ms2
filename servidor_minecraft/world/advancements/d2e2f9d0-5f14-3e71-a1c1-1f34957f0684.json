@@ -70,6 +70,7 @@
       "minecraft:taiga": "2025-02-05 01:59:58 +0000",
       "minecraft:beach": "2025-02-04 05:00:33 +0000",
       "minecraft:river": "2025-02-05 01:50:59 +0000",
+      "minecraft:snowy_taiga": "2025-02-05 02:09:06 +0000",
       "minecraft:cold_ocean": "2025-02-04 05:14:38 +0000",
       "minecraft:forest": "2025-02-04 04:40:07 +0000"
     },
@@ -2883,6 +2884,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-02-04 05:25:57 +0000",
+      "minecraft:spider": "2025-02-05 02:03:44 +0000",
       "minecraft:creeper": "2025-02-04 05:08:04 +0000",
       "minecraft:slime": "2025-02-04 05:27:34 +0000",
       "minecraft:cave_spider": "2025-02-04 05:32:10 +0000",
@@ -5176,6 +5178,18 @@
     },
     "done": true
   },
+  "deep_aether:recipes/food/skyroot_milk_bucket_cake": {
+    "criteria": {
+      "has_quail_egg": "2025-02-05 02:04:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-02-05 02:04:49 +0000"
+    },
+    "done": true
+  },
   "hearth_and_home:recipes/chimneys": {
     "criteria": {
       "has_item": "2025-02-05 01:55:01 +0000"
@@ -5188,9 +5202,27 @@
     },
     "done": true
   },
+  "deep_aether:recipes/food/cake": {
+    "criteria": {
+      "has_quail_egg": "2025-02-05 02:04:49 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/place_cooking_pot": {
     "criteria": {
       "cooking_pot": "2025-02-05 01:55:06 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rocky_dirt": {
+    "criteria": {
+      "has_item": "2025-02-05 02:07:11 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/food/skyroot_milk_bucket_cake": {
+    "criteria": {
+      "has_egg": "2025-02-05 02:04:49 +0000"
     },
     "done": true
   },
@@ -5203,6 +5235,12 @@
   "crabbersdelight:main/cook_crustaceans": {
     "criteria": {
       "crab": "2025-02-05 01:55:37 +0000"
+    },
+    "done": true
+  },
+  "incubation:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "has_eggs": "2025-02-05 02:04:49 +0000"
     },
     "done": true
   },
@@ -5230,6 +5268,18 @@
     },
     "done": true
   },
+  "incubation:recipes/food/fried_egg": {
+    "criteria": {
+      "has_eggs": "2025-02-05 02:04:49 +0000"
+    },
+    "done": true
+  },
+  "incubation:recipes/building_blocks/chicken_egg_crate": {
+    "criteria": {
+      "has_egg": "2025-02-05 02:04:49 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/place_campfire": {
     "criteria": {
       "campfire": "2025-02-05 01:55:03 +0000"
@@ -5248,6 +5298,12 @@
     },
     "done": true
   },
+  "incubation:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "has_eggs": "2025-02-05 02:04:49 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oven": {
     "criteria": {
       "has_oven": "2025-02-05 01:53:54 +0000"
@@ -5257,6 +5313,12 @@
   "farmersdelight:recipes/food/nether_salad": {
     "criteria": {
       "has_bowl": "2025-02-05 01:55:31 +0000"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_quail_egg": "2025-02-05 02:04:49 +0000"
     },
     "done": true
   },
@@ -5278,6 +5340,13 @@
     },
     "done": true
   },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "maple_woods": "2025-02-05 02:06:03 +0000",
+      "snowy_maple_woods": "2025-02-05 02:08:17 +0000"
+    },
+    "done": false
+  },
   "aether:recipes/misc/aether_iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_ring": "2025-02-05 01:56:58 +0000"
@@ -5290,9 +5359,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-05 02:04:49 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/stove": {
     "criteria": {
       "has_campfire": "2025-02-05 01:55:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-02-05 02:04:49 +0000"
     },
     "done": true
   },
@@ -5320,15 +5401,33 @@
     },
     "done": true
   },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "maple_woods": "2025-02-05 02:06:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/brick": {
     "criteria": {
       "has_clay_ball": "2025-02-05 01:51:10 +0000"
     },
     "done": true
   },
+  "twigs:recipes/cobblestone_from_pebble": {
+    "criteria": {
+      "has_item": "2025-02-05 02:07:11 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/misc/ice_pendant_from_freezing": {
     "criteria": {
       "has_pendant": "2025-02-05 01:57:03 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pancake_fd": {
+    "criteria": {
+      "forge:eggs": "2025-02-05 02:04:49 +0000"
     },
     "done": true
   },
@@ -5353,6 +5452,24 @@
   "hearth_and_home:recipes/cobblestone_bricks": {
     "criteria": {
       "has_item": "2025-02-05 01:55:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-02-05 02:04:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-02-05 02:04:49 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/food/cake_compat": {
+    "criteria": {
+      "has_item": "2025-02-05 02:04:49 +0000"
     },
     "done": true
   },
