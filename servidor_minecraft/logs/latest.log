@@ -4304,3 +4304,9 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [05Feb2025 05:04:24.911] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
 [05Feb2025 05:06:35.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sirfafnir55 was slain by Vindicator
 [05Feb2025 05:06:46.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sirfafnir55 was slain by Vindicator
+[05Feb2025 05:09:40.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sirfafnir55 has made the advancement [Ol' Betsy]
+[05Feb2025 05:10:48.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar has made the advancement [What a Deal!]
+[05Feb2025 05:10:56.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOSHEEEE has made the advancement [A Bone to Pick]
+[05Feb2025 05:15:08.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JOSHEEEE> zzz
+[05Feb2025 05:15:16.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shinkar> zz
+[05Feb2025 05:15:57.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sirfafnir55 has made the advancement [Who's the Pillager Now?]
