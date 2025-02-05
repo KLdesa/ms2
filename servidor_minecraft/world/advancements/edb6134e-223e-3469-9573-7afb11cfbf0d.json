@@ -2798,7 +2798,8 @@
       "apple": "2025-02-05 02:35:06 +0000",
       "golden_apple": "2025-02-04 05:51:20 +0000",
       "bread": "2025-02-05 02:30:48 +0000",
-      "cooked_chicken": "2025-02-04 05:05:52 +0000"
+      "cooked_chicken": "2025-02-04 05:05:52 +0000",
+      "carrot": "2025-02-05 04:31:21 +0000"
     },
     "done": false
   },
@@ -7602,6 +7603,12 @@
   "everycomp:recipes/decorations/hc/biomesoplenty/dead_pillar_trim": {
     "criteria": {
       "has_planks": "2025-02-05 03:11:41 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/iron_shovel_repairing": {
+    "criteria": {
+      "has_iron_shovel": "2025-02-05 04:27:29 +0000"
     },
     "done": true
   },

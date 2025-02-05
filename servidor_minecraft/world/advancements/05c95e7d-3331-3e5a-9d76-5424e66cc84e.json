@@ -2899,8 +2899,10 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-02-04 05:11:49 +0000",
+      "minecraft:vindicator": "2025-02-05 04:30:56 +0000",
       "minecraft:spider": "2025-02-04 05:08:32 +0000",
       "minecraft:creeper": "2025-02-04 04:57:01 +0000",
+      "minecraft:evoker": "2025-02-05 04:32:31 +0000",
       "minecraft:enderman": "2025-02-04 05:37:47 +0000",
       "minecraft:zombie": "2025-02-04 04:50:56 +0000",
       "minecraft:zombie_villager": "2025-02-04 05:35:53 +0000"
@@ -7140,6 +7142,12 @@
     },
     "done": false
   },
+  "aether:recipes/decorations/skyroot_cartography_table": {
+    "criteria": {
+      "has_paper": "2025-02-05 04:28:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-02-05 03:57:00 +0000"
@@ -7176,6 +7184,12 @@
     },
     "done": true
   },
+  "hearth_and_home:recipes/shoji": {
+    "criteria": {
+      "has_item": "2025-02-05 04:28:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-02-05 03:57:00 +0000"
@@ -7185,6 +7199,12 @@
   "handcrafted:recipes/misc/berry_jam_jar": {
     "criteria": {
       "has_berry_jam_jar": "2025-02-05 04:20:58 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/paper_lanterns/paper_lantern": {
+    "criteria": {
+      "has_item": "2025-02-05 04:28:18 +0000"
     },
     "done": true
   },
@@ -7200,11 +7220,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-02-05 04:28:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-02-05 03:57:00 +0000"
     },
     "done": true
+  },
+  "friendsandfoes:adventure/the_magicians": {
+    "criteria": {
+      "killed_evoker": "2025-02-05 04:32:31 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
@@ -7215,6 +7247,18 @@
   "alexsmobs:alexsmobs/seagull_steal": {
     "criteria": {
       "ex": "2025-02-05 03:53:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-02-05 04:28:18 +0000"
+    },
+    "done": true
+  },
+  "hearth_and_home:recipes/paper_lanterns": {
+    "criteria": {
+      "has_item": "2025-02-05 04:28:18 +0000"
     },
     "done": true
   },
@@ -7266,6 +7310,12 @@
     },
     "done": true
   },
+  "voidtotem:recipes/combat/totem_of_void_undying": {
+    "criteria": {
+      "has_totem": "2025-02-05 04:33:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-02-05 03:57:00 +0000"
@@ -7293,6 +7343,18 @@
   "minecraft:recipes/misc/black_dye": {
     "criteria": {
       "has_ink_sac": "2025-02-05 03:54:35 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candy": {
+    "criteria": {
+      "has_paper": "2025-02-05 04:28:18 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/present": {
+    "criteria": {
+      "has_paper": "2025-02-05 04:28:18 +0000"
     },
     "done": true
   },
