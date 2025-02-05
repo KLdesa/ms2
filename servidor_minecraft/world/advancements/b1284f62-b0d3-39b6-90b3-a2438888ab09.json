@@ -5529,6 +5529,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-02-05 03:03:24 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/transportation/nether_mushroom_chest_boat": {
     "criteria": {
       "has_tag_c_chest": "2025-02-05 02:51:34 +0000"
@@ -5568,6 +5574,12 @@
   "decorative_blocks:recipes/decorations/brazier": {
     "criteria": {
       "has_bar": "2025-02-05 02:53:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2025-02-05 03:03:48 +0000"
     },
     "done": true
   },
@@ -5655,6 +5667,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-02-05 03:03:24 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/transportation/rubeus_chest_boat": {
     "criteria": {
       "has_tag_c_chest": "2025-02-05 02:51:34 +0000"
@@ -5694,6 +5712,12 @@
   "betternether:recipes/transportation/wart_chest_boat": {
     "criteria": {
       "has_tag_c_chest": "2025-02-05 02:51:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-02-05 03:03:24 +0000"
     },
     "done": true
   },

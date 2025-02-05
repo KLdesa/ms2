@@ -6026,9 +6026,27 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sign_post_oak": {
+    "criteria": {
+      "has_oak_sign": "2025-02-05 03:04:33 +0000"
+    },
+    "done": true
+  },
   "crabbersdelight:main/reach_for_the_sea_stars": {
     "criteria": {
       "crab_claw": "2025-02-05 02:59:30 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2025-02-05 03:02:11 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2025-02-05 03:01:34 +0000"
     },
     "done": true
   },
