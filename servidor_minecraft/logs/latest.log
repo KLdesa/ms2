@@ -3864,3 +3864,6 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [05Feb2025 16:21:17.540] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13402ms or 268 ticks behind
 [05Feb2025 16:25:57.060] [Server thread/INFO] [TerraBlenderFix/]: Optimizing surface rules
 [05Feb2025 16:28:46.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOSHEEEE was slain by Aptrgangr
+[05Feb2025 16:30:41.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOSHEEEE was slain by Royal Draugr
+[05Feb2025 16:32:35.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOSHEEEE was slain by Draugr
+[05Feb2025 16:35:59.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOSHEEEE was slain by Draugr
