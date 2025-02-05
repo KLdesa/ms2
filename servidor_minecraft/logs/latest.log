@@ -4045,3 +4045,14 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [05Feb2025 02:52:14.421] [Server thread/INFO] [Jade/]: Syncing config to Digigamerfer (d2e2f9d0-5f14-3e71-a1c1-1f34957f0684)
 [05Feb2025 02:52:14.825] [Server thread/INFO] [ping-wheel/]: Channel update: Digigamerfer -> default
 [05Feb2025 02:52:14.825] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
+[05Feb2025 02:54:39.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer has made the advancement [This Must be a Sign!]
+[05Feb2025 02:56:21.745] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity friendsandfoes:iceologer but it was marked as removed already
+[05Feb2025 02:56:21.745] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity friendsandfoes:iceologer but it was marked as removed already
+[05Feb2025 02:56:21.746] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity friendsandfoes:iceologer but it was marked as removed already
+[05Feb2025 02:56:21.746] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity friendsandfoes:iceologer but it was marked as removed already
+[05Feb2025 02:58:52.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sirfafnir55 has made the advancement [This Must be a Sign!]
+[05Feb2025 02:59:02.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer has completed the challenge [Overkill]
+[05Feb2025 02:59:30.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer has reached the goal [Reach For The Sea-Stars!]
+[05Feb2025 03:01:08.827] [pool-10-thread-4/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_snowy_slopes], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_swedish], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_nilotic], ResourceKey[minecraft:worldgen/structure / blue_skies:village_crystal_dunes], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_cherry], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_savanna_plateau], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_giant_taiga]] from pos BlockPos{x=-875, y=99, z=27}
+[05Feb2025 03:01:34.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer has completed the challenge [Free Willy]
+[05Feb2025 03:02:11.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer has made the advancement [Alex's Mobs]
