@@ -6979,6 +6979,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/crossbow_repairing": {
+    "criteria": {
+      "has_crossbow": "2025-02-05 05:40:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2025-02-05 03:38:15 +0000"
