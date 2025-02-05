@@ -7149,6 +7149,7 @@
   "adorabuild_structures:tireless_legs": {
     "criteria": {
       "spruce_house_medium_1": "2025-02-05 06:11:04 +0000",
+      "prison_small_1": "2025-02-05 16:41:20 +0000",
       "oak_house_small_3": "2025-02-04 06:22:56 +0000",
       "oak_hut_1": "2025-02-05 06:05:53 +0000",
       "spruce_house_small_1": "2025-02-05 06:01:41 +0000"
@@ -8676,6 +8677,48 @@
   "minecraft:recipes/decorations/snow": {
     "criteria": {
       "has_snowball": "2025-02-05 06:26:04 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/misc/silver_upgrade_smithing_template": {
+    "criteria": {
+      "has_silver_upgrade_smithing_template": "2025-02-05 16:42:09 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/kitchen_hood_pipe": {
+    "criteria": {
+      "has_kitchen_hood_pipe": "2025-02-05 16:42:19 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/brazier": {
+    "criteria": {
+      "has_bar": "2025-02-05 16:42:19 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/iron_ladder": {
+    "criteria": {
+      "has_iron_bars": "2025-02-05 16:42:19 +0000"
+    },
+    "done": true
+  },
+  "illagerinvasion:recipes/misc/platinum_sheet": {
+    "criteria": {
+      "has_platinum_chunk": "2025-02-05 16:43:04 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/soul_brazier": {
+    "criteria": {
+      "has_bar": "2025-02-05 16:42:19 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/kitchen_hood": {
+    "criteria": {
+      "has_kitchen_hood": "2025-02-05 16:42:19 +0000"
     },
     "done": true
   },
