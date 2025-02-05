@@ -2715,6 +2715,7 @@
     "criteria": {
       "cooked_porkchop": "2025-02-04 04:49:14 +0000",
       "cooked_mutton": "2025-02-04 06:11:53 +0000",
+      "sweet_berries": "2025-02-05 03:56:31 +0000",
       "cooked_beef": "2025-02-04 06:11:58 +0000",
       "bread": "2025-02-04 06:03:13 +0000"
     },
@@ -5571,6 +5572,12 @@
     },
     "done": false
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-02-05 04:01:07 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/skyroot_cartography_table": {
     "criteria": {
       "has_paper": "2025-02-05 03:36:46 +0000"
@@ -5727,6 +5734,12 @@
     },
     "done": true
   },
+  "aether:recipes/building_blocks/obsidian_from_bucket_freezing": {
+    "criteria": {
+      "has_lava_bucket": "2025-02-05 04:01:07 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/planter_rich": {
     "criteria": {
       "has_bone_meal": "2025-02-05 03:55:02 +0000"
@@ -5874,6 +5887,12 @@
   "handcrafted:recipes/misc/wood_plate": {
     "criteria": {
       "has_wood_plate": "2025-02-05 03:31:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-02-05 03:56:35 +0000"
     },
     "done": true
   },
@@ -6051,9 +6070,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-02-05 03:56:35 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/spruce_table": {
     "criteria": {
       "has_planks": "2025-02-05 03:38:15 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/hotcream": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-05 04:01:07 +0000"
     },
     "done": true
   },

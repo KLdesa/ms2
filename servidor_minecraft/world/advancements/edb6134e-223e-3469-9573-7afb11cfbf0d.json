@@ -6860,6 +6860,12 @@
     },
     "done": true
   },
+  "deep_aether:recipes/food/skyroot_milk_bucket_cake": {
+    "criteria": {
+      "has_quail_egg": "2025-02-05 03:59:02 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/tables/spruce_table": {
     "criteria": {
       "has_bamboo": "2025-02-05 03:23:37 +0000"
@@ -6869,6 +6875,12 @@
   "handcrafted:recipes/misc/spruce_table": {
     "criteria": {
       "has_spruce_table": "2025-02-05 03:23:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-02-05 03:59:02 +0000"
     },
     "done": true
   },
@@ -6905,6 +6917,12 @@
   "delightful:recipes/cooking/animal_oil_bottle": {
     "criteria": {
       "has_animal_fat": "2025-02-05 02:53:17 +0000"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/food/cake": {
+    "criteria": {
+      "has_quail_egg": "2025-02-05 03:59:02 +0000"
     },
     "done": true
   },
@@ -6992,6 +7010,12 @@
     },
     "done": true
   },
+  "aether:recipes/food/skyroot_milk_bucket_cake": {
+    "criteria": {
+      "has_egg": "2025-02-05 03:59:02 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/q/biomesoplenty/dead_chest": {
     "criteria": {
       "has_planks": "2025-02-05 03:11:41 +0000"
@@ -7027,6 +7051,12 @@
       "in_pyramid_snowy": "2025-02-05 03:12:50 +0000"
     },
     "done": false
+  },
+  "incubation:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "has_eggs": "2025-02-05 03:59:02 +0000"
+    },
+    "done": true
   },
   "handcrafted:recipes/misc/spruce_drawer": {
     "criteria": {
@@ -7073,6 +7103,18 @@
   "everycomp:recipes/decorations/hc/biomesoplenty/dead_nightstand": {
     "criteria": {
       "has_planks": "2025-02-05 03:11:41 +0000"
+    },
+    "done": true
+  },
+  "incubation:recipes/food/fried_egg": {
+    "criteria": {
+      "has_eggs": "2025-02-05 03:59:02 +0000"
+    },
+    "done": true
+  },
+  "incubation:recipes/building_blocks/chicken_egg_crate": {
+    "criteria": {
+      "has_egg": "2025-02-05 03:59:02 +0000"
     },
     "done": true
   },
@@ -7160,6 +7202,12 @@
     },
     "done": true
   },
+  "incubation:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "has_eggs": "2025-02-05 03:59:02 +0000"
+    },
+    "done": true
+  },
   "delightful:recipes/candle_from_animal_fat": {
     "criteria": {
       "has_fat": "2025-02-05 02:53:17 +0000"
@@ -7187,6 +7235,12 @@
   "galosphere:recipes/combat/silver_bomb": {
     "criteria": {
       "has_gunpowder": "2025-02-05 03:22:42 +0000"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_quail_egg": "2025-02-05 03:59:02 +0000"
     },
     "done": true
   },
@@ -7229,6 +7283,18 @@
   "handcrafted:recipes/misc/spruce_couch": {
     "criteria": {
       "has_spruce_couch": "2025-02-05 03:23:37 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/aether_iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_gloves": "2025-02-05 04:05:25 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_gloves_repairing": {
+    "criteria": {
+      "has_iron_gloves": "2025-02-05 04:05:25 +0000"
     },
     "done": true
   },
@@ -7298,6 +7364,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-02-05 03:59:02 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/building_blocks/spruce_support": {
     "criteria": {
       "has_plank": "2025-02-05 03:23:37 +0000"
@@ -7334,6 +7406,12 @@
     },
     "done": true
   },
+  "aether:recipes/misc/aether_iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_gloves": "2025-02-05 04:05:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2025-02-05 02:49:17 +0000"
@@ -7343,6 +7421,12 @@
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-02-05 03:05:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-05 03:59:02 +0000"
     },
     "done": true
   },
@@ -7496,6 +7580,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-02-05 03:57:25 +0000"
+    },
+    "done": true
+  },
   "delightful:recipes/food/marshmallow_stick": {
     "criteria": {
       "has_sugar": "2025-02-05 03:50:50 +0000"
@@ -7547,6 +7637,12 @@
   "minecraft:recipes/decorations/snow": {
     "criteria": {
       "has_snowball": "2025-02-05 03:24:55 +0000"
+    },
+    "done": true
+  },
+  "incubation:recipes/food/scrambled_eggs": {
+    "criteria": {
+      "has_eggs": "2025-02-05 03:59:02 +0000"
     },
     "done": true
   },
@@ -7634,6 +7730,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-02-05 03:59:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-02-05 03:59:02 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/building_blocks/db/biomesoplenty/dead_palisade": {
     "criteria": {
       "has_planks": "2025-02-05 03:11:41 +0000"
@@ -7643,6 +7751,12 @@
   "crabbersdelight:recipes/tools/bucket_of_shrimp_chum": {
     "criteria": {
       "has_bonemeal": "2025-02-05 03:43:57 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/food/cake_compat": {
+    "criteria": {
+      "has_item": "2025-02-05 03:59:02 +0000"
     },
     "done": true
   },
