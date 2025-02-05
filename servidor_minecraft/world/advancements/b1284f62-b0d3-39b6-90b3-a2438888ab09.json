@@ -5667,6 +5667,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/place_cooking_pot": {
+    "criteria": {
+      "cooking_pot": "2025-02-05 06:10:22 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/infinity_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-02-05 04:57:55 +0000"
@@ -5703,6 +5709,12 @@
     },
     "done": true
   },
+  "aether:recipes/building_blocks/blue_ice_freezing": {
+    "criteria": {
+      "has_water_bucket": "2025-02-05 06:09:56 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/bamboo_spikes": {
     "criteria": {
       "minecraft:wooden_slabs": "2025-02-05 03:31:43 +0000"
@@ -5712,6 +5724,12 @@
   "betterend:recipes/misc/fire_protection_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-02-05 04:57:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_onion": "2025-02-05 06:11:23 +0000"
     },
     "done": true
   },
@@ -5760,6 +5778,12 @@
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2025-02-05 03:38:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/tomato_sauce": {
+    "criteria": {
+      "has_tomato": "2025-02-05 06:11:23 +0000"
     },
     "done": true
   },
@@ -5919,6 +5943,18 @@
     },
     "done": true
   },
+  "supplementaries:recipes/pedestal": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-05 06:08:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/tomato_crate": {
+    "criteria": {
+      "has_tomato": "2025-02-05 06:11:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2025-02-05 03:38:15 +0000"
@@ -5940,6 +5976,12 @@
   "betterend:recipes/building_blocks/pythadendron_bookshelf": {
     "criteria": {
       "has_book": "2025-02-05 04:57:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-05 06:11:23 +0000"
     },
     "done": true
   },
@@ -6003,6 +6045,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-05 06:08:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2025-02-05 03:36:46 +0000"
@@ -6042,6 +6090,12 @@
   "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
       "has_salmon": "2025-02-05 05:05:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-02-05 06:08:00 +0000"
     },
     "done": true
   },
@@ -6273,6 +6327,12 @@
     },
     "done": true
   },
+  "aether:recipes/building_blocks/packed_ice_freezing": {
+    "criteria": {
+      "has_water_bucket": "2025-02-05 06:09:56 +0000"
+    },
+    "done": true
+  },
   "bclib:recipes/decorations/tag_shulker_box": {
     "criteria": {
       "has_tag_c_chest": "2025-02-05 02:51:34 +0000"
@@ -6360,6 +6420,12 @@
   "betterend:recipes/building_blocks/end_lotus_bookshelf": {
     "criteria": {
       "has_book": "2025-02-05 04:57:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-05 06:08:00 +0000"
     },
     "done": true
   },
@@ -6465,6 +6531,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/shadow_berry_jelly": {
+    "criteria": {
+      "has_tag_c_water_bottles": "2025-02-05 06:09:56 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/wheat_dough_from_eggs": {
     "criteria": {
       "has_wheat": "2025-02-05 02:58:41 +0000"
@@ -6537,6 +6609,12 @@
     },
     "done": true
   },
+  "aether:recipes/building_blocks/ice_from_bucket_freezing": {
+    "criteria": {
+      "has_water_bucket": "2025-02-05 06:09:56 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/decorations/sign_post_spruce": {
     "criteria": {
       "has_planks": "2025-02-05 03:38:15 +0000"
@@ -6585,6 +6663,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-05 06:08:00 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/sweet_berry_jelly_potion": {
     "criteria": {
       "has_sweet_berries": "2025-02-05 03:43:12 +0000"
@@ -6594,6 +6678,18 @@
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2025-02-05 03:03:24 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/blossom_berry_jelly": {
+    "criteria": {
+      "has_tag_c_water_bottles": "2025-02-05 06:09:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-05 06:11:23 +0000"
     },
     "done": true
   },
@@ -6612,6 +6708,12 @@
   "blue_skies:recipes/building_blocks/lunar_bookshelf": {
     "criteria": {
       "has_item": "2025-02-05 04:57:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-05 06:11:23 +0000"
     },
     "done": true
   },
@@ -6675,6 +6777,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-05 06:08:00 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/impaling_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-02-05 04:57:55 +0000"
@@ -6729,6 +6837,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-05 06:11:23 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/fodder": {
     "criteria": {
       "has_hay_block": "2025-02-05 02:58:26 +0000"
@@ -6759,9 +6873,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-05 06:08:00 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candy": {
     "criteria": {
       "has_paper": "2025-02-05 03:36:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-02-05 06:09:56 +0000"
     },
     "done": true
   },
@@ -6799,6 +6925,12 @@
   "aether:recipes/decorations/skyroot_fletching_table": {
     "criteria": {
       "has_flint": "2025-02-05 05:01:14 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stone_tile": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-05 06:08:00 +0000"
     },
     "done": true
   },
@@ -6847,6 +6979,18 @@
   "crabbersdelight:recipes/tools/bucket_of_shrimp_chum": {
     "criteria": {
       "has_bonemeal": "2025-02-05 03:55:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-05 06:08:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-05 06:08:00 +0000"
     },
     "done": true
   },
@@ -6901,6 +7045,12 @@
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2025-02-05 05:10:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-05 06:08:00 +0000"
     },
     "done": true
   },
@@ -6964,6 +7114,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/misc/tomato_seeds": {
+    "criteria": {
+      "has_tomato": "2025-02-05 06:11:23 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/trough": {
     "criteria": {
       "has_item": "2025-02-05 03:31:43 +0000"
@@ -6988,6 +7144,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/stonecutting/stone_tile": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-05 06:08:00 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/crossbow_repairing": {
     "criteria": {
       "has_crossbow": "2025-02-05 05:40:04 +0000"
@@ -6997,6 +7159,12 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2025-02-05 03:38:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2025-02-05 06:11:23 +0000"
     },
     "done": true
   },

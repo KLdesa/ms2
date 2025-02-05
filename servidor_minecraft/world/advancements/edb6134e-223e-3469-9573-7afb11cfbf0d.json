@@ -8188,6 +8188,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/white_sheet": {
+    "criteria": {
+      "has_white_sheet": "2025-02-05 06:05:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/orange_sheet_from_orange_dye": {
     "criteria": {
       "has_orange_sheet": "2025-02-05 05:47:17 +0000"
@@ -8260,9 +8266,21 @@
     },
     "done": true
   },
+  "another_furniture:recipes/white_sofa": {
+    "criteria": {
+      "has_wool": "2025-02-05 06:05:56 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/gray_lamp": {
     "criteria": {
       "has_wool": "2025-02-05 05:46:57 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/white_tall_stool": {
+    "criteria": {
+      "has_wool": "2025-02-05 06:05:56 +0000"
     },
     "done": true
   },
@@ -8293,6 +8311,12 @@
   "aether:recipes/decorations/skyroot_bed": {
     "criteria": {
       "has_wool": "2025-02-05 05:46:57 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/white_stool": {
+    "criteria": {
+      "has_wool": "2025-02-05 06:05:56 +0000"
     },
     "done": true
   },
@@ -8344,6 +8368,12 @@
     },
     "done": true
   },
+  "deep_aether:recipes/misc/squash_seeds_enchanting": {
+    "criteria": {
+      "has_pumpkin_seeds": "2025-02-05 06:08:01 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
     "criteria": {
       "has_iron_knife": "2025-02-05 05:12:31 +0000"
@@ -8374,6 +8404,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-02-05 06:05:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/white_sheet_from_white_dye": {
     "criteria": {
       "has_white_sheet": "2025-02-05 05:47:17 +0000"
@@ -8395,6 +8431,12 @@
   "another_furniture:recipes/gray_sofa": {
     "criteria": {
       "has_wool": "2025-02-05 05:46:57 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_white": {
+    "criteria": {
+      "has_white_wool": "2025-02-05 06:05:56 +0000"
     },
     "done": true
   },
@@ -8434,6 +8476,12 @@
     },
     "done": true
   },
+  "comforts:sleeping_bag_white": {
+    "criteria": {
+      "has_white_wool": "2025-02-05 06:05:56 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/building_blocks/lumiere_block": {
     "criteria": {
       "has_lumiere_shard": "2025-02-05 05:28:43 +0000"
@@ -8449,6 +8497,12 @@
   "minecraft:recipes/misc/purple_sheet_from_purple_dye": {
     "criteria": {
       "has_purple_sheet": "2025-02-05 05:47:17 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/white_cape": {
+    "criteria": {
+      "has_white_wool": "2025-02-05 06:05:56 +0000"
     },
     "done": true
   },
@@ -8560,9 +8614,21 @@
     },
     "done": true
   },
+  "another_furniture:recipes/white_curtain": {
+    "criteria": {
+      "has_wool": "2025-02-05 06:05:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
       "has_stone_bricks": "2025-02-05 05:38:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-02-05 06:05:56 +0000"
     },
     "done": true
   },
@@ -8596,6 +8662,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/white_cushion": {
+    "criteria": {
+      "has_white_cushion": "2025-02-05 06:05:56 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/building_blocks/lumiere_slab": {
     "criteria": {
       "has_lumiere_block": "2025-02-05 05:28:42 +0000"
@@ -8614,9 +8686,21 @@
     },
     "done": true
   },
+  "another_furniture:recipes/white_lamp": {
+    "criteria": {
+      "has_wool": "2025-02-05 06:05:56 +0000"
+    },
+    "done": true
+  },
   "delightful:recipes/food/cooking/nut_milk": {
     "criteria": {
       "has_nut_butter": "2025-02-05 05:32:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-02-05 06:05:56 +0000"
     },
     "done": true
   },

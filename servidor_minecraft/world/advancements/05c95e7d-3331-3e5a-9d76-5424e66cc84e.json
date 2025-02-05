@@ -7145,7 +7145,9 @@
   },
   "adorabuild_structures:tireless_legs": {
     "criteria": {
+      "spruce_house_medium_1": "2025-02-05 06:11:04 +0000",
       "oak_house_small_3": "2025-02-04 06:22:56 +0000",
+      "oak_hut_1": "2025-02-05 06:05:53 +0000",
       "spruce_house_small_1": "2025-02-05 06:01:41 +0000"
     },
     "done": false
@@ -7228,6 +7230,12 @@
     },
     "done": true
   },
+  "delightful:recipes/campfire/roasted_acorn": {
+    "criteria": {
+      "roasted_acorn": "2025-02-05 06:07:35 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/combat/golden_knife": {
     "criteria": {
       "has_gold_ingot": "2025-02-05 05:38:51 +0000"
@@ -7282,6 +7290,12 @@
     },
     "done": true
   },
+  "cataclysm:find_frosted_prison": {
+    "criteria": {
+      "prison": "2025-02-05 06:14:30 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/skyroot_cartography_table": {
     "criteria": {
       "has_paper": "2025-02-05 04:28:18 +0000"
@@ -7309,6 +7323,12 @@
   "supplementaries:recipes/hourglass": {
     "criteria": {
       "has_gold_ingot": "2025-02-05 05:38:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2025-02-05 06:14:24 +0000"
     },
     "done": true
   },
@@ -7834,6 +7854,12 @@
     },
     "done": true
   },
+  "delightful:recipes/storage/acorn_storage_block": {
+    "criteria": {
+      "has_acorn": "2025-02-05 06:07:35 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/golden_gloves": {
     "criteria": {
       "has_gold": "2025-02-05 05:38:51 +0000"
@@ -8074,6 +8100,12 @@
     },
     "done": true
   },
+  "delightful:recipes/smelting/roasted_acorn": {
+    "criteria": {
+      "roasted_acorn": "2025-02-05 06:07:35 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/spruce_desk": {
     "criteria": {
       "has_spruce_desk": "2025-02-05 05:54:01 +0000"
@@ -8122,6 +8154,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2025-02-05 06:14:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-02-05 04:21:08 +0000"
@@ -8131,6 +8169,12 @@
   "galosphere:recipes/decorations/gilded_beads": {
     "criteria": {
       "has_gold_ingot": "2025-02-05 05:38:51 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/smoking/roasted_acorn": {
+    "criteria": {
+      "roasted_acorn": "2025-02-05 06:07:35 +0000"
     },
     "done": true
   },
@@ -8173,6 +8217,12 @@
   "stoneworks:recipes/building_blocks/mossy_cobbled_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-02-05 04:54:32 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/paper_lanterns/allium_paper_lantern": {
+    "criteria": {
+      "has_item": "2025-02-05 06:14:20 +0000"
     },
     "done": true
   },
@@ -8452,6 +8502,12 @@
     },
     "done": true
   },
+  "delightful:recipes/food/cooking/nut_butter_bottle": {
+    "criteria": {
+      "has_nuts": "2025-02-05 06:07:35 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/building_blocks/allurite_brick_stairs_from_allurite_block_stonecutting": {
     "criteria": {
       "has_allurite_block": "2025-02-05 04:48:21 +0000"
@@ -8481,6 +8537,12 @@
       "has_diorite_pillar_trim": "2025-02-05 04:54:32 +0000"
     },
     "done": true
+  },
+  "repurposed_structures:monuments": {
+    "criteria": {
+      "in_monument_icy": "2025-02-05 06:13:23 +0000"
+    },
+    "done": false
   },
   "crabbersdelight:recipes/tools/bucket_of_clawster_chum": {
     "criteria": {
