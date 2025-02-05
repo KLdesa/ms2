@@ -4021,3 +4021,27 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [05Feb2025 02:43:52.383] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Digigamerfer) moved wrongly! 0.3066461882360727
 [05Feb2025 02:43:52.449] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Digigamerfer) moved wrongly! 0.6092227156955232
 [05Feb2025 02:43:52.500] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Digigamerfer) moved wrongly! 0.9028366109080252
+[05Feb2025 02:45:58.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar has made the advancement [This Must be a Sign!]
+[05Feb2025 02:48:20.800] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Berry'/14660, l='ServerLevel[world]', x=-663.36, y=103.94, z=58.68] died, message: 'Berry was slain by Zombie'
+[05Feb2025 02:48:20.802] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Berry'/14660, l='ServerLevel[world]', x=-663.36, y=103.94, z=58.68] died: Berry was slain by Zombie
+[05Feb2025 02:48:27.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sirfafnir55 was impaled by Marauder
+[05Feb2025 02:48:44.980] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Berry'/17618, l='ServerLevel[world]', x=-644.22, y=103.02, z=48.29] died: Berry was slain by Shinkar
+[05Feb2025 02:49:17.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sirfafnir55 has made the advancement [Voluntary Exile]
+[05Feb2025 02:52:01.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer was shot by Skeleton
+[05Feb2025 02:52:04.672] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Digigamerfer lost connection: Disconnected
+[05Feb2025 02:52:04.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer left the game
+[05Feb2025 02:52:04.673] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for d2e2f9d0-5f14-3e71-a1c1-1f34957f0684
+[05Feb2025 02:52:14.296] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Digigamerfer[/127.175.27.76:45045] logged in with entity id 20179 at (-41.5, 71.0, 37.5)
+[05Feb2025 02:52:14.320] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Digigamerfer
+[05Feb2025 02:52:14.323] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Digigamerfer
+[05Feb2025 02:52:14.325] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Digigamerfer
+[05Feb2025 02:52:14.326] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Digigamerfer
+[05Feb2025 02:52:14.330] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Digigamerfer
+[05Feb2025 02:52:14.333] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Digigamerfer
+[05Feb2025 02:52:14.333] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Digigamerfer
+[05Feb2025 02:52:14.347] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[05Feb2025 02:52:14.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer joined the game
+[05Feb2025 02:52:14.414] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for d2e2f9d0-5f14-3e71-a1c1-1f34957f0684
+[05Feb2025 02:52:14.421] [Server thread/INFO] [Jade/]: Syncing config to Digigamerfer (d2e2f9d0-5f14-3e71-a1c1-1f34957f0684)
+[05Feb2025 02:52:14.825] [Server thread/INFO] [ping-wheel/]: Channel update: Digigamerfer -> default
+[05Feb2025 02:52:14.825] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
