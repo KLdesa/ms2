@@ -2031,9 +2031,13 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-02-05 03:17:56 +0000",
       "minecraft:skeleton": "2025-02-03 23:39:52 +0000",
+      "minecraft:vindicator": "2025-02-05 03:18:53 +0000",
       "minecraft:spider": "2025-02-05 02:34:39 +0000",
       "minecraft:creeper": "2025-02-04 05:31:03 +0000",
+      "minecraft:witch": "2025-02-05 03:16:53 +0000",
+      "minecraft:stray": "2025-02-05 03:13:05 +0000",
       "minecraft:zombie": "2025-02-03 23:39:37 +0000",
       "minecraft:zombie_villager": "2025-02-04 05:09:09 +0000"
     },
@@ -5589,6 +5593,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/ash_brick": {
+    "criteria": {
+      "forge:ash": "2025-02-05 03:29:02 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/decorations/iron_ladder": {
     "criteria": {
       "has_iron_bars": "2025-02-05 02:53:06 +0000"
@@ -5604,6 +5614,12 @@
   "betternether:recipes/transportation/nether_sakura_chest_boat": {
     "criteria": {
       "has_tag_c_chest": "2025-02-05 02:51:34 +0000"
+    },
+    "done": true
+  },
+  "illagerinvasion:recipes/misc/platinum_sheet": {
+    "criteria": {
+      "has_platinum_chunk": "2025-02-05 03:23:39 +0000"
     },
     "done": true
   },
@@ -5736,6 +5752,12 @@
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2025-02-05 02:58:26 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/misc/silver_ingot_from_nuggets": {
+    "criteria": {
+      "has_silver_nugget": "2025-02-05 03:17:56 +0000"
     },
     "done": true
   },

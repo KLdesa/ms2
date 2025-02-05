@@ -4060,3 +4060,58 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [05Feb2025 03:13:01.751] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Rueben'/14112, l='ServerLevel[world]', x=-647.50, y=102.00, z=117.30] died, message: 'Rueben was shot by Provoker'
 [05Feb2025 03:13:01.752] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Rueben'/14112, l='ServerLevel[world]', x=-647.50, y=102.00, z=117.30] died: Rueben was shot by Provoker
 [05Feb2025 03:14:33.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar was shot by Stray
+[05Feb2025 03:15:02.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer was shot by Stray
+[05Feb2025 03:15:24.951] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Solomon'/14113, l='ServerLevel[world]', x=-658.51, y=98.19, z=5.26] died, message: 'Solomon was impaled by Marauder'
+[05Feb2025 03:15:24.952] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Solomon'/14113, l='ServerLevel[world]', x=-658.51, y=98.19, z=5.26] died: Solomon was impaled by Marauder
+[05Feb2025 03:15:42.248] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Nakisha'/14664, l='ServerLevel[world]', x=-651.54, y=94.30, z=0.42] died: Nakisha was killed by magic whilst trying to escape Pillager
+[05Feb2025 03:15:55.457] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Larhonda'/14414, l='ServerLevel[world]', x=-653.49, y=95.00, z=-2.42] died: Larhonda was shot by Pillager
+[05Feb2025 03:16:12.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer has made the advancement [Voluntary Exile]
+[05Feb2025 03:16:53.427] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Witch['Tilda'/32667, l='ServerLevel[world]', x=-662.46, y=102.94, z=1.30] died: Tilda was slain by Shinkar
+[05Feb2025 03:17:36.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer hit the ground too hard whilst trying to escape Vindicator
+[05Feb2025 03:17:58.749] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Isidra'/14992, l='ServerLevel[world]', x=-662.40, y=104.00, z=-8.52] died, message: 'Isidra was slain by Basher'
+[05Feb2025 03:17:58.750] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Isidra'/14992, l='ServerLevel[world]', x=-662.40, y=104.00, z=-8.52] died: Isidra was slain by Basher
+[05Feb2025 03:18:21.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sirfafnir55 was slain by Vindicator
+[05Feb2025 03:18:23.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar was slain by Vindicator
+[05Feb2025 03:18:38.948] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Harriet'/14656, l='ServerLevel[world]', x=-627.55, y=45.00, z=66.70] died, message: 'Harriet hit the ground too hard whilst trying to escape Zombie'
+[05Feb2025 03:18:38.948] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Harriet'/14656, l='ServerLevel[world]', x=-627.55, y=45.00, z=66.70] died: Harriet was doomed to fall by Zombie
+[05Feb2025 03:18:42.952] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Audra'/14654, l='ServerLevel[world]', x=-624.30, y=71.00, z=69.70] died, message: 'Audra was slain by Zombie'
+[05Feb2025 03:18:42.952] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Audra'/14654, l='ServerLevel[world]', x=-624.30, y=71.00, z=69.70] died: Audra was slain by Zombie
+[05Feb2025 03:19:17.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sirfafnir55 was slain by Vindicator
+[05Feb2025 03:19:20.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar was slain by Vindicator
+[05Feb2025 03:20:35.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer was chopped to bits by Skirmisher
+[05Feb2025 03:21:27.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sirfafnir55 was chopped to bits by Skirmisher
+[05Feb2025 03:21:32.552] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Patrick'/14668, l='ServerLevel[world]', x=-666.25, y=99.00, z=27.30] died, message: 'Patrick was shot by Pillager'
+[05Feb2025 03:21:32.553] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Patrick'/14668, l='ServerLevel[world]', x=-666.25, y=99.00, z=27.30] died: Patrick was shot by Pillager
+[05Feb2025 03:21:44.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer was chopped to bits by Skirmisher
+[05Feb2025 03:23:47.804] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nelda'/14663, l='ServerLevel[world]', x=-671.41, y=105.00, z=18.50] died, message: 'Nelda was shot by Alchemist'
+[05Feb2025 03:23:47.805] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Nelda'/14663, l='ServerLevel[world]', x=-671.41, y=105.00, z=18.50] died: Nelda was shot by Alchemist
+[05Feb2025 03:23:53.651] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leopoldo'/14658, l='ServerLevel[world]', x=-659.12, y=96.00, z=11.52] died, message: 'Leopoldo was killed by magic'
+[05Feb2025 03:23:53.652] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Leopoldo'/14658, l='ServerLevel[world]', x=-659.12, y=96.00, z=11.52] died: Leopoldo was killed by magic
+[05Feb2025 03:23:59.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar was poked to death by a sweet berry bush whilst trying to escape Archer
+[05Feb2025 03:24:20.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer was shot by Stray
+[05Feb2025 03:24:57.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar was struck down by Legioner
+[05Feb2025 03:25:29.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar was sniped by Archer
+[05Feb2025 03:25:35.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer was sniped by Archer
+[05Feb2025 03:26:50.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer was sniped by Archer
+[05Feb2025 03:26:59.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer was struck down by Legioner
+[05Feb2025 03:27:04.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar was shot by Skeleton
+[05Feb2025 03:27:14.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer was struck down by Legioner
+[05Feb2025 03:27:40.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar was shot by Skeleton
+[05Feb2025 03:27:41.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer was slain by Vindicator
+[05Feb2025 03:28:05.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shinkar> zzzz
+[05Feb2025 03:28:40.552] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cordie'/14662, l='ServerLevel[world]', x=-662.95, y=105.00, z=69.51] died, message: 'Cordie was slain by Zombie'
+[05Feb2025 03:28:40.552] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Cordie'/14662, l='ServerLevel[world]', x=-662.95, y=105.00, z=69.51] died: Cordie was slain by Zombie
+[05Feb2025 03:28:58.350] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Cordie'/37666, l='ServerLevel[world]', x=-668.53, y=104.00, z=64.30] died: Cordie was burnt to a crisp whilst fighting Sirfafnir55
+[05Feb2025 03:29:22.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer was struck down by Legioner
+[05Feb2025 03:30:19.638] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-660, y=101, z=12} BlockPos{x=-659, y=99, z=11}
+[05Feb2025 03:30:19.673] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-660, y=101, z=12} BlockPos{x=-659, y=99, z=11}
+[05Feb2025 03:30:19.709] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-660, y=101, z=12} BlockPos{x=-659, y=99, z=11}
+[05Feb2025 03:30:54.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar has made the advancement [Take Aim]
+[05Feb2025 03:30:55.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer has made the advancement [Ol' Betsy]
+[05Feb2025 03:32:14.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer was killed by Witch using magic
+[05Feb2025 03:32:58.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer was slain by Inquisitor
+[05Feb2025 03:32:59.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar was slain by Inquisitor
+[05Feb2025 03:34:11.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sirfafnir55 was slain by Vex
+[05Feb2025 03:34:15.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer was slain by Vindicator
+[05Feb2025 03:34:28.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer was slain by Vindicator
+[05Feb2025 03:34:45.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer was slain by Vindicator

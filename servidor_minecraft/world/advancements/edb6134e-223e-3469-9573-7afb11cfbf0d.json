@@ -2470,8 +2470,11 @@
     "criteria": {
       "minecraft:pillager": "2025-02-05 02:37:31 +0000",
       "minecraft:skeleton": "2025-02-04 05:42:30 +0000",
+      "minecraft:vindicator": "2025-02-05 03:24:23 +0000",
       "minecraft:spider": "2025-02-04 05:30:37 +0000",
       "minecraft:creeper": "2025-02-05 02:32:04 +0000",
+      "minecraft:witch": "2025-02-05 03:30:01 +0000",
+      "minecraft:stray": "2025-02-05 03:14:09 +0000",
       "minecraft:zombie": "2025-02-04 04:55:05 +0000",
       "minecraft:drowned": "2025-02-04 04:55:18 +0000",
       "minecraft:zombie_villager": "2025-02-05 02:50:15 +0000"
@@ -2786,6 +2789,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-02-05 03:18:42 +0000",
       "cooked_beef": "2025-02-04 05:17:22 +0000",
       "apple": "2025-02-05 02:35:06 +0000",
       "golden_apple": "2025-02-04 05:51:20 +0000",
@@ -6823,9 +6827,69 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/spruce_counter": {
+    "criteria": {
+      "has_spruce_counter": "2025-02-05 03:23:37 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/skyroot_loom": {
     "criteria": {
       "has_string": "2025-02-05 03:05:29 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/tnt_from_bop_sand": {
+    "criteria": {
+      "has_gunpowder": "2025-02-05 03:22:42 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/biomesoplenty/dead_post": {
+    "criteria": {
+      "has_planks": "2025-02-05 03:11:41 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/tw/biomesoplenty/dead_table": {
+    "criteria": {
+      "has_planks": "2025-02-05 03:11:41 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/spruce_table": {
+    "criteria": {
+      "has_bamboo": "2025-02-05 03:23:37 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_table": {
+    "criteria": {
+      "has_spruce_table": "2025-02-05 03:23:37 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/dead_desk": {
+    "criteria": {
+      "has_planks": "2025-02-05 03:11:41 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/bow_repairing": {
+    "criteria": {
+      "has_bow": "2025-02-05 03:25:56 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_dining_bench": {
+    "criteria": {
+      "has_spruce_dining_bench": "2025-02-05 03:23:37 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/fd/biomesoplenty/dead_cabinet": {
+    "criteria": {
+      "has_planks": "2025-02-05 03:11:41 +0000"
     },
     "done": true
   },
@@ -6835,15 +6899,87 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/dead_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-05 03:11:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/slime_block": {
     "criteria": {
       "has_slime_ball": "2025-02-05 02:46:37 +0000"
     },
     "done": true
   },
+  "everycomp:recipes/decorations/hnhome/biomesoplenty/dead_vertical_trim": {
+    "criteria": {
+      "has_planks": "2025-02-05 03:11:41 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/tf/biomesoplenty/hollow_dead_log": {
+    "criteria": {
+      "has_planks": "2025-02-05 03:11:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-02-05 03:22:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-02-05 03:19:03 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/biomesoplenty/dead_bookshelf": {
+    "criteria": {
+      "has_planks": "2025-02-05 03:11:41 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/db/biomesoplenty/dead_seat": {
+    "criteria": {
+      "has_planks": "2025-02-05 03:11:41 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/spruce_seat": {
+    "criteria": {
+      "has_plank": "2025-02-05 03:23:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-02-05 03:05:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-02-05 03:23:37 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/biomesoplenty/dead_flower_box": {
+    "criteria": {
+      "has_planks": "2025-02-05 03:11:41 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/biomesoplenty/stripped_dead_post": {
+    "criteria": {
+      "has_planks": "2025-02-05 03:11:41 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/biomesoplenty/dead_chest": {
+    "criteria": {
+      "has_planks": "2025-02-05 03:11:41 +0000"
     },
     "done": true
   },
@@ -6859,15 +6995,135 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/vp/biomesoplenty/dead_horticulturist_table": {
+    "criteria": {
+      "has_planks": "2025-02-05 03:11:41 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/dead_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-05 03:11:41 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:pyramids": {
+    "criteria": {
+      "in_pyramid_snowy": "2025-02-05 03:12:50 +0000"
+    },
+    "done": false
+  },
+  "handcrafted:recipes/misc/spruce_drawer": {
+    "criteria": {
+      "has_spruce_drawer": "2025-02-05 03:23:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-05 03:23:37 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/dead_corner_trim": {
+    "criteria": {
+      "has_planks": "2025-02-05 03:11:41 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_fancy_bed": {
+    "criteria": {
+      "has_spruce_fancy_bed": "2025-02-05 03:23:37 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/dead_slab": {
+    "criteria": {
+      "has_planks": "2025-02-05 03:11:41 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_cupboard": {
+    "criteria": {
+      "has_spruce_cupboard": "2025-02-05 03:23:37 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/dead_nightstand": {
+    "criteria": {
+      "has_planks": "2025-02-05 03:11:41 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/biomesoplenty/dead_table": {
+    "criteria": {
+      "has_planks": "2025-02-05 03:11:41 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_shelf": {
+    "criteria": {
+      "has_spruce_shelf": "2025-02-05 03:23:37 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/dead_couch": {
+    "criteria": {
+      "has_planks": "2025-02-05 03:11:41 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/dead_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-05 03:11:41 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/dead_dining_bench": {
+    "criteria": {
+      "has_planks": "2025-02-05 03:11:41 +0000"
+    },
+    "done": true
+  },
   "repurposed_structures:witch_huts": {
     "criteria": {
       "in_witch_hut_oak": "2025-02-05 02:46:10 +0000"
     },
     "done": false
   },
+  "everycomp:recipes/decorations/q/biomesoplenty/dead_trapped_chest": {
+    "criteria": {
+      "has_planks": "2025-02-05 03:11:41 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/dead_fence": {
+    "criteria": {
+      "has_planks": "2025-02-05 03:11:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-05 03:23:37 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_pillar_trim": {
+    "criteria": {
+      "has_spruce_pillar_trim": "2025-02-05 03:23:37 +0000"
+    },
+    "done": true
+  },
   "delightful:recipes/candle_from_animal_fat": {
     "criteria": {
       "has_fat": "2025-02-05 02:53:17 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/dead_chair": {
+    "criteria": {
+      "has_planks": "2025-02-05 03:11:41 +0000"
     },
     "done": true
   },
@@ -6877,9 +7133,57 @@
     },
     "done": true
   },
+  "galosphere:recipes/combat/silver_bomb": {
+    "criteria": {
+      "has_gunpowder": "2025-02-05 03:22:42 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/dead_table": {
+    "criteria": {
+      "has_planks": "2025-02-05 03:11:41 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/db/biomesoplenty/dead_support": {
+    "criteria": {
+      "has_planks": "2025-02-05 03:11:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
       "has_string": "2025-02-05 03:05:29 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/bp/biomesoplenty/dead_backpack_shelf": {
+    "criteria": {
+      "has_planks": "2025-02-05 03:11:41 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_couch": {
+    "criteria": {
+      "has_spruce_couch": "2025-02-05 03:23:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-02-05 03:23:28 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/biomesoplenty/dead_ladder": {
+    "criteria": {
+      "has_planks": "2025-02-05 03:11:41 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/biomesoplenty/dead_chair": {
+    "criteria": {
+      "has_planks": "2025-02-05 03:11:41 +0000"
     },
     "done": true
   },
@@ -6889,9 +7193,63 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/spruce_chair": {
+    "criteria": {
+      "has_spruce_chair": "2025-02-05 03:23:37 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/biomesoplenty/dead_parquet": {
+    "criteria": {
+      "has_planks": "2025-02-05 03:11:41 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/biomesoplenty/hollow_dead_log": {
+    "criteria": {
+      "has_planks": "2025-02-05 03:11:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-02-05 03:05:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-02-05 03:24:55 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/spruce_support": {
+    "criteria": {
+      "has_plank": "2025-02-05 03:23:37 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/dead_button": {
+    "criteria": {
+      "has_planks": "2025-02-05 03:11:41 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/biomesoplenty/dead_sanded_wood": {
+    "criteria": {
+      "has_planks": "2025-02-05 03:11:41 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/dead_cupboard": {
+    "criteria": {
+      "has_planks": "2025-02-05 03:11:41 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/biomesoplenty/dead_shelf": {
+    "criteria": {
+      "has_planks": "2025-02-05 03:11:41 +0000"
     },
     "done": true
   },
@@ -6913,9 +7271,57 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/building_blocks/spruce_palisade": {
+    "criteria": {
+      "has_log": "2025-02-05 03:23:28 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/spruce_shelf": {
+    "criteria": {
+      "has_planks": "2025-02-05 03:23:37 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/tf/biomesoplenty/dead_banister": {
+    "criteria": {
+      "has_planks": "2025-02-05 03:11:41 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/abnbl/biomesoplenty/dead_furnace_boat": {
+    "criteria": {
+      "has_planks": "2025-02-05 03:11:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-02-05 03:23:37 +0000"
+    },
+    "done": true
+  },
+  "suppsquared:recipes/decorations/biomesoplenty/item_shelf_dead": {
+    "criteria": {
+      "has_planks": "2025-02-05 03:11:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/spruce_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-02-05 03:23:40 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/redstone/skyroot_tripwire_hook": {
     "criteria": {
       "has_string": "2025-02-05 03:05:29 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/dead_fancy_bed": {
+    "criteria": {
+      "has_planks": "2025-02-05 03:11:41 +0000"
     },
     "done": true
   },
@@ -6925,15 +7331,279 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-02-05 03:25:56 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/biomesoplenty/sign_post_dead": {
+    "criteria": {
+      "has_planks": "2025-02-05 03:11:41 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_corner_trim": {
+    "criteria": {
+      "has_spruce_corner_trim": "2025-02-05 03:23:37 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_desk": {
+    "criteria": {
+      "has_spruce_desk": "2025-02-05 03:23:37 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/dead_drawer": {
+    "criteria": {
+      "has_planks": "2025-02-05 03:11:41 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/dead_shelf": {
+    "criteria": {
+      "has_planks": "2025-02-05 03:11:41 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/biomesoplenty/dead_trim_1": {
+    "criteria": {
+      "has_planks": "2025-02-05 03:11:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-02-05 03:23:28 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/dead_counter": {
+    "criteria": {
+      "has_planks": "2025-02-05 03:11:41 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/dead_pillar_trim": {
+    "criteria": {
+      "has_planks": "2025-02-05 03:11:41 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/biomesoplenty/dead_lattice": {
+    "criteria": {
+      "has_planks": "2025-02-05 03:11:41 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/dead_planks": {
+    "criteria": {
+      "has_logs": "2025-02-05 03:11:26 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/dead_side_table": {
+    "criteria": {
+      "has_planks": "2025-02-05 03:11:41 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/db/biomesoplenty/dead_beam": {
+    "criteria": {
+      "has_planks": "2025-02-05 03:11:41 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/service_bell": {
+    "criteria": {
+      "has_nugget": "2025-02-05 03:19:03 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/biomesoplenty/dead_trim": {
+    "criteria": {
+      "has_planks": "2025-02-05 03:11:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-02-05 03:24:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/biomesoplenty/dead_shutter": {
+    "criteria": {
+      "has_planks": "2025-02-05 03:11:41 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/spruce_table": {
+    "criteria": {
+      "has_planks": "2025-02-05 03:23:37 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/dead_bench": {
+    "criteria": {
+      "has_planks": "2025-02-05 03:11:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-02-05 03:23:37 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/biomesoplenty/dead_drawer": {
+    "criteria": {
+      "has_planks": "2025-02-05 03:11:41 +0000"
+    },
+    "done": true
+  },
   "supplementaries:adventure/way_sign": {
     "criteria": {
       "bastion": "2025-02-05 02:58:52 +0000"
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/dead_sign": {
+    "criteria": {
+      "has_planks": "2025-02-05 03:11:41 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/abnbl/biomesoplenty/large_dead_boat": {
+    "criteria": {
+      "has_planks": "2025-02-05 03:11:41 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/db/biomesoplenty/dead_palisade": {
+    "criteria": {
+      "has_planks": "2025-02-05 03:11:41 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/faf/biomesoplenty/dead_beehive": {
+    "criteria": {
+      "has_planks": "2025-02-05 03:11:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-02-05 03:23:37 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_nightstand": {
+    "criteria": {
+      "has_spruce_nightstand": "2025-02-05 03:23:37 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_bench": {
+    "criteria": {
+      "has_spruce_bench": "2025-02-05 03:23:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2025-02-05 02:46:37 +0000"
+    },
+    "done": true
+  },
+  "suppsquared:recipes/decorations/item_shelf_spruce": {
+    "criteria": {
+      "has_planks": "2025-02-05 03:23:37 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/dead_wood": {
+    "criteria": {
+      "has_log": "2025-02-05 03:11:26 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/biomesoplenty/vertical_dead_planks": {
+    "criteria": {
+      "has_planks": "2025-02-05 03:11:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-02-05 03:23:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-05 03:23:37 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/dead_door": {
+    "criteria": {
+      "has_planks": "2025-02-05 03:11:41 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce_soul": {
+    "criteria": {
+      "has_iron_nugget": "2025-02-05 03:19:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-02-05 03:22:42 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/dead_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-05 03:11:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-05 03:23:37 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/spruce_chair": {
+    "criteria": {
+      "has_planks": "2025-02-05 03:23:37 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/misc/silver_ingot_from_nuggets": {
+    "criteria": {
+      "has_silver_nugget": "2025-02-05 03:15:41 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/frozen/cutting/ice_bow": {
+    "criteria": {
+      "has_bow": "2025-02-05 03:25:56 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_side_table": {
+    "criteria": {
+      "has_spruce_side_table": "2025-02-05 03:23:37 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/biomesoplenty/dead_bench": {
+    "criteria": {
+      "has_planks": "2025-02-05 03:11:41 +0000"
     },
     "done": true
   },
