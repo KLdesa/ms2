@@ -7252,6 +7252,12 @@
     },
     "done": true
   },
+  "twigs:recipes/rocky_dirt": {
+    "criteria": {
+      "has_item": "2025-02-05 05:02:14 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/coarse_turquoise_dirt": {
     "criteria": {
       "has_item": "2025-02-05 03:57:00 +0000"
@@ -7621,6 +7627,12 @@
   "galosphere:recipes/building_blocks/smooth_lumiere": {
     "criteria": {
       "has_lumiere_block": "2025-02-05 04:48:23 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_from_pebble": {
+    "criteria": {
+      "has_item": "2025-02-05 05:02:14 +0000"
     },
     "done": true
   },

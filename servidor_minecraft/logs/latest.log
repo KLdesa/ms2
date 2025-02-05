@@ -4283,3 +4283,24 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [05Feb2025 04:53:00.469] [Server thread/INFO] [Jade/]: Syncing config to Sirfafnir55 (edb6134e-223e-3469-9573-7afb11cfbf0d)
 [05Feb2025 04:53:00.858] [Server thread/INFO] [ping-wheel/]: Channel update: Sirfafnir55 -> default
 [05Feb2025 04:53:00.858] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
+[05Feb2025 05:03:02.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sirfafnir55 was slain by Inquisitor
+[05Feb2025 05:03:43.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar has made the advancement [Fishy Business]
+[05Feb2025 05:04:11.456] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sirfafnir55 lost connection: Disconnected
+[05Feb2025 05:04:11.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sirfafnir55 left the game
+[05Feb2025 05:04:11.456] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for edb6134e-223e-3469-9573-7afb11cfbf0d
+[05Feb2025 05:04:24.475] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sirfafnir55[/127.33.68.235:37313] logged in with entity id 81542 at (-623.7290498521837, 63.0, -188.0923263591189)
+[05Feb2025 05:04:24.480] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Sirfafnir55
+[05Feb2025 05:04:24.481] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Sirfafnir55
+[05Feb2025 05:04:24.481] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Sirfafnir55
+[05Feb2025 05:04:24.482] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Sirfafnir55
+[05Feb2025 05:04:24.483] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Sirfafnir55
+[05Feb2025 05:04:24.484] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Sirfafnir55
+[05Feb2025 05:04:24.485] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Sirfafnir55
+[05Feb2025 05:04:24.495] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[05Feb2025 05:04:24.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sirfafnir55 joined the game
+[05Feb2025 05:04:24.565] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for edb6134e-223e-3469-9573-7afb11cfbf0d
+[05Feb2025 05:04:24.571] [Server thread/INFO] [Jade/]: Syncing config to Sirfafnir55 (edb6134e-223e-3469-9573-7afb11cfbf0d)
+[05Feb2025 05:04:24.910] [Server thread/INFO] [ping-wheel/]: Channel update: Sirfafnir55 -> default
+[05Feb2025 05:04:24.911] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
+[05Feb2025 05:06:35.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sirfafnir55 was slain by Vindicator
+[05Feb2025 05:06:46.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sirfafnir55 was slain by Vindicator
