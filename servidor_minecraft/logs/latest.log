@@ -3863,3 +3863,23 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [05Feb2025 01:47:22.105] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
 [05Feb2025 01:47:22.135] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11844ms or 236 ticks behind
 [05Feb2025 01:50:42.465] [Server thread/INFO] [TerraBlenderFix/]: Optimizing surface rules
+[05Feb2025 01:55:03.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer has made the advancement [Bonfire Lit]
+[05Feb2025 01:55:06.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer has reached the goal [Dinner's Served!]
+[05Feb2025 01:55:37.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer has made the advancement [Crustacean Cooking Station]
+[05Feb2025 01:59:37.318] [Worker-Main-8/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Starting feature recycler...
+[05Feb2025 01:59:37.484] [Worker-Main-8/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Finished recycling features. Took 165ms
+[05Feb2025 01:59:52.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer has made the advancement [Best Friends Forever]
+[05Feb2025 01:59:58.745] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sirfafnir55[/127.33.68.235:34585] logged in with entity id 2583 at (362.3990498389412, 67.0, 380.69999998807907)
+[05Feb2025 01:59:58.752] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Sirfafnir55
+[05Feb2025 01:59:58.752] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Sirfafnir55
+[05Feb2025 01:59:58.753] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Sirfafnir55
+[05Feb2025 01:59:58.753] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Sirfafnir55
+[05Feb2025 01:59:58.756] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Sirfafnir55
+[05Feb2025 01:59:58.759] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Sirfafnir55
+[05Feb2025 01:59:58.760] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Sirfafnir55
+[05Feb2025 01:59:58.774] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[05Feb2025 01:59:58.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sirfafnir55 joined the game
+[05Feb2025 01:59:58.891] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for edb6134e-223e-3469-9573-7afb11cfbf0d
+[05Feb2025 01:59:58.903] [Server thread/INFO] [Jade/]: Syncing config to Sirfafnir55 (edb6134e-223e-3469-9573-7afb11cfbf0d)
+[05Feb2025 02:00:13.883] [Server thread/INFO] [ping-wheel/]: Channel update: Sirfafnir55 -> default
+[05Feb2025 02:00:13.910] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
