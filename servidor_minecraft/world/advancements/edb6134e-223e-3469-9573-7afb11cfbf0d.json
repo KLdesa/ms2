@@ -2470,6 +2470,7 @@
     "criteria": {
       "minecraft:pillager": "2025-02-05 02:37:31 +0000",
       "minecraft:skeleton": "2025-02-04 05:42:30 +0000",
+      "minecraft:ravager": "2025-02-05 04:14:13 +0000",
       "minecraft:vindicator": "2025-02-05 03:24:23 +0000",
       "minecraft:spider": "2025-02-04 05:30:37 +0000",
       "minecraft:creeper": "2025-02-05 02:32:04 +0000",
@@ -6890,6 +6891,12 @@
     },
     "done": true
   },
+  "hearth_and_home:recipes/chimneys": {
+    "criteria": {
+      "has_item": "2025-02-05 04:06:28 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/bow_repairing": {
     "criteria": {
       "has_bow": "2025-02-05 03:25:56 +0000"
@@ -7100,6 +7107,12 @@
     },
     "done": true
   },
+  "mynethersdelight:recipes/misc/nethers_stove": {
+    "criteria": {
+      "has_campfire": "2025-02-05 04:06:28 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/hc/biomesoplenty/dead_nightstand": {
     "criteria": {
       "has_planks": "2025-02-05 03:11:41 +0000"
@@ -7133,6 +7146,12 @@
   "everycomp:recipes/decorations/af/biomesoplenty/dead_table": {
     "criteria": {
       "has_planks": "2025-02-05 03:11:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2025-02-05 04:06:33 +0000"
     },
     "done": true
   },
@@ -7301,6 +7320,12 @@
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2025-02-05 03:23:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/stove": {
+    "criteria": {
+      "has_campfire": "2025-02-05 04:06:28 +0000"
     },
     "done": true
   },
@@ -7721,6 +7746,12 @@
   "supplementaries:recipes/present": {
     "criteria": {
       "has_paper": "2025-02-05 03:50:14 +0000"
+    },
+    "done": true
+  },
+  "hearth_and_home:recipes/cobblestone_bricks": {
+    "criteria": {
+      "has_item": "2025-02-05 04:06:28 +0000"
     },
     "done": true
   },
