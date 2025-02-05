@@ -7182,6 +7182,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/berry_jam_jar": {
+    "criteria": {
+      "has_berry_jam_jar": "2025-02-05 04:20:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2025-02-05 03:57:00 +0000"
@@ -7230,9 +7236,27 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/sweet_berry_cookie": {
+    "criteria": {
+      "has_sweet_berries": "2025-02-05 04:20:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-02-05 03:57:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-02-05 04:21:08 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/sweet_berry_jelly_potion": {
+    "criteria": {
+      "has_sweet_berries": "2025-02-05 04:20:58 +0000"
     },
     "done": true
   },
@@ -7281,6 +7305,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-02-05 03:57:00 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/misc/silver_ingot_from_nuggets": {
+    "criteria": {
+      "has_silver_nugget": "2025-02-05 04:17:48 +0000"
     },
     "done": true
   },

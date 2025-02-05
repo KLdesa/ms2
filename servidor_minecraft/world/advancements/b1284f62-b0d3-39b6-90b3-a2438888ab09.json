@@ -5542,6 +5542,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/misc/skeleton_skull_candle": {
+    "criteria": {
+      "has_item": "2025-02-05 04:21:34 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/spruce_table": {
     "criteria": {
       "has_spruce_table": "2025-02-05 03:38:15 +0000"
@@ -5983,6 +5989,12 @@
   "delightful:recipes/smelting/roasted_acorn": {
     "criteria": {
       "roasted_acorn": "2025-02-05 03:50:02 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/sanctum/skull_on_a_stick": {
+    "criteria": {
+      "item": "2025-02-05 04:21:34 +0000"
     },
     "done": true
   },

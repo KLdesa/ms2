@@ -7011,6 +7011,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-02-05 04:20:42 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/q/biomesoplenty/stripped_dead_post": {
     "criteria": {
       "has_planks": "2025-02-05 03:11:41 +0000"
