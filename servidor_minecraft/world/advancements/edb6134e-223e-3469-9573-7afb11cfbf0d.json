@@ -7588,6 +7588,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-02-05 04:38:27 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/pancake_fd": {
     "criteria": {
       "has_sugar": "2025-02-05 03:50:50 +0000"
@@ -7879,6 +7885,12 @@
   "crabbersdelight:recipes/tools/bucket_of_crab_chum": {
     "criteria": {
       "has_bonemeal": "2025-02-05 03:43:57 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/paper_lanterns/dandelion_paper_lantern": {
+    "criteria": {
+      "has_item": "2025-02-05 04:38:27 +0000"
     },
     "done": true
   },

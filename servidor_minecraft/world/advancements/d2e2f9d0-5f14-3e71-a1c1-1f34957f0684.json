@@ -6123,6 +6123,12 @@
     },
     "done": true
   },
+  "aether:recipes/decorations/skyroot_cartography_table": {
+    "criteria": {
+      "has_paper": "2025-02-05 04:44:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2025-02-05 03:23:47 +0000"
@@ -6231,6 +6237,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/glowing_blinding_stone": {
+    "criteria": {
+      "has_item": "2025-02-05 04:44:55 +0000"
+    },
+    "done": true
+  },
   "boatload:recipes/transportation/oak_furnace_boat": {
     "criteria": {
       "has_boat": "2025-02-05 03:33:12 +0000"
@@ -6246,6 +6258,12 @@
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2025-02-05 03:55:36 +0000"
+    },
+    "done": true
+  },
+  "hearth_and_home:recipes/shoji": {
+    "criteria": {
+      "has_item": "2025-02-05 04:44:21 +0000"
     },
     "done": true
   },
@@ -6345,9 +6363,21 @@
     },
     "done": true
   },
+  "twigs:recipes/paper_lanterns/paper_lantern": {
+    "criteria": {
+      "has_item": "2025-02-05 04:44:21 +0000"
+    },
+    "done": true
+  },
   "boatload:recipes/transportation/spruce_furnace_boat": {
     "criteria": {
       "has_boat": "2025-02-05 03:33:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-02-05 04:44:55 +0000"
     },
     "done": true
   },
@@ -6366,6 +6396,12 @@
   "galosphere:recipes/combat/silver_bomb": {
     "criteria": {
       "has_gunpowder": "2025-02-05 03:23:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-02-05 04:44:21 +0000"
     },
     "done": true
   },
@@ -6525,6 +6561,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-02-05 04:44:55 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/glowing_nature_stone": {
+    "criteria": {
+      "has_item": "2025-02-05 04:44:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-02-05 04:44:21 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/smite_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-02-05 03:33:18 +0000"
@@ -6546,6 +6600,12 @@
   "aether:recipes/transportation/skyroot_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-05 03:33:12 +0000"
+    },
+    "done": true
+  },
+  "hearth_and_home:recipes/paper_lanterns": {
+    "criteria": {
+      "has_item": "2025-02-05 04:44:21 +0000"
     },
     "done": true
   },
@@ -6645,6 +6705,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/spruce_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-02-05 04:38:49 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/transportation/bloom_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-05 03:33:12 +0000"
@@ -6738,6 +6804,12 @@
   "betterend:recipes/misc/punch_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-02-05 03:33:18 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/glowing_poison_stone": {
+    "criteria": {
+      "has_item": "2025-02-05 04:44:55 +0000"
     },
     "done": true
   },
@@ -6915,6 +6987,12 @@
     },
     "done": true
   },
+  "voidtotem:recipes/combat/totem_of_void_undying": {
+    "criteria": {
+      "has_totem": "2025-02-05 04:44:21 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/sorting_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-05 03:33:12 +0000"
@@ -7029,9 +7107,21 @@
     },
     "done": true
   },
+  "supplementaries:recipes/candy": {
+    "criteria": {
+      "has_paper": "2025-02-05 04:44:21 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/stackable_book": {
     "criteria": {
       "has_stackable_book": "2025-02-05 03:33:18 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/present": {
+    "criteria": {
+      "has_paper": "2025-02-05 04:44:21 +0000"
     },
     "done": true
   },
@@ -7098,6 +7188,12 @@
   "biomesoplenty:recipes/transportation/magic_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-05 03:33:12 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/glowing_nature_stonebrick_from_glowstone": {
+    "criteria": {
+      "has_item": "2025-02-05 04:44:55 +0000"
     },
     "done": true
   },
