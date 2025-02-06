@@ -3867,3 +3867,4 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [06Feb2025 02:38:45.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer was slain by Zombie
 [06Feb2025 02:41:56.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [06Feb2025 02:41:56.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vaia<--[HERE]
+[06Feb2025 02:52:11.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer was shot by Skeleton
