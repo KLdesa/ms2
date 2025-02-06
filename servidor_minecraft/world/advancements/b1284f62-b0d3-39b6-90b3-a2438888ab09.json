@@ -2724,7 +2724,8 @@
       "cooked_mutton": "2025-02-04 06:11:53 +0000",
       "sweet_berries": "2025-02-05 03:56:31 +0000",
       "cooked_beef": "2025-02-04 06:11:58 +0000",
-      "bread": "2025-02-04 06:03:13 +0000"
+      "bread": "2025-02-04 06:03:13 +0000",
+      "melon_slice": "2025-02-06 05:58:50 +0000"
     },
     "done": false
   },
@@ -6183,7 +6184,8 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "sweet_berries": "2025-02-05 03:43:48 +0000"
+      "sweet_berries": "2025-02-05 03:43:48 +0000",
+      "brown_mushroom": "2025-02-06 06:03:11 +0000"
     },
     "done": false
   },
@@ -7831,6 +7833,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-02-06 05:58:44 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:main/root": {
     "criteria": {
       "deep_dark": "2025-02-06 04:13:27 +0000"
@@ -8089,6 +8097,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2025-02-06 05:58:44 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/calcite_shingle_wall_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-02-06 04:30:04 +0000"
@@ -8122,6 +8136,12 @@
   "stoneworks:recipes/building_blocks/andesite_brick_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-06 04:06:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-02-06 06:02:38 +0000"
     },
     "done": true
   },
@@ -8200,6 +8220,12 @@
   "stoneworks:recipes/building_blocks/calcite_plates_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-02-06 04:30:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-02-06 05:58:44 +0000"
     },
     "done": true
   },
@@ -8383,6 +8409,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-02-06 05:58:44 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/crystal_display": {
     "criteria": {
       "has_deepslate": "2025-02-06 04:17:17 +0000"
@@ -8494,6 +8526,12 @@
   "stoneworks:recipes/building_blocks/andesite_shingle_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-06 04:06:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2025-02-06 05:58:44 +0000"
     },
     "done": true
   },

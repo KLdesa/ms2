@@ -5455,8 +5455,10 @@
       "muskeg": "2025-02-05 02:56:30 +0000",
       "jacaranda_glade": "2025-02-04 06:07:26 +0000",
       "maple_woods": "2025-02-05 02:54:23 +0000",
+      "coniferous_forest": "2025-02-06 06:00:15 +0000",
       "dune_beach": "2025-02-04 06:07:27 +0000",
       "dead_forest": "2025-02-05 02:55:32 +0000",
+      "fir_clearing": "2025-02-06 05:57:29 +0000",
       "pumpkin_patch": "2025-02-06 05:50:37 +0000",
       "tundra": "2025-02-05 02:56:56 +0000",
       "gravel_beach": "2025-02-04 06:07:19 +0000",
@@ -9154,6 +9156,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-02-06 06:00:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_chestplate": "2025-02-06 05:44:05 +0000"
@@ -9169,6 +9177,12 @@
   "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
       "has_pumpkin": "2025-02-06 05:51:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-02-06 06:00:40 +0000"
     },
     "done": true
   },
@@ -9268,6 +9282,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/soap/spike": {
+    "criteria": {
+      "has_bamboo_spikes_tipped": "2025-02-06 06:05:38 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/chiseled_tuff_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-02-06 05:39:34 +0000"
@@ -9303,6 +9323,12 @@
       "has_tuff": "2025-02-06 05:39:34 +0000"
     },
     "done": true
+  },
+  "repurposed_structures:temples": {
+    "criteria": {
+      "in_temple_taiga": "2025-02-06 06:02:17 +0000"
+    },
+    "done": false
   },
   "minecraft:story/enchant_item": {
     "criteria": {
