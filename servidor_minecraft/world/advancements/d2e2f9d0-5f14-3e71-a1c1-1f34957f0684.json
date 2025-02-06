@@ -7103,7 +7103,8 @@
       "beetroot": "2025-02-06 05:01:16 +0000",
       "sugar_cane": "2025-02-06 04:32:01 +0000",
       "potato": "2025-02-06 04:35:48 +0000",
-      "wheat": "2025-02-06 04:51:51 +0000"
+      "wheat": "2025-02-06 04:51:51 +0000",
+      "carrot": "2025-02-06 05:30:35 +0000"
     },
     "done": false
   },
@@ -7671,6 +7672,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/tomato_sauce": {
+    "criteria": {
+      "has_tomato": "2025-02-06 05:28:23 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/tuff/tuff_stairs": {
     "criteria": {
       "has_item": "2025-02-06 02:35:57 +0000"
@@ -7836,6 +7843,12 @@
   "minecraft:recipes/misc/leather": {
     "criteria": {
       "has_rabbit_hide": "2025-02-06 05:22:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/tomato_crate": {
+    "criteria": {
+      "has_tomato": "2025-02-06 05:28:23 +0000"
     },
     "done": true
   },
@@ -8685,6 +8698,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-02-06 05:32:35 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/obsidian_tile": {
     "criteria": {
       "has_obsidian": "2025-02-06 02:37:48 +0000"
@@ -8724,6 +8743,12 @@
   "stoneworks:recipes/building_blocks/tuff_brick_stairs_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-02-06 02:35:57 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/tomato_seeds": {
+    "criteria": {
+      "has_tomato": "2025-02-06 05:28:23 +0000"
     },
     "done": true
   },

@@ -7471,6 +7471,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/diamond_helmet_repairing": {
+    "criteria": {
+      "has_diamond_helmet": "2025-02-06 05:29:16 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-06 04:06:59 +0000"
@@ -7783,6 +7789,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/diamond_chestplate_repairing": {
+    "criteria": {
+      "has_diamond_chestplate": "2025-02-06 05:29:24 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/tools/spectre_flare": {
     "criteria": {
       "has_silver_ingot": "2025-02-06 05:01:13 +0000"
@@ -7858,6 +7870,12 @@
   "supplementaries:recipes/stone_tile_wall": {
     "criteria": {
       "has_stone_tile": "2025-02-06 05:25:43 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_leggings_repairing": {
+    "criteria": {
+      "has_diamond_leggings": "2025-02-06 05:29:31 +0000"
     },
     "done": true
   },
@@ -8086,6 +8104,12 @@
   "stoneworks:recipes/building_blocks/cobbled_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-06 04:06:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-02-06 05:29:16 +0000"
     },
     "done": true
   },
@@ -8362,6 +8386,12 @@
   "stoneworks:recipes/building_blocks/mossy_andesite_bricks_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-06 04:06:59 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_boots_repairing": {
+    "criteria": {
+      "has_diamond_boots": "2025-02-06 05:29:36 +0000"
     },
     "done": true
   },

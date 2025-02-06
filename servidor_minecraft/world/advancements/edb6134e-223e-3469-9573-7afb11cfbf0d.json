@@ -8918,6 +8918,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/iron_hoe_repairing": {
+    "criteria": {
+      "has_iron_hoe": "2025-02-06 05:30:05 +0000"
+    },
+    "done": true
+  },
   "sereneseasons:recipes/tools/calendar": {
     "criteria": {
       "has_clock": "2025-02-06 05:07:09 +0000"
