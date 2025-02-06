@@ -8912,9 +8912,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-02-06 04:59:33 +0000"
+    },
+    "done": true
+  },
+  "sereneseasons:recipes/tools/calendar": {
+    "criteria": {
+      "has_clock": "2025-02-06 05:07:09 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/frozen/cutting/ice_sword": {
+    "criteria": {
+      "has_diamond_sword": "2025-02-06 05:16:07 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/diamond_shovel_repairing": {
     "criteria": {
       "has_diamond_shovel": "2025-02-06 04:48:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-02-06 04:59:33 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_sword_repairing": {
+    "criteria": {
+      "has_diamond_sword": "2025-02-06 05:16:07 +0000"
     },
     "done": true
   },
