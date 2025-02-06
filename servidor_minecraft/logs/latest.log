@@ -4042,3 +4042,10 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [06Feb2025 05:10:03.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Digigamerfer> zzz
 [06Feb2025 05:10:17.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Digigamerfer> zzzz
 [06Feb2025 05:17:21.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOSHEEEE was shot by Pillager
+[06Feb2025 05:19:06.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sirfafnir55 has made the advancement [Enchanter]
+[06Feb2025 05:22:42.122] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JOSHEEEE lost connection: Disconnected
+[06Feb2025 05:22:42.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOSHEEEE left the game
+[06Feb2025 05:22:42.123] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 05c95e7d-3331-3e5a-9d76-5424e66cc84e
+[06Feb2025 05:22:57.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shinkar> zzz
+[06Feb2025 05:23:00.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Digigamerfer> zzz
+[06Feb2025 05:23:31.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer was slain by Vindicator

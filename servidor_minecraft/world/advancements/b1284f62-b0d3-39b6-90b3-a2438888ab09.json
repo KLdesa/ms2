@@ -7729,6 +7729,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/stonecutting/stone_tile_stairs_from_bricks": {
+    "criteria": {
+      "has_stone_tile": "2025-02-06 05:25:43 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_stonecutting": {
     "criteria": {
       "has_item": "2025-02-06 04:06:44 +0000"
@@ -7849,6 +7855,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/stone_tile_wall": {
+    "criteria": {
+      "has_stone_tile": "2025-02-06 05:25:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_brown_mushroom": "2025-02-06 05:04:32 +0000"
@@ -7948,6 +7960,12 @@
   "supplementaries:recipes/deepslate_lamp": {
     "criteria": {
       "has_deepslate": "2025-02-06 04:17:17 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stone_tile_stairs": {
+    "criteria": {
+      "has_stone_tile": "2025-02-06 05:25:43 +0000"
     },
     "done": true
   },
@@ -8116,6 +8134,12 @@
   "twigs:recipes/smooth_stone_bricks/smooth_stone_brick_stairs_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2025-02-06 04:06:53 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stone_tile_slab": {
+    "criteria": {
+      "has_stone_tile": "2025-02-06 05:25:43 +0000"
     },
     "done": true
   },
@@ -8491,6 +8515,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/stonecutting/stone_tile_slab": {
+    "criteria": {
+      "has_stone_tile": "2025-02-06 05:25:43 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/calcite/calcite_wall": {
     "criteria": {
       "has_item": "2025-02-06 04:30:04 +0000"
@@ -8620,6 +8650,12 @@
   "stoneworks:recipes/building_blocks/mossy_cobbled_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-06 04:06:59 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stonecutting/stone_tile_wall_from_bricks": {
+    "criteria": {
+      "has_stone_tile": "2025-02-06 05:25:43 +0000"
     },
     "done": true
   },
