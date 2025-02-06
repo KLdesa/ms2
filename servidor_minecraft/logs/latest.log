@@ -3942,3 +3942,20 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [06Feb2025 03:42:38.933] [Worker-Main-15/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:3.7416575f,range:8,source:{pos:[I;-170,-57,-377],type:"minecraft:block"}}]
 [06Feb2025 03:42:38.935] [Worker-Main-15/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:7.3052635f,range:8,source:{pos:[I;-160,-52,-370],type:"minecraft:block"}}]
 [06Feb2025 03:44:29.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer was slain by Zombie
+[06Feb2025 03:47:30.328] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sirfafnir55[/127.33.68.235:41067] logged in with entity id 25243 at (-689.5477844391081, -35.0, -349.5952705022665)
+[06Feb2025 03:47:30.334] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Sirfafnir55
+[06Feb2025 03:47:30.335] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Sirfafnir55
+[06Feb2025 03:47:30.335] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Sirfafnir55
+[06Feb2025 03:47:30.336] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Sirfafnir55
+[06Feb2025 03:47:30.337] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Sirfafnir55
+[06Feb2025 03:47:30.339] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Sirfafnir55
+[06Feb2025 03:47:30.340] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Sirfafnir55
+[06Feb2025 03:47:30.350] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[06Feb2025 03:47:30.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sirfafnir55 joined the game
+[06Feb2025 03:47:30.430] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for edb6134e-223e-3469-9573-7afb11cfbf0d
+[06Feb2025 03:47:30.439] [Server thread/INFO] [Jade/]: Syncing config to Sirfafnir55 (edb6134e-223e-3469-9573-7afb11cfbf0d)
+[06Feb2025 03:47:45.043] [Server thread/INFO] [ping-wheel/]: Channel update: Sirfafnir55 -> default
+[06Feb2025 03:47:45.077] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
+[06Feb2025 03:55:42.867] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sirfafnir55 lost connection: Disconnected
+[06Feb2025 03:55:42.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sirfafnir55 left the game
+[06Feb2025 03:55:42.868] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for edb6134e-223e-3469-9573-7afb11cfbf0d

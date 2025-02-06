@@ -2478,6 +2478,7 @@
       "minecraft:spider": "2025-02-04 05:30:37 +0000",
       "minecraft:creeper": "2025-02-05 02:32:04 +0000",
       "minecraft:evoker": "2025-02-05 03:47:47 +0000",
+      "minecraft:slime": "2025-02-06 03:52:56 +0000",
       "minecraft:witch": "2025-02-05 03:30:01 +0000",
       "minecraft:cave_spider": "2025-02-05 05:27:00 +0000",
       "minecraft:stray": "2025-02-05 03:14:09 +0000",
@@ -8177,556 +8178,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/light_blue_sheet_from_light_blue_dye": {
-    "criteria": {
-      "has_light_blue_sheet": "2025-02-05 05:47:17 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/gray_cushion": {
-    "criteria": {
-      "has_gray_cushion": "2025-02-05 05:46:57 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/white_sheet": {
-    "criteria": {
-      "has_white_sheet": "2025-02-05 06:05:56 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/rhyolite/rhyolite_stairs_stonecutting": {
-    "criteria": {
-      "has_item": "2025-02-05 06:43:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/orange_sheet_from_orange_dye": {
-    "criteria": {
-      "has_orange_sheet": "2025-02-05 05:47:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/lime_sheet_from_lime_dye": {
-    "criteria": {
-      "has_lime_sheet": "2025-02-05 05:47:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/green_sheet_from_green_dye": {
-    "criteria": {
-      "has_green_sheet": "2025-02-05 05:47:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/gray_banner": {
-    "criteria": {
-      "has_gray_wool": "2025-02-05 05:46:57 +0000"
-    },
-    "done": true
-  },
-  "hearth_and_home:recipes/thatch": {
-    "criteria": {
-      "has_item": "2025-02-05 06:35:07 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/tools/diamond_pickaxe_repairing": {
-    "criteria": {
-      "has_diamond_pickaxe": "2025-02-05 06:32:17 +0000"
-    },
-    "done": true
-  },
-  "advancednetherite:recipes/misc/lodestone": {
-    "criteria": {
-      "has_chiseled_stone_bricks": "2025-02-05 05:38:25 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/building_blocks/smooth_lumiere_from_lumiere_block_stonecutting": {
-    "criteria": {
-      "has_lumiere_block": "2025-02-05 05:28:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
-    "criteria": {
-      "has_potato": "2025-02-05 05:21:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_sheet_from_red_dye": {
-    "criteria": {
-      "has_red_sheet": "2025-02-05 05:47:17 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/decorations/monstrometer": {
-    "criteria": {
-      "has_lumiere_block": "2025-02-05 05:28:42 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/gray_tall_stool": {
-    "criteria": {
-      "has_wool": "2025-02-05 05:46:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/yellow_sheet_from_yellow_dye": {
-    "criteria": {
-      "has_yellow_sheet": "2025-02-05 05:47:17 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/oak_cabinet": {
-    "criteria": {
-      "has_oak_trapdoor": "2025-02-05 05:38:58 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/white_sofa": {
-    "criteria": {
-      "has_wool": "2025-02-05 06:05:56 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/gray_lamp": {
-    "criteria": {
-      "has_wool": "2025-02-05 05:46:57 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/white_tall_stool": {
-    "criteria": {
-      "has_wool": "2025-02-05 06:05:56 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/building_blocks/lumiere_bricks_from_lumiere_block_stonecutting": {
-    "criteria": {
-      "has_lumiere_block": "2025-02-05 05:28:42 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/rhyolite/rhyolite_slab": {
-    "criteria": {
-      "has_item": "2025-02-05 06:43:08 +0000"
-    },
-    "done": true
-  },
-  "aether_redux:recipes/combat/veridium_dart": {
-    "criteria": {
-      "has_feather": "2025-02-05 05:21:37 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/rhyolite/polished_rhyolite_bricks_from_rhyolite_stonecutting": {
-    "criteria": {
-      "has_item": "2025-02-05 06:43:08 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/misc/silver_ingot_from_blasting_raw_silver": {
-    "criteria": {
-      "has_raw_silver": "2025-02-05 05:45:28 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/building_blocks/lumiere_stairs": {
-    "criteria": {
-      "has_lumiere_block": "2025-02-05 05:28:42 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/decorations/skyroot_bed": {
-    "criteria": {
-      "has_wool": "2025-02-05 05:46:57 +0000"
-    },
-    "done": true
-  },
-  "incubation:recipes/decorations/hay_nest": {
-    "criteria": {
-      "has_wheat": "2025-02-05 06:35:07 +0000"
-    },
-    "done": true
-  },
-  "betterdungeons:small_dungeon": {
-    "criteria": {
-      "in_better_monster_room": "2025-02-05 07:02:23 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/white_stool": {
-    "criteria": {
-      "has_wool": "2025-02-05 06:05:56 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/gray_curtain": {
-    "criteria": {
-      "has_wool": "2025-02-05 05:46:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/magenta_sheet_from_magenta_dye": {
-    "criteria": {
-      "has_magenta_sheet": "2025-02-05 05:47:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/pink_sheet_from_pink_dye": {
-    "criteria": {
-      "has_pink_sheet": "2025-02-05 05:47:17 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/pedestal": {
-    "criteria": {
-      "has_chiseled_stone_bricks": "2025-02-05 05:38:25 +0000"
-    },
-    "done": true
-  },
-  "delightful:recipes/food/nut_butter_and_jam_sandwich": {
-    "criteria": {
-      "has_nut_butter": "2025-02-05 05:32:13 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/rhyolite/polished_rhyolite_stonecutting": {
-    "criteria": {
-      "has_item": "2025-02-05 06:43:08 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/building_blocks/smooth_lumiere_stairs_from_lumiere_block_stonecutting": {
-    "criteria": {
-      "has_lumiere_block": "2025-02-05 05:28:42 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
-    "criteria": {
-      "has_iron_knife": "2025-02-05 05:12:31 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/rhyolite/rhyolite_wall": {
-    "criteria": {
-      "has_item": "2025-02-05 06:43:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/stone_brick_wall": {
-    "criteria": {
-      "has_stone_bricks": "2025-02-05 06:25:32 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/decorations/lumiere_lamp": {
-    "criteria": {
-      "has_lumiere_shard": "2025-02-05 05:28:43 +0000"
-    },
-    "done": true
-  },
-  "deep_aether:recipes/misc/squash_seeds_enchanting": {
-    "criteria": {
-      "has_pumpkin_seeds": "2025-02-05 06:08:01 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
-    "criteria": {
-      "has_iron_knife": "2025-02-05 05:12:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/whos_the_pillager_now": {
-    "criteria": {
-      "kill_pillager": "2025-02-05 05:15:57 +0000"
-    },
-    "done": true
-  },
-  "comforts:hammock_gray": {
-    "criteria": {
-      "has_gray_wool": "2025-02-05 05:46:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/painting": {
-    "criteria": {
-      "has_wool": "2025-02-05 05:46:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
-    "criteria": {
-      "has_tag": "2025-02-05 05:38:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_carpet": {
-    "criteria": {
-      "has_white_wool": "2025-02-05 06:05:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/white_sheet_from_white_dye": {
-    "criteria": {
-      "has_white_sheet": "2025-02-05 05:47:17 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/use_cutting_board": {
-    "criteria": {
-      "cutting_board": "2025-02-05 05:12:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/brown_sheet_from_brown_dye": {
-    "criteria": {
-      "has_brown_sheet": "2025-02-05 05:47:17 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/gray_sofa": {
-    "criteria": {
-      "has_wool": "2025-02-05 05:46:57 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/rhyolite/polished_rhyolite": {
-    "criteria": {
-      "has_item": "2025-02-05 06:43:08 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/rhyolite/rhyolite_stairs": {
-    "criteria": {
-      "has_item": "2025-02-05 06:43:08 +0000"
-    },
-    "done": true
-  },
-  "comforts:hammock_white": {
-    "criteria": {
-      "has_white_wool": "2025-02-05 06:05:56 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/building_blocks/lumiere_slab_from_lumiere_block_stonecutting": {
-    "criteria": {
-      "has_lumiere_block": "2025-02-05 05:28:42 +0000"
-    },
-    "done": true
-  },
-  "betterdungeons:spider_dungeon": {
-    "criteria": {
-      "in_better_spider_dungeon": "2025-02-05 05:37:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/black_sheet_from_black_dye": {
-    "criteria": {
-      "has_black_sheet": "2025-02-05 05:47:17 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/building_blocks/lumiere_brick_stairs_from_lumiere_block_stonecutting": {
-    "criteria": {
-      "has_lumiere_block": "2025-02-05 05:28:42 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/rhyolite/rhyolite_wall_stonecutting": {
-    "criteria": {
-      "has_item": "2025-02-05 06:43:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/gray_carpet": {
-    "criteria": {
-      "has_gray_wool": "2025-02-05 05:46:57 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/feather_block": {
-    "criteria": {
-      "has_feather": "2025-02-05 05:21:37 +0000"
-    },
-    "done": true
-  },
-  "comforts:sleeping_bag_white": {
-    "criteria": {
-      "has_white_wool": "2025-02-05 06:05:56 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/building_blocks/lumiere_block": {
-    "criteria": {
-      "has_lumiere_shard": "2025-02-05 05:28:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2025-02-05 06:25:32 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/building_blocks/smooth_lumiere": {
-    "criteria": {
-      "has_lumiere_block": "2025-02-05 05:28:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/purple_sheet_from_purple_dye": {
-    "criteria": {
-      "has_purple_sheet": "2025-02-05 05:47:17 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/white_cape": {
-    "criteria": {
-      "has_white_wool": "2025-02-05 06:05:56 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/building_blocks/chiseled_lumiere_from_lumiere_block_stonecutting": {
-    "criteria": {
-      "has_lumiere_block": "2025-02-05 05:28:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/cyan_sheet_from_cyan_dye": {
-    "criteria": {
-      "has_cyan_sheet": "2025-02-05 05:47:17 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/pie_crust": {
-    "criteria": {
-      "has_wheat": "2025-02-05 06:35:07 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/building_blocks/lumiere_stairs_from_lumiere_block_stonecutting": {
-    "criteria": {
-      "has_lumiere_block": "2025-02-05 05:28:42 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
-    "criteria": {
-      "has_wheat": "2025-02-05 06:35:07 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/safety_net": {
-    "criteria": {
-      "has_rope": "2025-02-05 05:26:04 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/misc/silver_ingot_from_smelting_raw_silver": {
-    "criteria": {
-      "has_raw_silver": "2025-02-05 05:45:28 +0000"
-    },
-    "done": true
-  },
-  "comforts:sleeping_bag_gray": {
-    "criteria": {
-      "has_gray_wool": "2025-02-05 05:46:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2025-02-05 06:25:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato_from_smoking": {
-    "criteria": {
-      "has_potato": "2025-02-05 05:21:37 +0000"
-    },
-    "done": true
-  },
-  "betterdungeons:all_dungeons": {
-    "criteria": {
-      "in_better_monster_room": "2025-02-05 07:02:23 +0000",
-      "in_better_spider_dungeon": "2025-02-05 05:37:38 +0000"
-    },
-    "done": false
-  },
-  "galosphere:recipes/building_blocks/lumiere_brick_slab_from_lumiere_block_stonecutting": {
-    "criteria": {
-      "has_lumiere_block": "2025-02-05 05:28:42 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/gray_stool": {
-    "criteria": {
-      "has_wool": "2025-02-05 05:46:57 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/rhyolite/rhyolite_slab_stonecutting": {
-    "criteria": {
-      "has_item": "2025-02-05 06:43:08 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/building_blocks/smooth_lumiere_slab_from_lumiere_block_stonecutting": {
-    "criteria": {
-      "has_lumiere_block": "2025-02-05 05:28:42 +0000"
-    },
-    "done": true
-  },
   "adorabuild_structures:treasure_seeker": {
     "criteria": {
       "oak_tree_1": "2025-02-05 05:06:05 +0000"
     },
     "done": false
   },
-  "minecraft:recipes/misc/blue_sheet_from_blue_dye": {
+  "aether:recipes/combat/crossbow_repairing": {
     "criteria": {
-      "has_blue_sheet": "2025-02-05 05:47:17 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/misc/raw_silver_block": {
-    "criteria": {
-      "has_raw_silver": "2025-02-05 05:45:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_stairs": {
-    "criteria": {
-      "has_stone_bricks": "2025-02-05 05:38:25 +0000"
-    },
-    "done": true
-  },
-  "repurposed_structures:mineshafts": {
-    "criteria": {
-      "in_mineshaft_stone": "2025-02-05 05:24:22 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/food/bread": {
-    "criteria": {
-      "has_wheat": "2025-02-05 06:35:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/hay_block": {
-    "criteria": {
-      "has_wheat": "2025-02-05 06:35:07 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/fodder": {
-    "criteria": {
-      "has_hay_block": "2025-02-05 05:17:12 +0000"
+      "has_crossbow": "2025-02-05 05:09:35 +0000"
     },
     "done": true
   },
@@ -8736,51 +8196,63 @@
     },
     "done": true
   },
-  "another_furniture:recipes/white_curtain": {
+  "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
     "criteria": {
-      "has_wool": "2025-02-05 06:05:56 +0000"
+      "has_iron_knife": "2025-02-05 05:12:31 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_brick_slab": {
+  "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
     "criteria": {
-      "has_stone_bricks": "2025-02-05 05:38:25 +0000"
+      "has_iron_knife": "2025-02-05 05:12:31 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/white_bed": {
+  "farmersdelight:main/use_cutting_board": {
     "criteria": {
-      "has_white_wool": "2025-02-05 06:05:56 +0000"
+      "cutting_board": "2025-02-05 05:12:35 +0000"
     },
     "done": true
   },
-  "supplementaries:recipes/stone_tile": {
+  "minecraft:adventure/whos_the_pillager_now": {
     "criteria": {
-      "has_stone_bricks": "2025-02-05 06:25:32 +0000"
+      "kill_pillager": "2025-02-05 05:15:57 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/light_gray_sheet_from_light_gray_dye": {
+  "supplementaries:recipes/fodder": {
     "criteria": {
-      "has_light_gray_sheet": "2025-02-05 05:47:17 +0000"
+      "has_hay_block": "2025-02-05 05:17:12 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/gray_bed": {
+  "minecraft:recipes/misc/wheat": {
     "criteria": {
-      "has_gray_wool": "2025-02-05 05:46:57 +0000"
+      "has_hay_block": "2025-02-05 05:17:12 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
-      "has_stone_bricks": "2025-02-05 06:25:32 +0000"
+      "has_potato": "2025-02-05 05:21:37 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+  "aether_redux:recipes/combat/veridium_dart": {
     "criteria": {
-      "has_stone_bricks": "2025-02-05 06:25:32 +0000"
+      "has_feather": "2025-02-05 05:21:37 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/feather_block": {
+    "criteria": {
+      "has_feather": "2025-02-05 05:21:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-02-05 05:21:37 +0000"
     },
     "done": true
   },
@@ -8802,21 +8274,87 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/wheat_dough_from_water": {
+  "repurposed_structures:mineshafts": {
     "criteria": {
-      "has_wheat": "2025-02-05 06:35:07 +0000"
+      "in_mineshaft_stone": "2025-02-05 05:24:22 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/decorations/safety_net": {
+    "criteria": {
+      "has_rope": "2025-02-05 05:26:04 +0000"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/white_cushion": {
+  "galosphere:recipes/building_blocks/smooth_lumiere_from_lumiere_block_stonecutting": {
     "criteria": {
-      "has_white_cushion": "2025-02-05 06:05:56 +0000"
+      "has_lumiere_block": "2025-02-05 05:28:42 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+  "galosphere:recipes/decorations/monstrometer": {
     "criteria": {
-      "has_stone_bricks": "2025-02-05 06:25:32 +0000"
+      "has_lumiere_block": "2025-02-05 05:28:42 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/lumiere_bricks_from_lumiere_block_stonecutting": {
+    "criteria": {
+      "has_lumiere_block": "2025-02-05 05:28:42 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/lumiere_stairs": {
+    "criteria": {
+      "has_lumiere_block": "2025-02-05 05:28:42 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/smooth_lumiere_stairs_from_lumiere_block_stonecutting": {
+    "criteria": {
+      "has_lumiere_block": "2025-02-05 05:28:42 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/lumiere_slab_from_lumiere_block_stonecutting": {
+    "criteria": {
+      "has_lumiere_block": "2025-02-05 05:28:42 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/lumiere_brick_stairs_from_lumiere_block_stonecutting": {
+    "criteria": {
+      "has_lumiere_block": "2025-02-05 05:28:42 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/smooth_lumiere": {
+    "criteria": {
+      "has_lumiere_block": "2025-02-05 05:28:42 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/chiseled_lumiere_from_lumiere_block_stonecutting": {
+    "criteria": {
+      "has_lumiere_block": "2025-02-05 05:28:42 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/lumiere_stairs_from_lumiere_block_stonecutting": {
+    "criteria": {
+      "has_lumiere_block": "2025-02-05 05:28:42 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/lumiere_brick_slab_from_lumiere_block_stonecutting": {
+    "criteria": {
+      "has_lumiere_block": "2025-02-05 05:28:42 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/smooth_lumiere_slab_from_lumiere_block_stonecutting": {
+    "criteria": {
+      "has_lumiere_block": "2025-02-05 05:28:42 +0000"
     },
     "done": true
   },
@@ -8826,15 +8364,21 @@
     },
     "done": true
   },
-  "friendsandfoes:adventure/kill_illusioner": {
+  "galosphere:recipes/decorations/lumiere_lamp": {
     "criteria": {
-      "killed_illusioner": "2025-02-05 06:37:39 +0000"
+      "has_lumiere_shard": "2025-02-05 05:28:43 +0000"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/gray_sheet": {
+  "galosphere:recipes/building_blocks/lumiere_block": {
     "criteria": {
-      "has_gray_sheet": "2025-02-05 05:46:57 +0000"
+      "has_lumiere_shard": "2025-02-05 05:28:43 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/food/nut_butter_and_jam_sandwich": {
+    "criteria": {
+      "has_nut_butter": "2025-02-05 05:32:13 +0000"
     },
     "done": true
   },
@@ -8844,27 +8388,256 @@
     },
     "done": true
   },
-  "another_furniture:recipes/white_lamp": {
-    "criteria": {
-      "has_wool": "2025-02-05 06:05:56 +0000"
-    },
-    "done": true
-  },
   "delightful:recipes/food/cooking/nut_milk": {
     "criteria": {
       "has_nut_butter": "2025-02-05 05:32:13 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/white_banner": {
+  "betterdungeons:spider_dungeon": {
     "criteria": {
-      "has_white_wool": "2025-02-05 06:05:56 +0000"
+      "in_better_spider_dungeon": "2025-02-05 05:37:38 +0000"
     },
     "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_monster_room": "2025-02-05 07:02:23 +0000",
+      "in_better_spider_dungeon": "2025-02-05 05:37:38 +0000"
+    },
+    "done": false
   },
   "farmersdelight:main/eat_nourishing_food": {
     "criteria": {
       "nourishment": "2025-02-05 05:38:21 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/lodestone": {
+    "criteria": {
+      "has_chiseled_stone_bricks": "2025-02-05 05:38:25 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pedestal": {
+    "criteria": {
+      "has_chiseled_stone_bricks": "2025-02-05 05:38:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-02-05 05:38:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-05 05:38:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-05 05:38:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/oak_cabinet": {
+    "criteria": {
+      "has_oak_trapdoor": "2025-02-05 05:38:58 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/misc/silver_ingot_from_blasting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-02-05 05:45:28 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/misc/silver_ingot_from_smelting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-02-05 05:45:28 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/misc/raw_silver_block": {
+    "criteria": {
+      "has_raw_silver": "2025-02-05 05:45:28 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/gray_cushion": {
+    "criteria": {
+      "has_gray_cushion": "2025-02-05 05:46:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-02-05 05:46:57 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/gray_tall_stool": {
+    "criteria": {
+      "has_wool": "2025-02-05 05:46:57 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/gray_lamp": {
+    "criteria": {
+      "has_wool": "2025-02-05 05:46:57 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_bed": {
+    "criteria": {
+      "has_wool": "2025-02-05 05:46:57 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/gray_curtain": {
+    "criteria": {
+      "has_wool": "2025-02-05 05:46:57 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_gray": {
+    "criteria": {
+      "has_gray_wool": "2025-02-05 05:46:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-02-05 05:46:57 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/gray_sofa": {
+    "criteria": {
+      "has_wool": "2025-02-05 05:46:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-02-05 05:46:57 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_gray": {
+    "criteria": {
+      "has_gray_wool": "2025-02-05 05:46:57 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/gray_stool": {
+    "criteria": {
+      "has_wool": "2025-02-05 05:46:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-02-05 05:46:57 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/gray_sheet": {
+    "criteria": {
+      "has_gray_sheet": "2025-02-05 05:46:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_sheet_from_light_blue_dye": {
+    "criteria": {
+      "has_light_blue_sheet": "2025-02-05 05:47:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_sheet_from_orange_dye": {
+    "criteria": {
+      "has_orange_sheet": "2025-02-05 05:47:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_sheet_from_lime_dye": {
+    "criteria": {
+      "has_lime_sheet": "2025-02-05 05:47:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_sheet_from_green_dye": {
+    "criteria": {
+      "has_green_sheet": "2025-02-05 05:47:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_sheet_from_red_dye": {
+    "criteria": {
+      "has_red_sheet": "2025-02-05 05:47:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_sheet_from_yellow_dye": {
+    "criteria": {
+      "has_yellow_sheet": "2025-02-05 05:47:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_sheet_from_magenta_dye": {
+    "criteria": {
+      "has_magenta_sheet": "2025-02-05 05:47:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_sheet_from_pink_dye": {
+    "criteria": {
+      "has_pink_sheet": "2025-02-05 05:47:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_sheet_from_white_dye": {
+    "criteria": {
+      "has_white_sheet": "2025-02-05 05:47:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_sheet_from_brown_dye": {
+    "criteria": {
+      "has_brown_sheet": "2025-02-05 05:47:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_sheet_from_black_dye": {
+    "criteria": {
+      "has_black_sheet": "2025-02-05 05:47:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_sheet_from_purple_dye": {
+    "criteria": {
+      "has_purple_sheet": "2025-02-05 05:47:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_sheet_from_cyan_dye": {
+    "criteria": {
+      "has_cyan_sheet": "2025-02-05 05:47:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_sheet_from_blue_dye": {
+    "criteria": {
+      "has_blue_sheet": "2025-02-05 05:47:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_sheet_from_light_gray_dye": {
+    "criteria": {
+      "has_light_gray_sheet": "2025-02-05 05:47:17 +0000"
     },
     "done": true
   },
@@ -8874,9 +8647,129 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/wheat": {
+  "handcrafted:recipes/misc/white_sheet": {
     "criteria": {
-      "has_hay_block": "2025-02-05 05:17:12 +0000"
+      "has_white_sheet": "2025-02-05 06:05:56 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/white_sofa": {
+    "criteria": {
+      "has_wool": "2025-02-05 06:05:56 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/white_tall_stool": {
+    "criteria": {
+      "has_wool": "2025-02-05 06:05:56 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/white_stool": {
+    "criteria": {
+      "has_wool": "2025-02-05 06:05:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-02-05 06:05:56 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_white": {
+    "criteria": {
+      "has_white_wool": "2025-02-05 06:05:56 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_white": {
+    "criteria": {
+      "has_white_wool": "2025-02-05 06:05:56 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/white_cape": {
+    "criteria": {
+      "has_white_wool": "2025-02-05 06:05:56 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/white_curtain": {
+    "criteria": {
+      "has_wool": "2025-02-05 06:05:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-02-05 06:05:56 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/white_cushion": {
+    "criteria": {
+      "has_white_cushion": "2025-02-05 06:05:56 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/white_lamp": {
+    "criteria": {
+      "has_wool": "2025-02-05 06:05:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-02-05 06:05:56 +0000"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/misc/squash_seeds_enchanting": {
+    "criteria": {
+      "has_pumpkin_seeds": "2025-02-05 06:08:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-05 06:25:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-05 06:25:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-05 06:25:32 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stone_tile": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-05 06:25:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-05 06:25:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-05 06:25:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-05 06:25:32 +0000"
     },
     "done": true
   },
@@ -8886,9 +8779,117 @@
     },
     "done": true
   },
-  "aether:recipes/combat/crossbow_repairing": {
+  "aether:recipes/tools/diamond_pickaxe_repairing": {
     "criteria": {
-      "has_crossbow": "2025-02-05 05:09:35 +0000"
+      "has_diamond_pickaxe": "2025-02-05 06:32:17 +0000"
+    },
+    "done": true
+  },
+  "hearth_and_home:recipes/thatch": {
+    "criteria": {
+      "has_item": "2025-02-05 06:35:07 +0000"
+    },
+    "done": true
+  },
+  "incubation:recipes/decorations/hay_nest": {
+    "criteria": {
+      "has_wheat": "2025-02-05 06:35:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-02-05 06:35:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2025-02-05 06:35:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-02-05 06:35:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-02-05 06:35:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2025-02-05 06:35:07 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/kill_illusioner": {
+    "criteria": {
+      "killed_illusioner": "2025-02-05 06:37:39 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite_stairs_stonecutting": {
+    "criteria": {
+      "has_item": "2025-02-05 06:43:08 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite_slab": {
+    "criteria": {
+      "has_item": "2025-02-05 06:43:08 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/polished_rhyolite_bricks_from_rhyolite_stonecutting": {
+    "criteria": {
+      "has_item": "2025-02-05 06:43:08 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/polished_rhyolite_stonecutting": {
+    "criteria": {
+      "has_item": "2025-02-05 06:43:08 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite_wall": {
+    "criteria": {
+      "has_item": "2025-02-05 06:43:08 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/polished_rhyolite": {
+    "criteria": {
+      "has_item": "2025-02-05 06:43:08 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite_stairs": {
+    "criteria": {
+      "has_item": "2025-02-05 06:43:08 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite_wall_stonecutting": {
+    "criteria": {
+      "has_item": "2025-02-05 06:43:08 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite_slab_stonecutting": {
+    "criteria": {
+      "has_item": "2025-02-05 06:43:08 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:small_dungeon": {
+    "criteria": {
+      "in_better_monster_room": "2025-02-05 07:02:23 +0000"
     },
     "done": true
   },
