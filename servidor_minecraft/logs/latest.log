@@ -3843,3 +3843,23 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [06Feb2025 02:16:44.745] [Server thread/WARN] [ModernFix/]: Dedicated server took 95.096 seconds to load
 [06Feb2025 02:16:44.749] [Server thread/INFO] [mixin/]: Mixing common.MixinServerStatus from mixins/common/nochatreports.mixins.json into net.minecraft.network.protocol.status.ServerStatus
 [06Feb2025 02:21:44.829] [Server thread/INFO] [TerraBlenderFix/]: Optimizing surface rules
+[06Feb2025 02:25:18.731] [Netty Epoll Server IO #2/WARN] [mixin/]: @ModifyConstant conflict. Skipping connectivity.mixins.json:PacketEncoderMixin from mod connectivity->@ModifyConstant::modifyLimit(ILio/netty/channel/ChannelHandlerContext;Lnet/minecraft/network/protocol/Packet;Lio/netty/buffer/ByteBuf;)I with priority 1000, already redirected by packetfixer-common.mixins.json:PacketEncoderMixin from mod packetfixer->@ModifyConstant::newSize(I)I with priority 9999
+[06Feb2025 02:25:18.838] [Netty Epoll Server IO #2/INFO] [mixin/]: Mixing server.MixinServerboundChatCommandPacket from mixins/common/nochatreports.mixins.json into net.minecraft.network.protocol.game.ServerboundChatCommandPacket
+[06Feb2025 02:25:18.840] [Netty Epoll Server IO #2/INFO] [mixin/]: Mixing server.MixinServerboundChatPacket from mixins/common/nochatreports.mixins.json into net.minecraft.network.protocol.game.ServerboundChatPacket
+[06Feb2025 02:25:18.841] [Netty Epoll Server IO #2/INFO] [mixin/]: Mixing server.MixinServerboundChatSessionUpdatePacket from mixins/common/nochatreports.mixins.json into net.minecraft.network.protocol.game.ServerboundChatSessionUpdatePacket
+[06Feb2025 02:25:24.378] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Digigamerfer[/127.175.27.76:43603] logged in with entity id 112 at (-9.425321064074787, 63.0, 30.421943256055968)
+[06Feb2025 02:25:27.720] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Digigamerfer
+[06Feb2025 02:25:27.721] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Digigamerfer
+[06Feb2025 02:25:27.722] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Digigamerfer
+[06Feb2025 02:25:27.723] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Digigamerfer
+[06Feb2025 02:25:27.727] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Digigamerfer
+[06Feb2025 02:25:27.730] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Digigamerfer
+[06Feb2025 02:25:27.731] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Digigamerfer
+[06Feb2025 02:25:27.768] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[06Feb2025 02:25:27.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer joined the game
+[06Feb2025 02:25:28.040] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for d2e2f9d0-5f14-3e71-a1c1-1f34957f0684
+[06Feb2025 02:25:28.116] [Server thread/INFO] [Jade/]: Syncing config to Digigamerfer (d2e2f9d0-5f14-3e71-a1c1-1f34957f0684)
+[06Feb2025 02:25:36.431] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12136ms or 242 ticks behind
+[06Feb2025 02:25:41.317] [Server thread/INFO] [ping-wheel/]: Channel update: Digigamerfer -> default
+[06Feb2025 02:25:41.388] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
+[06Feb2025 02:28:31.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer was slain by Zombie
