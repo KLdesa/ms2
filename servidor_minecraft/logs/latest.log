@@ -3882,3 +3882,8 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [06Feb2025 23:31:27.022] [Server thread/INFO] [ping-wheel/]: Channel update: Shinkar -> default
 [06Feb2025 23:31:27.051] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
 [06Feb2025 23:32:29.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOSHEEEE has made the advancement [Enchanter]
+[06Feb2025 23:37:20.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JOSHEEEE> zz
+[06Feb2025 23:42:23.604] [Worker-Main-30/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Starting feature recycler...
+[06Feb2025 23:42:23.796] [Worker-Main-30/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Finished recycling features. Took 192ms
+[06Feb2025 23:43:49.168] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1051, y=-42, z=-367} but found not block entity block Block{minecraft:cave_air} at location
+[06Feb2025 23:43:49.169] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:cave_air} but failed at location BlockPos{x=1051, y=-42, z=-367}
