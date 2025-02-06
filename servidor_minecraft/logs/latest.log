@@ -3959,3 +3959,21 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [06Feb2025 03:55:42.867] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sirfafnir55 lost connection: Disconnected
 [06Feb2025 03:55:42.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sirfafnir55 left the game
 [06Feb2025 03:55:42.868] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for edb6134e-223e-3469-9573-7afb11cfbf0d
+[06Feb2025 03:57:03.391] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sirfafnir55[/127.33.68.235:58021] logged in with entity id 30571 at (-699.6087015970627, -50.0, -189.6907396294198)
+[06Feb2025 03:57:03.396] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Sirfafnir55
+[06Feb2025 03:57:03.397] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Sirfafnir55
+[06Feb2025 03:57:03.397] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Sirfafnir55
+[06Feb2025 03:57:03.397] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Sirfafnir55
+[06Feb2025 03:57:03.399] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Sirfafnir55
+[06Feb2025 03:57:03.401] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Sirfafnir55
+[06Feb2025 03:57:03.401] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Sirfafnir55
+[06Feb2025 03:57:03.411] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[06Feb2025 03:57:03.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sirfafnir55 joined the game
+[06Feb2025 03:57:03.483] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for edb6134e-223e-3469-9573-7afb11cfbf0d
+[06Feb2025 03:57:03.490] [Server thread/INFO] [Jade/]: Syncing config to Sirfafnir55 (edb6134e-223e-3469-9573-7afb11cfbf0d)
+[06Feb2025 03:57:03.838] [Server thread/INFO] [ping-wheel/]: Channel update: Sirfafnir55 -> default
+[06Feb2025 03:57:03.842] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
+[06Feb2025 03:57:20.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOSHEEEE was slain by Zombie
+[06Feb2025 04:00:43.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar has made the advancement [When in Rome]
+[06Feb2025 04:05:38.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer was blown up by Creeper
+[06Feb2025 04:06:47.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sirfafnir55 has made the advancement [Sneak 100]
