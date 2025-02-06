@@ -4072,3 +4072,4 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [06Feb2025 05:45:17.366] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for d2e2f9d0-5f14-3e71-a1c1-1f34957f0684
 [06Feb2025 06:17:03.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sirfafnir55 has made the advancement [The Parrots and the Bats]
 [06Feb2025 06:31:02.360] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2215ms or 44 ticks behind
+[06Feb2025 06:56:48.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar has made the advancement [A Seedy Place]

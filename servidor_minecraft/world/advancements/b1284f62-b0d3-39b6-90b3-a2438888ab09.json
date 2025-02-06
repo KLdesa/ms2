@@ -6189,7 +6189,8 @@
     "criteria": {
       "sweet_berries": "2025-02-05 03:43:48 +0000",
       "brown_mushroom": "2025-02-06 06:03:11 +0000",
-      "sugar_cane": "2025-02-06 06:31:36 +0000"
+      "sugar_cane": "2025-02-06 06:31:36 +0000",
+      "wheat": "2025-02-06 06:56:48 +0000"
     },
     "done": false
   },
@@ -7309,6 +7310,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/blossom_berry_jelly_potion": {
+    "criteria": {
+      "has_potion": "2025-02-06 06:49:14 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-06 04:06:59 +0000"
@@ -7492,6 +7499,12 @@
   "stoneworks:recipes/building_blocks/stone_paver_wall_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-02-06 05:12:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-02-06 06:50:36 +0000"
     },
     "done": true
   },
@@ -7966,6 +7979,12 @@
   "stoneworks:recipes/building_blocks/cobbled_calcite_wall_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-02-06 04:30:04 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/shadow_berry_jelly_potion": {
+    "criteria": {
+      "has_potion": "2025-02-06 06:49:14 +0000"
     },
     "done": true
   },
@@ -8914,6 +8933,12 @@
   "stoneworks:recipes/building_blocks/mossy_cobbled_andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-06 04:06:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-02-06 06:56:48 +0000"
     },
     "done": true
   },
