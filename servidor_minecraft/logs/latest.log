@@ -4070,3 +4070,4 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [06Feb2025 05:45:17.365] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Digigamerfer lost connection: Disconnected
 [06Feb2025 05:45:17.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer left the game
 [06Feb2025 05:45:17.366] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for d2e2f9d0-5f14-3e71-a1c1-1f34957f0684
+[06Feb2025 06:17:03.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sirfafnir55 has made the advancement [The Parrots and the Bats]
