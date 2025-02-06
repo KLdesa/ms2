@@ -6188,6 +6188,7 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "sweet_berries": "2025-02-05 03:43:48 +0000",
+      "rice": "2025-02-06 06:58:41 +0000",
       "brown_mushroom": "2025-02-06 06:03:11 +0000",
       "sugar_cane": "2025-02-06 06:31:36 +0000",
       "wheat": "2025-02-06 06:56:48 +0000"
@@ -7364,6 +7365,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/rice_bale": {
+    "criteria": {
+      "has_rice_panicle": "2025-02-06 06:58:45 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/polished_calcite_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-02-06 04:30:04 +0000"
@@ -7796,6 +7803,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/kelp_roll": {
+    "criteria": {
+      "has_dried_kelp": "2025-02-06 07:02:11 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/basalt_brick_stairs_from_smooth_stonecutting": {
     "criteria": {
       "has_block.minecraft.smooth_basalt": "2025-02-06 04:41:45 +0000"
@@ -7919,6 +7932,12 @@
   "aether:recipes/combat/diamond_leggings_repairing": {
     "criteria": {
       "has_diamond_leggings": "2025-02-06 05:29:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_rice": {
+    "criteria": {
+      "plant_rice": "2025-02-06 06:58:41 +0000"
     },
     "done": true
   },
@@ -8480,6 +8499,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2025-02-06 07:02:11 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/diamond_boots_repairing": {
     "criteria": {
       "has_diamond_boots": "2025-02-06 05:29:36 +0000"
@@ -8657,6 +8682,12 @@
   "twigs:recipes/calcite/calcite_wall": {
     "criteria": {
       "has_item": "2025-02-06 04:30:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/rice": {
+    "criteria": {
+      "has_rice_panicle": "2025-02-06 06:58:45 +0000"
     },
     "done": true
   },
