@@ -8959,6 +8959,12 @@
     },
     "done": true
   },
+  "betternether:recipes/tools/flaming_ruby_pickaxe": {
+    "criteria": {
+      "has_block.minecraft.sculk_catalyst": "2025-02-06 07:14:14 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/roasted_mutton_chops": {
     "criteria": {
       "has_mutton": "2025-02-06 05:51:49 +0000"
@@ -8980,6 +8986,12 @@
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_iron_block": "2025-02-06 04:59:33 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/skreecher": {
+    "criteria": {
+      "killed": "2025-02-06 07:07:29 +0000"
     },
     "done": true
   },
@@ -9091,6 +9103,12 @@
     },
     "done": true
   },
+  "deeperdarker:main/kill_warden": {
+    "criteria": {
+      "warden": "2025-02-06 07:13:42 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/tuff_plate_stairs_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-02-06 05:39:34 +0000"
@@ -9187,6 +9205,12 @@
     },
     "done": true
   },
+  "betternether:recipes/combat/flaming_ruby_boots": {
+    "criteria": {
+      "has_block.minecraft.sculk_catalyst": "2025-02-06 07:14:14 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/shepherds_pie_block": {
     "criteria": {
       "has_cooked_mutton": "2025-02-06 05:51:49 +0000"
@@ -9265,6 +9289,12 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/misc/reinforced_echo_shard": {
+    "criteria": {
+      "has_warden_carapace": "2025-02-06 07:14:14 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/tuff/polished_tuff_bricks_from_bloodstone_stonecutting": {
     "criteria": {
       "has_item": "2025-02-06 05:39:34 +0000"
@@ -9280,6 +9310,12 @@
   "stoneworks:recipes/building_blocks/tuff_tiles_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-02-06 05:39:34 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/combat/flaming_ruby_leggings": {
+    "criteria": {
+      "has_block.minecraft.sculk_catalyst": "2025-02-06 07:14:14 +0000"
     },
     "done": true
   },
@@ -9352,6 +9388,12 @@
   "aether:recipes/decorations/skyroot_barrel": {
     "criteria": {
       "has_slabs": "2025-02-06 06:13:26 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/flaming_ruby_shovel": {
+    "criteria": {
+      "has_block.minecraft.sculk_catalyst": "2025-02-06 07:14:14 +0000"
     },
     "done": true
   },
@@ -9433,9 +9475,21 @@
     },
     "done": true
   },
+  "betternether:recipes/tools/flaming_ruby_hoe": {
+    "criteria": {
+      "has_block.minecraft.sculk_catalyst": "2025-02-06 07:14:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_stairs": {
     "criteria": {
       "has_polished_deepslate": "2025-02-06 06:27:45 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/combat/flaming_ruby_chestplate": {
+    "criteria": {
+      "has_block.minecraft.sculk_catalyst": "2025-02-06 07:14:14 +0000"
     },
     "done": true
   },
@@ -9535,6 +9589,12 @@
     },
     "done": true
   },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "warden": "2025-02-06 07:13:42 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2025-02-06 04:59:33 +0000"
@@ -9583,6 +9643,18 @@
     },
     "done": true
   },
+  "betternether:recipes/tools/flaming_ruby_axe": {
+    "criteria": {
+      "has_block.minecraft.sculk_catalyst": "2025-02-06 07:14:14 +0000"
+    },
+    "done": true
+  },
+  "quark:get_diamond_heart": {
+    "criteria": {
+      "get_diamond_heart": "2025-02-06 07:14:43 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/chiseled_tuff_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-02-06 05:39:34 +0000"
@@ -9592,6 +9664,12 @@
   "stoneworks:recipes/building_blocks/cracked_tuff_tiles_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-02-06 05:39:34 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/combat/sonorous_staff": {
+    "criteria": {
+      "has_heart_of_the_deep": "2025-02-06 07:14:14 +0000"
     },
     "done": true
   },
@@ -9649,6 +9727,12 @@
     },
     "done": false
   },
+  "betternether:recipes/combat/flaming_ruby_sword": {
+    "criteria": {
+      "has_block.minecraft.sculk_catalyst": "2025-02-06 07:14:14 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/decorations/wood/oak_banister": {
     "criteria": {
       "has_item": "2025-02-06 06:13:26 +0000"
@@ -9695,6 +9779,12 @@
   "aether:recipes/food/moa_egg_pumpkin_pie": {
     "criteria": {
       "has_pumpkin": "2025-02-06 05:51:05 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/combat/flaming_ruby_helmet": {
+    "criteria": {
+      "has_block.minecraft.sculk_catalyst": "2025-02-06 07:14:14 +0000"
     },
     "done": true
   },

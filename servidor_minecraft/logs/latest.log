@@ -4076,3 +4076,7 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [06Feb2025 07:01:19.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sirfafnir55 has made the advancement [Multi-Disciplined]
 [06Feb2025 07:05:39.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sirfafnir55 has completed the challenge [It Spreads]
 [06Feb2025 07:07:29.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sirfafnir55 has made the advancement [Sculk Cymbal]
+[06Feb2025 07:11:23.905] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinTrader['Antone'/111647, l='ServerLevel[world]', x=-713.48, y=-43.00, z=86.71] died: Antone was slain by Warden
+[06Feb2025 07:13:42.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sirfafnir55 has completed the challenge [Phantom Thief]
+[06Feb2025 07:14:43.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sirfafnir55 has made the advancement [Shape of My Heart]
+[06Feb2025 07:20:04.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sirfafnir55 has made the advancement [A Bone to Pick]

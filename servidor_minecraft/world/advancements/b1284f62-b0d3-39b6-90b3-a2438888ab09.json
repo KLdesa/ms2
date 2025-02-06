@@ -6810,6 +6810,7 @@
   "adorabuild_structures:tireless_legs": {
     "criteria": {
       "spruce_house_medium_1": "2025-02-05 06:38:07 +0000",
+      "prison_small_1": "2025-02-06 07:10:48 +0000",
       "spruce_house_large_1": "2025-02-05 04:58:24 +0000",
       "oak_house_small_3": "2025-02-05 06:19:28 +0000",
       "oak_tree_1": "2025-02-05 06:02:48 +0000",
@@ -7341,6 +7342,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/dripstone_pillar_trim": {
+    "criteria": {
+      "has_dripstone_pillar_trim": "2025-02-06 07:15:06 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/basalt_brick_wall_from_smooth_stonecutting": {
     "criteria": {
       "has_block.minecraft.smooth_basalt": "2025-02-06 04:41:45 +0000"
@@ -7473,6 +7480,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-02-06 07:15:05 +0000"
+    },
+    "done": true
+  },
   "galosphere:adventure/silver_ingot": {
     "criteria": {
       "silver_ingot": "2025-02-06 05:01:13 +0000"
@@ -7494,6 +7507,12 @@
   "aether:recipes/combat/diamond_helmet_repairing": {
     "criteria": {
       "has_diamond_helmet": "2025-02-06 05:29:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_chestplate": "2025-02-06 07:16:15 +0000"
     },
     "done": true
   },
@@ -7593,6 +7612,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-02-06 07:15:05 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/decorations/silver_lattice": {
     "criteria": {
       "has_silver_ingot": "2025-02-06 05:01:13 +0000"
@@ -7656,6 +7681,12 @@
   "stoneworks:recipes/building_blocks/stone_plate_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-02-06 05:12:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-02-06 07:15:04 +0000"
     },
     "done": true
   },
@@ -7800,6 +7831,12 @@
   "stoneworks:recipes/building_blocks/mossy_andesite_brick_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-06 04:06:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-02-06 07:15:05 +0000"
     },
     "done": true
   },
@@ -8403,6 +8440,18 @@
     },
     "done": true
   },
+  "aether:recipes/combat/golden_chestplate_repairing": {
+    "criteria": {
+      "has_golden_chestplate": "2025-02-06 07:16:15 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dripstone_corner_trim": {
+    "criteria": {
+      "has_dripstone_corner_trim": "2025-02-06 07:15:06 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/deepslate_plate_slab_from_deepslate_stonecutting": {
     "criteria": {
       "has_deepslate": "2025-02-06 04:17:17 +0000"
@@ -8643,6 +8692,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_chestplate": "2025-02-06 07:16:15 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_calcite_stairs_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-02-06 04:30:04 +0000"
@@ -8676,6 +8731,12 @@
   "supplementaries:recipes/stonecutting/stone_tile_slab": {
     "criteria": {
       "has_stone_tile": "2025-02-06 05:25:43 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/compacted_dripstone": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-02-06 07:15:04 +0000"
     },
     "done": true
   },
