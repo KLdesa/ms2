@@ -2799,6 +2799,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-02-05 03:18:42 +0000",
+      "cooked_mutton": "2025-02-06 05:51:57 +0000",
       "sweet_berries": "2025-02-05 03:44:34 +0000",
       "cooked_beef": "2025-02-04 05:17:22 +0000",
       "apple": "2025-02-05 02:35:06 +0000",
@@ -5456,6 +5457,7 @@
       "maple_woods": "2025-02-05 02:54:23 +0000",
       "dune_beach": "2025-02-04 06:07:27 +0000",
       "dead_forest": "2025-02-05 02:55:32 +0000",
+      "pumpkin_patch": "2025-02-06 05:50:37 +0000",
       "tundra": "2025-02-05 02:56:56 +0000",
       "gravel_beach": "2025-02-04 06:07:19 +0000",
       "snowy_maple_woods": "2025-02-05 02:55:31 +0000"
@@ -8930,6 +8932,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2025-02-06 05:51:49 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/tuff/polished_tuff": {
     "criteria": {
       "has_item": "2025-02-06 05:39:34 +0000"
@@ -9020,6 +9028,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2025-02-06 05:51:49 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_tuff_wall_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-02-06 05:39:34 +0000"
@@ -9056,6 +9070,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2025-02-06 05:51:49 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/tuff_plate_slab_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-02-06 05:39:34 +0000"
@@ -9089,6 +9109,12 @@
   "stoneworks:recipes/building_blocks/tuff_paver_wall_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-02-06 05:39:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-02-06 05:51:05 +0000"
     },
     "done": true
   },
@@ -9137,6 +9163,12 @@
   "stoneworks:recipes/building_blocks/tuff_tile_slab_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-02-06 05:39:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-02-06 05:51:05 +0000"
     },
     "done": true
   },
@@ -9218,6 +9250,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
+    "criteria": {
+      "has_pumpkin": "2025-02-06 05:51:05 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_tuff_stairs_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-02-06 05:39:34 +0000"
@@ -9272,6 +9310,13 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-02-06 05:51:05 +0000",
+      "has_the_recipe": "2025-02-06 05:51:05 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/polished_tuff_slab_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-02-06 05:39:34 +0000"
@@ -9281,6 +9326,12 @@
   "stoneworks:recipes/building_blocks/tuff_brick_stairs_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-02-06 05:39:34 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/food/moa_egg_pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-02-06 05:51:05 +0000"
     },
     "done": true
   },
