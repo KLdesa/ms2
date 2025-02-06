@@ -7097,6 +7097,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "cabbage": "2025-02-06 05:37:26 +0000",
       "onion": "2025-02-06 04:47:22 +0000",
       "sweet_berries": "2025-02-05 03:55:26 +0000",
       "tomato": "2025-02-06 05:16:32 +0000",
@@ -7582,6 +7583,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/bamboo_spikes": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-02-06 05:44:08 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_calcite_stairs_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-02-06 03:55:16 +0000"
@@ -7597,6 +7604,12 @@
   "twigs:recipes/amethyst_blocks/polished_amethyst": {
     "criteria": {
       "has_item": "2025-02-06 03:55:33 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/blackboard": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-02-06 05:44:08 +0000"
     },
     "done": true
   },
@@ -8068,9 +8081,21 @@
     },
     "done": true
   },
+  "supplementaries:recipes/jar": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-02-06 05:44:08 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/calcite_brick_slab_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-02-06 03:55:16 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_bowl": {
+    "criteria": {
+      "has_wood_bowl": "2025-02-06 05:44:08 +0000"
     },
     "done": true
   },
@@ -8083,6 +8108,12 @@
   "another_furniture:recipes/black_curtain": {
     "criteria": {
       "has_wool": "2025-02-06 04:00:18 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_plate": {
+    "criteria": {
+      "has_wood_plate": "2025-02-06 05:44:08 +0000"
     },
     "done": true
   },
@@ -8107,6 +8138,12 @@
   "yungscavebiomes:recipes/building_blocks/brittle_sandstone": {
     "criteria": {
       "has_sand": "2025-02-06 02:56:04 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_barrel": {
+    "criteria": {
+      "has_slabs": "2025-02-06 05:44:08 +0000"
     },
     "done": true
   },
@@ -8167,6 +8204,12 @@
   "stoneworks:recipes/building_blocks/tuff_tile_slab_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-02-06 02:35:57 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/oak_shutter": {
+    "criteria": {
+      "has_slab": "2025-02-06 05:44:08 +0000"
     },
     "done": true
   },
@@ -8260,6 +8303,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/wood_cup": {
+    "criteria": {
+      "has_wood_cup": "2025-02-06 05:44:08 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/calcite_tiles_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-02-06 03:55:16 +0000"
@@ -8299,6 +8348,12 @@
   "supplementaries:recipes/gold_trapdoor": {
     "criteria": {
       "has_gold_ingot": "2025-02-06 03:06:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-02-06 05:44:08 +0000"
     },
     "done": true
   },
@@ -8431,6 +8486,12 @@
   "stoneworks:recipes/building_blocks/tuff_plate_wall_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-02-06 02:35:57 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/oak_table_slab": {
+    "criteria": {
+      "has_bamboo": "2025-02-06 05:44:08 +0000"
     },
     "done": true
   },
@@ -8614,6 +8675,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/item_shelf": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-02-06 05:44:08 +0000"
+    },
+    "done": true
+  },
   "hearth_and_home:recipes/polished_calcite": {
     "criteria": {
       "has_item": "2025-02-06 03:55:16 +0000"
@@ -8626,6 +8693,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/oak_bench": {
+    "criteria": {
+      "has_slab": "2025-02-06 05:44:08 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_calcite_slab_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-02-06 03:55:16 +0000"
@@ -8635,6 +8708,12 @@
   "stoneworks:recipes/building_blocks/cobbled_tuff_stairs_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-02-06 02:35:57 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/oak_flower_box": {
+    "criteria": {
+      "has_slab": "2025-02-06 05:44:08 +0000"
     },
     "done": true
   },
@@ -8659,6 +8738,12 @@
   "betternether:recipes/building_blocks/obsidian_bricks_slab_stonecutter": {
     "criteria": {
       "has_block.minecraft.obsidian": "2025-02-06 02:37:48 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/oak_banister": {
+    "criteria": {
+      "has_item": "2025-02-06 05:44:08 +0000"
     },
     "done": true
   },
@@ -8763,6 +8848,12 @@
       "beehive": "2025-02-06 05:04:21 +0000"
     },
     "done": false
+  },
+  "blue_skies:recipes/building_blocks/trough": {
+    "criteria": {
+      "has_item": "2025-02-06 05:44:08 +0000"
+    },
+    "done": true
   },
   "minecraft:husbandry/plant_seed": {
     "criteria": {
