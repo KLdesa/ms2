@@ -6187,7 +6187,8 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "sweet_berries": "2025-02-05 03:43:48 +0000",
-      "brown_mushroom": "2025-02-06 06:03:11 +0000"
+      "brown_mushroom": "2025-02-06 06:03:11 +0000",
+      "sugar_cane": "2025-02-06 06:31:36 +0000"
     },
     "done": false
   },
@@ -7553,6 +7554,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-02-06 06:31:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2025-02-06 03:58:55 +0000"
@@ -7598,6 +7605,12 @@
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-02-06 05:12:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-02-06 06:31:32 +0000"
     },
     "done": true
   },
@@ -8516,6 +8529,12 @@
   "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-02-06 04:06:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_the_recipe": "2025-02-06 06:34:31 +0000"
     },
     "done": true
   },
