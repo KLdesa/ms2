@@ -7317,9 +7317,27 @@
     },
     "done": true
   },
+  "galosphere:recipes/misc/silver_nugget": {
+    "criteria": {
+      "has_silver_ingot": "2025-02-06 02:56:58 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/decorations/combustion_table": {
+    "criteria": {
+      "has_silver_ingot": "2025-02-06 02:56:58 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/tuff/tuff_slab_stonecutting": {
     "criteria": {
       "has_item": "2025-02-06 02:35:57 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/ender_perl_to_block": {
+    "criteria": {
+      "has_ender_pearl": "2025-02-06 03:00:48 +0000"
     },
     "done": true
   },
@@ -7332,6 +7350,12 @@
   "twigs:recipes/tuff/polished_tuff": {
     "criteria": {
       "has_item": "2025-02-06 02:35:57 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/ender_eye_amber": {
+    "criteria": {
+      "has_ender_pearl": "2025-02-06 03:00:48 +0000"
     },
     "done": true
   },
@@ -7350,6 +7374,12 @@
   "aether:recipes/tools/diamond_pickaxe_repairing": {
     "criteria": {
       "has_diamond_pickaxe": "2025-02-06 02:37:12 +0000"
+    },
+    "done": true
+  },
+  "galosphere:adventure/silver_ingot": {
+    "criteria": {
+      "silver_ingot": "2025-02-06 02:56:58 +0000"
     },
     "done": true
   },
@@ -7386,6 +7416,12 @@
   "stoneworks:recipes/building_blocks/tuff_paver_slab_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-02-06 02:35:57 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/decorations/silver_lattice": {
+    "criteria": {
+      "has_silver_ingot": "2025-02-06 02:56:58 +0000"
     },
     "done": true
   },
@@ -7449,6 +7485,18 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/ender_pearl_to_dust": {
+    "criteria": {
+      "has_item.minecraft.ender_pearl": "2025-02-06 03:00:48 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/tools/spectre_flare": {
+    "criteria": {
+      "has_silver_ingot": "2025-02-06 02:56:58 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/tuff_plate_slab_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-02-06 02:35:57 +0000"
@@ -7458,6 +7506,12 @@
   "stoneworks:recipes/building_blocks/tuff_shingle_wall_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-02-06 02:35:57 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/misc/silver_block": {
+    "criteria": {
+      "has_silver_ingot": "2025-02-06 02:56:58 +0000"
     },
     "done": true
   },
@@ -7515,6 +7569,12 @@
     },
     "done": true
   },
+  "yungscavebiomes:recipes/building_blocks/brittle_sandstone": {
+    "criteria": {
+      "has_sand": "2025-02-06 02:56:04 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/tuff_tile_slab_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-02-06 02:35:57 +0000"
@@ -7548,6 +7608,12 @@
   "stoneworks:recipes/building_blocks/tuff_tile_stairs_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-02-06 02:35:57 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/redstone/silver_balance": {
+    "criteria": {
+      "has_silver_ingot": "2025-02-06 02:56:58 +0000"
     },
     "done": true
   },
@@ -7599,6 +7665,18 @@
     },
     "done": true
   },
+  "delightful:recipes/knives/silver_knife": {
+    "criteria": {
+      "has_ingots/silver": "2025-02-06 02:56:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-02-06 02:56:04 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/tuff_plate_wall_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-02-06 02:35:57 +0000"
@@ -7620,6 +7698,12 @@
   "stoneworks:recipes/building_blocks/chiseled_tuff_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-02-06 02:35:57 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/silt/silt_from_sand": {
+    "criteria": {
+      "has_item": "2025-02-06 02:56:04 +0000"
     },
     "done": true
   },
@@ -7662,6 +7746,12 @@
   "stoneworks:recipes/building_blocks/tuff_brick_slab_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-02-06 02:35:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-02-06 02:56:04 +0000"
     },
     "done": true
   },
