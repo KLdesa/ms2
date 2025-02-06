@@ -3977,3 +3977,23 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [06Feb2025 04:00:43.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar has made the advancement [When in Rome]
 [06Feb2025 04:05:38.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer was blown up by Creeper
 [06Feb2025 04:06:47.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sirfafnir55 has made the advancement [Sneak 100]
+[06Feb2025 04:07:21.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer was slain by Spider
+[06Feb2025 04:07:40.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer was slain by Spider
+[06Feb2025 04:08:44.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOSHEEEE has made the advancement [What a Deal!]
+[06Feb2025 04:14:55.965] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JOSHEEEE lost connection: Disconnected
+[06Feb2025 04:14:55.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOSHEEEE left the game
+[06Feb2025 04:14:55.965] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 05c95e7d-3331-3e5a-9d76-5424e66cc84e
+[06Feb2025 04:15:07.590] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JOSHEEEE[/127.134.46.10:55939] logged in with entity id 41051 at (-661.2375000119209, 104.5625, -6.350155799003922)
+[06Feb2025 04:15:07.596] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to JOSHEEEE
+[06Feb2025 04:15:07.597] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to JOSHEEEE
+[06Feb2025 04:15:07.597] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to JOSHEEEE
+[06Feb2025 04:15:07.597] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to JOSHEEEE
+[06Feb2025 04:15:07.599] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to JOSHEEEE
+[06Feb2025 04:15:07.601] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to JOSHEEEE
+[06Feb2025 04:15:07.601] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to JOSHEEEE
+[06Feb2025 04:15:07.611] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[06Feb2025 04:15:07.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOSHEEEE joined the game
+[06Feb2025 04:15:07.701] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 05c95e7d-3331-3e5a-9d76-5424e66cc84e
+[06Feb2025 04:15:07.707] [Server thread/INFO] [Jade/]: Syncing config to JOSHEEEE (05c95e7d-3331-3e5a-9d76-5424e66cc84e)
+[06Feb2025 04:15:08.186] [Server thread/INFO] [ping-wheel/]: Channel update: JOSHEEEE -> default
+[06Feb2025 04:15:08.217] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
