@@ -3871,3 +3871,74 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [06Feb2025 02:56:58.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer has made the advancement [Multi-Disciplined]
 [06Feb2025 03:09:30.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer was shot by Forgotten
 [06Feb2025 03:11:16.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer was slain by Murmur
+[06Feb2025 03:26:55.089] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Shinkar[/127.250.238.57:47685] logged in with entity id 12754 at (-534.8406660172584, 43.5, 825.4843804873277)
+[06Feb2025 03:26:55.094] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Shinkar
+[06Feb2025 03:26:55.095] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Shinkar
+[06Feb2025 03:26:55.095] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Shinkar
+[06Feb2025 03:26:55.096] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Shinkar
+[06Feb2025 03:26:55.098] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Shinkar
+[06Feb2025 03:26:55.100] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Shinkar
+[06Feb2025 03:26:55.100] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Shinkar
+[06Feb2025 03:26:55.111] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[06Feb2025 03:26:55.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar joined the game
+[06Feb2025 03:26:55.200] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for b1284f62-b0d3-39b6-90b3-a2438888ab09
+[06Feb2025 03:26:55.211] [Server thread/INFO] [Jade/]: Syncing config to Shinkar (b1284f62-b0d3-39b6-90b3-a2438888ab09)
+[06Feb2025 03:27:13.810] [Server thread/INFO] [ping-wheel/]: Channel update: Shinkar -> default
+[06Feb2025 03:27:13.810] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
+[06Feb2025 03:31:18.845] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JOSHEEEE[/127.134.46.10:35129] logged in with entity id 14115 at (-680.5688196529434, 97.0, 23.631954554833136)
+[06Feb2025 03:31:18.851] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to JOSHEEEE
+[06Feb2025 03:31:18.852] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to JOSHEEEE
+[06Feb2025 03:31:18.852] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to JOSHEEEE
+[06Feb2025 03:31:18.853] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to JOSHEEEE
+[06Feb2025 03:31:18.855] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to JOSHEEEE
+[06Feb2025 03:31:18.857] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to JOSHEEEE
+[06Feb2025 03:31:18.858] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to JOSHEEEE
+[06Feb2025 03:31:18.869] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[06Feb2025 03:31:18.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOSHEEEE joined the game
+[06Feb2025 03:31:18.935] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 05c95e7d-3331-3e5a-9d76-5424e66cc84e
+[06Feb2025 03:31:18.948] [Server thread/INFO] [Jade/]: Syncing config to JOSHEEEE (05c95e7d-3331-3e5a-9d76-5424e66cc84e)
+[06Feb2025 03:31:29.169] [Server thread/INFO] [ping-wheel/]: Channel update: JOSHEEEE -> default
+[06Feb2025 03:31:29.169] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
+[06Feb2025 03:36:48.814] [Worker-Main-15/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Starting feature recycler...
+[06Feb2025 03:36:49.051] [Worker-Main-15/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Finished recycling features. Took 237ms
+[06Feb2025 03:37:14.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown game mode: JOSHEEEE
+[06Feb2025 03:37:14.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...e JOSHEEEE spectator<--[HERE]
+[06Feb2025 03:40:00.922] [Worker-Main-14/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[06Feb2025 03:40:00.923] [Worker-Main-14/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:box_turtle"}
+[06Feb2025 03:40:00.924] [Worker-Main-14/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:starshell_turtle"}
+[06Feb2025 03:40:00.924] [Worker-Main-14/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:arrau_turtle"}
+[06Feb2025 03:40:00.925] [Worker-Main-14/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[06Feb2025 03:40:00.926] [Worker-Main-14/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[06Feb2025 03:40:00.926] [Worker-Main-14/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[06Feb2025 03:40:00.927] [Worker-Main-14/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[06Feb2025 03:40:00.927] [Worker-Main-14/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[06Feb2025 03:40:00.929] [Worker-Main-14/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[06Feb2025 03:40:00.929] [Worker-Main-14/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[06Feb2025 03:40:00.930] [Worker-Main-14/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:iron_fillet_knife",tag:{Damage:0}}
+[06Feb2025 03:40:00.931] [Worker-Main-14/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculturedelight:turtle_meat_dish"}
+[06Feb2025 03:40:00.931] [Worker-Main-14/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculturedelight:turtle_meat_dish"}
+[06Feb2025 03:40:00.932] [Worker-Main-14/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[06Feb2025 03:40:00.933] [Worker-Main-14/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[06Feb2025 03:40:00.934] [Worker-Main-14/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[06Feb2025 03:40:00.934] [Worker-Main-14/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[06Feb2025 03:42:31.734] [Worker-Main-15/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:5.91608f,range:8,source:{pos:[I;-178,-59,-363],type:"minecraft:block"}}]
+[06Feb2025 03:42:31.734] [Worker-Main-15/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:5.91608f,range:8,source:{pos:[I;-174,-59,-369],type:"minecraft:block"}}]
+[06Feb2025 03:42:31.735] [Worker-Main-15/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-174,-59,-356],type:"minecraft:block"}}]
+[06Feb2025 03:42:31.766] [Worker-Main-14/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:7.660372f,range:8,source:{pos:[I;-158,-53,-362],type:"minecraft:block"}}]
+[06Feb2025 03:42:31.767] [Worker-Main-14/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:6.9118114f,range:8,source:{pos:[I;-160,-49,-366],type:"minecraft:block"}}]
+[06Feb2025 03:42:31.768] [Worker-Main-14/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:6.0f,range:8,source:{pos:[I;-158,-48,-366],type:"minecraft:block"}}]
+[06Feb2025 03:42:31.785] [Worker-Main-83/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:7.8740077f,range:8,source:{pos:[I;-150,-54,-359],type:"minecraft:block"}}]
+[06Feb2025 03:42:31.786] [Worker-Main-83/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:4.826741f,range:8,source:{pos:[I;-154,-53,-365],type:"minecraft:block"}}]
+[06Feb2025 03:42:38.858] [Worker-Main-16/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:5.6380615f,range:8,source:{pos:[I;-153,-58,-371],type:"minecraft:block"}}]
+[06Feb2025 03:42:38.859] [Worker-Main-16/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:7.802702f,range:8,source:{pos:[I;-154,-53,-378],type:"minecraft:block"}}]
+[06Feb2025 03:42:38.859] [Worker-Main-16/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:5.527325f,range:8,source:{pos:[I;-153,-53,-374],type:"minecraft:block"}}]
+[06Feb2025 03:42:38.859] [Worker-Main-16/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:1.0f,range:8,source:{pos:[I;-152,-53,-371],type:"minecraft:block"}}]
+[06Feb2025 03:42:38.860] [Worker-Main-16/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:4.061569f,range:8,source:{pos:[I;-152,-53,-370],type:"minecraft:block"}}]
+[06Feb2025 03:42:38.860] [Worker-Main-16/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:3.152014f,range:8,source:{pos:[I;-157,-51,-371],type:"minecraft:block"}}]
+[06Feb2025 03:42:38.914] [Worker-Main-15/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:5.5970345f,range:8,source:{pos:[I;-187,-59,-379],type:"minecraft:block"}}]
+[06Feb2025 03:42:38.914] [Worker-Main-15/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:4.3011737f,range:8,source:{pos:[I;-180,-59,-376],type:"minecraft:block"}}]
+[06Feb2025 03:42:38.914] [Worker-Main-15/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:7.063859f,range:8,source:{pos:[I;-175,-59,-379],type:"minecraft:block"}}]
+[06Feb2025 03:42:38.933] [Worker-Main-15/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:7.3484693f,range:8,source:{pos:[I;-170,-58,-380],type:"minecraft:block"}}]
+[06Feb2025 03:42:38.933] [Worker-Main-15/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:3.7416575f,range:8,source:{pos:[I;-170,-57,-377],type:"minecraft:block"}}]
+[06Feb2025 03:42:38.935] [Worker-Main-15/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:7.3052635f,range:8,source:{pos:[I;-160,-52,-370],type:"minecraft:block"}}]
+[06Feb2025 03:44:29.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer was slain by Zombie

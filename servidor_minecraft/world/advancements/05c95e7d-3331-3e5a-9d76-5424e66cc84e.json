@@ -8687,12 +8687,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
-    "criteria": {
-      "has_iron_nugget": "2025-02-05 16:51:26 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/kitchen_hood_pipe": {
     "criteria": {
       "has_kitchen_hood_pipe": "2025-02-05 16:42:19 +0000"
@@ -8711,12 +8705,6 @@
     },
     "done": true
   },
-  "illagerinvasion:recipes/misc/platinum_sheet": {
-    "criteria": {
-      "has_platinum_chunk": "2025-02-05 16:43:04 +0000"
-    },
-    "done": true
-  },
   "decorative_blocks:recipes/decorations/soul_brazier": {
     "criteria": {
       "has_bar": "2025-02-05 16:42:19 +0000"
@@ -8726,6 +8714,18 @@
   "handcrafted:recipes/misc/kitchen_hood": {
     "criteria": {
       "has_kitchen_hood": "2025-02-05 16:42:19 +0000"
+    },
+    "done": true
+  },
+  "illagerinvasion:recipes/misc/platinum_sheet": {
+    "criteria": {
+      "has_platinum_chunk": "2025-02-05 16:43:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-02-05 16:51:26 +0000"
     },
     "done": true
   },
