@@ -8936,6 +8936,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/netherite_trapdoor": {
+    "criteria": {
+      "has_netherite_scrap": "2025-02-06 07:31:32 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/misc/skeleton_skull_candle": {
     "criteria": {
       "has_item": "2025-02-06 07:26:11 +0000"
@@ -8951,6 +8957,12 @@
   "minecraft:recipes/decorations/mossy_stone_brick_wall": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-02-06 07:22:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-02-06 07:31:32 +0000"
     },
     "done": true
   },
@@ -9074,6 +9086,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/cabbage_rolls": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-06 07:30:36 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/bamboo_spikes": {
     "criteria": {
       "minecraft:wooden_slabs": "2025-02-06 06:13:26 +0000"
@@ -9128,6 +9146,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/netherite_door": {
+    "criteria": {
+      "has_netherite_scrap": "2025-02-06 07:31:32 +0000"
+    },
+    "done": true
+  },
   "twilightdelight:recipes/frozen/cutting/ice_sword": {
     "criteria": {
       "has_diamond_sword": "2025-02-06 05:16:07 +0000"
@@ -9143,6 +9167,12 @@
   "farmersdelight:recipes/food/mutton_wrap": {
     "criteria": {
       "has_mutton": "2025-02-06 05:51:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/cabbage_crate": {
+    "criteria": {
+      "has_cabbage": "2025-02-06 07:30:36 +0000"
     },
     "done": true
   },
@@ -9737,6 +9767,12 @@
   "stoneworks:recipes/building_blocks/tuff_brick_wall_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-02-06 05:39:34 +0000"
+    },
+    "done": true
+  },
+  "netherchested:recipes/decorations/nether_chest": {
+    "criteria": {
+      "has_netherite_scrap": "2025-02-06 07:31:32 +0000"
     },
     "done": true
   },
