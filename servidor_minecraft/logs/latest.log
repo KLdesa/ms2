@@ -3997,3 +3997,11 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [06Feb2025 04:15:07.707] [Server thread/INFO] [Jade/]: Syncing config to JOSHEEEE (05c95e7d-3331-3e5a-9d76-5424e66cc84e)
 [06Feb2025 04:15:08.186] [Server thread/INFO] [ping-wheel/]: Channel update: JOSHEEEE -> default
 [06Feb2025 04:15:08.217] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
+[06Feb2025 04:17:49.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer has made the advancement [What a Deal!]
+[06Feb2025 04:18:05.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sirfafnir55 has made the advancement [What a Deal!]
+[06Feb2025 04:19:34.537] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sirfafnir55 lost connection: Disconnected
+[06Feb2025 04:19:34.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sirfafnir55 left the game
+[06Feb2025 04:19:34.538] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for edb6134e-223e-3469-9573-7afb11cfbf0d
+[06Feb2025 04:19:58.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer has reached the goal [Riders On The Storm]
+[06Feb2025 04:21:50.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer drowned
+[06Feb2025 04:22:44.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer was blown up by Creeper

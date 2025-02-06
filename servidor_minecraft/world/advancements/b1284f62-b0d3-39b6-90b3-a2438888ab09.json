@@ -7315,6 +7315,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/deepslate_plate_wall_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_deepslate": "2025-02-06 04:17:17 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/rhyolite/rhyolite_stairs_stonecutting": {
     "criteria": {
       "has_item": "2025-02-06 04:08:20 +0000"
@@ -7339,6 +7345,18 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_deepslate_bricks_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_deepslate": "2025-02-06 04:17:17 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/deepslate_paver_wall_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_deepslate": "2025-02-06 04:17:17 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/horse_feed": {
     "criteria": {
       "has_golden_carrot": "2025-02-06 03:58:47 +0000"
@@ -7348,6 +7366,12 @@
   "stoneworks:recipes/building_blocks/mossy_cobbled_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-06 04:06:59 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/deepslate_pillar_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_deepslate": "2025-02-06 04:17:17 +0000"
     },
     "done": true
   },
@@ -7387,9 +7411,21 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/deepslate_shingle_slab_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_deepslate": "2025-02-06 04:17:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_mossy_cobblestone": "2025-02-06 04:06:44 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_deepslate_brick_slab_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_deepslate": "2025-02-06 04:17:17 +0000"
     },
     "done": true
   },
@@ -7402,6 +7438,12 @@
   "twigs:recipes/rhyolite/polished_rhyolite_bricks_from_rhyolite_stonecutting": {
     "criteria": {
       "has_item": "2025-02-06 04:08:20 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_deepslate_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_deepslate": "2025-02-06 04:17:17 +0000"
     },
     "done": true
   },
@@ -7507,9 +7549,21 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_deepslate_wall_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_deepslate": "2025-02-06 04:17:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2025-02-06 04:06:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_blasting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2025-02-06 04:17:06 +0000"
     },
     "done": true
   },
@@ -7522,6 +7576,12 @@
   "twigs:recipes/smooth_stone_bricks/smooth_stone_bricks_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2025-02-06 04:06:53 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/deepslate_lamp": {
+    "criteria": {
+      "has_deepslate": "2025-02-06 04:17:17 +0000"
     },
     "done": true
   },
@@ -7540,6 +7600,12 @@
   "twigs:recipes/rhyolite/rhyolite_stairs": {
     "criteria": {
       "has_item": "2025-02-06 04:08:20 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/deepslate_plate_stairs_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_deepslate": "2025-02-06 04:17:17 +0000"
     },
     "done": true
   },
@@ -7585,9 +7651,21 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_deepslate_slab_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_deepslate": "2025-02-06 04:17:17 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/smooth_stone_bricks/smooth_stone_brick_stairs_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2025-02-06 04:06:53 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/deepslate_shingle_wall_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_deepslate": "2025-02-06 04:17:17 +0000"
     },
     "done": true
   },
@@ -7600,6 +7678,12 @@
   "twigs:recipes/cobblestone_bricks/mossy_cobblestone_brick_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_item": "2025-02-06 04:06:44 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_deepslate_brick_wall_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_deepslate": "2025-02-06 04:17:17 +0000"
     },
     "done": true
   },
@@ -7639,6 +7723,18 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/deepslate_shingles_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_deepslate": "2025-02-06 04:17:17 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/deepslate_plate_slab_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_deepslate": "2025-02-06 04:17:17 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/andesite_tile_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-06 04:06:59 +0000"
@@ -7648,6 +7744,30 @@
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-06 04:06:59 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/deepslate_plates_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_deepslate": "2025-02-06 04:17:17 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_deepslate_stairs_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_deepslate": "2025-02-06 04:17:17 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/deepslate_pillar_trim": {
+    "criteria": {
+      "has_deepslate_pillar_trim": "2025-02-06 04:17:17 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/crystal_display": {
+    "criteria": {
+      "has_deepslate": "2025-02-06 04:17:17 +0000"
     },
     "done": true
   },
@@ -7663,6 +7783,12 @@
     },
     "done": true
   },
+  "twigs:recipes/columns/deepslate_column": {
+    "criteria": {
+      "has_item": "2025-02-06 04:17:17 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/andesite_plate_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-06 04:06:59 +0000"
@@ -7674,6 +7800,12 @@
       "in_better_zombie_dungeon": "2025-02-06 04:00:43 +0000"
     },
     "done": false
+  },
+  "stoneworks:recipes/building_blocks/deepslate_paver_slab_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_deepslate": "2025-02-06 04:17:17 +0000"
+    },
+    "done": true
   },
   "stoneworks:recipes/building_blocks/cobbled_andesite_wall_from_andesite_stonecutting": {
     "criteria": {
@@ -7699,6 +7831,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/deepslate_pavers_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_deepslate": "2025-02-06 04:17:17 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/andesite_shingle_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-06 04:06:59 +0000"
@@ -7717,6 +7855,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_deepslate_brick_stairs_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_deepslate": "2025-02-06 04:17:17 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cracked_andesite_tiles_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-06 04:06:59 +0000"
@@ -7729,6 +7873,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond_from_smelting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2025-02-06 04:17:06 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-06 04:06:59 +0000"
@@ -7738,6 +7888,12 @@
   "stoneworks:recipes/building_blocks/andesite_tile_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-06 04:06:59 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/deepslate_corner_trim": {
+    "criteria": {
+      "has_deepslate_corner_trim": "2025-02-06 04:17:17 +0000"
     },
     "done": true
   },
@@ -7792,6 +7948,24 @@
   "stoneworks:recipes/building_blocks/andesite_shingles_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-06 04:06:59 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/deepslate_shingle_stairs_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_deepslate": "2025-02-06 04:17:17 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/deepslate_paver_stairs_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_deepslate": "2025-02-06 04:17:17 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/columns/deepslate_column_stonecutting": {
+    "criteria": {
+      "has_item": "2025-02-06 04:17:17 +0000"
     },
     "done": true
   },

@@ -8334,6 +8334,12 @@
     },
     "done": true
   },
+  "friendsandfoes:adventure/activate_zombie_horse_trap": {
+    "criteria": {
+      "friendsandfoes:activate_zombie_horse_trap": "2025-02-06 04:19:58 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/tuff_shingle_slab_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-02-06 02:35:57 +0000"
@@ -8343,6 +8349,12 @@
   "chipped:recipes/carpenters_table": {
     "criteria": {
       "has_carpenters_table": "2025-02-06 04:01:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-06 04:25:34 +0000"
     },
     "done": true
   },
@@ -8373,6 +8385,12 @@
   "twigs:recipes/silt/silt_from_sand": {
     "criteria": {
       "has_item": "2025-02-06 02:56:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-02-06 04:25:34 +0000"
     },
     "done": true
   },
@@ -8421,6 +8439,12 @@
   "stoneworks:recipes/building_blocks/calcite_plate_wall_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-02-06 03:55:16 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/chainmail_helmet_repairing": {
+    "criteria": {
+      "has_chainmail_helmet": "2025-02-06 04:21:12 +0000"
     },
     "done": true
   },
@@ -8493,6 +8517,12 @@
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2025-02-06 04:00:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-02-06 04:17:49 +0000"
     },
     "done": true
   },
