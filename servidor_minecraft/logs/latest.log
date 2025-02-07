@@ -4019,3 +4019,19 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [07Feb2025 02:01:53.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JOSHEEEE> quien ira a comprar?
 [07Feb2025 02:02:01.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JOSHEEEE> nop
 [07Feb2025 02:02:02.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JOSHEEEE> jajaajj
+[07Feb2025 02:05:31.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JOSHEEEE> duermo?
+[07Feb2025 02:07:02.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JOSHEEEE> zzz
+[07Feb2025 02:09:52.025] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Shinkar[/127.250.238.57:39103] logged in with entity id 39280 at (-679.7339215380715, 107.0, -3.0353729194051193)
+[07Feb2025 02:09:52.031] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Shinkar
+[07Feb2025 02:09:52.031] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Shinkar
+[07Feb2025 02:09:52.031] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Shinkar
+[07Feb2025 02:09:52.032] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Shinkar
+[07Feb2025 02:09:52.033] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Shinkar
+[07Feb2025 02:09:52.035] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Shinkar
+[07Feb2025 02:09:52.035] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Shinkar
+[07Feb2025 02:09:52.044] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[07Feb2025 02:09:52.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar joined the game
+[07Feb2025 02:09:52.121] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for b1284f62-b0d3-39b6-90b3-a2438888ab09
+[07Feb2025 02:09:52.129] [Server thread/INFO] [Jade/]: Syncing config to Shinkar (b1284f62-b0d3-39b6-90b3-a2438888ab09)
+[07Feb2025 02:09:53.610] [Server thread/INFO] [ping-wheel/]: Channel update: Shinkar -> default
+[07Feb2025 02:09:53.697] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
