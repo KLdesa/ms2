@@ -4000,3 +4000,22 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [07Feb2025 01:42:54.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JOSHEEEE> ?
 [07Feb2025 01:50:00.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JOSHEEEE> que fue
 [07Feb2025 01:50:05.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Digigamerfer> es de chill
+[07Feb2025 01:52:18.489] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Ling'/992, l='ServerLevel[world]', x=-702.50, y=123.00, z=35.70] died, message: 'Ling was slain by Zombie'
+[07Feb2025 01:52:18.490] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Ling'/992, l='ServerLevel[world]', x=-702.50, y=123.00, z=35.70] died: Ling was slain by Zombie
+[07Feb2025 01:52:40.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer was shot by Skeleton
+[07Feb2025 01:53:29.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer was shot by Skeleton
+[07Feb2025 01:53:46.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JOSHEEEE> duermo
+[07Feb2025 01:53:51.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JOSHEEEE> zz
+[07Feb2025 01:53:51.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JOSHEEEE> z
+[07Feb2025 01:54:34.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JOSHEEEE> para dormir juntos
+[07Feb2025 01:54:37.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer was slain by Zombie
+[07Feb2025 01:54:43.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JOSHEEEE> pijamada
+[07Feb2025 02:00:00.895] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=47, y=64, z=-137} BlockPos{x=46, y=63, z=-137}
+[07Feb2025 02:00:03.499] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=43, y=64, z=-141} BlockPos{x=43, y=63, z=-142}
+[07Feb2025 02:00:24.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JOSHEEEE> hijita, sacaste tu dragon?
+[07Feb2025 02:00:47.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JOSHEEEE> tienes mi espada hijita
+[07Feb2025 02:01:06.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JOSHEEEE> que hago?
+[07Feb2025 02:01:47.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JOSHEEEE> puede ser
+[07Feb2025 02:01:53.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JOSHEEEE> quien ira a comprar?
+[07Feb2025 02:02:01.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JOSHEEEE> nop
+[07Feb2025 02:02:02.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JOSHEEEE> jajaajj
