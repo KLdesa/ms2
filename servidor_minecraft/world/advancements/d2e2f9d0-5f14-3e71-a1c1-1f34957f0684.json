@@ -9030,6 +9030,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-07 04:00:54 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/q/blue_skies/hollow_maple_log": {
     "criteria": {
       "has_planks": "2025-02-07 03:25:06 +0000"
@@ -9177,6 +9183,12 @@
   "betternether:recipes/food/stalagnate_bowl_mushroom": {
     "criteria": {
       "has_red_mushroom": "2025-02-07 03:51:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/bread_from_smoking": {
+    "criteria": {
+      "has_dough": "2025-02-07 03:59:19 +0000"
     },
     "done": true
   },
@@ -9498,6 +9510,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "iron_knife": "2025-02-07 03:58:32 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/building_blocks/smooth_lumiere_stairs_from_lumiere_block_stonecutting": {
     "criteria": {
       "has_lumiere_block": "2025-02-07 02:30:53 +0000"
@@ -9507,6 +9525,12 @@
   "everycomp:recipes/decorations/hc/biomesoplenty/jacaranda_corner_trim": {
     "criteria": {
       "has_planks": "2025-02-07 03:23:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-02-07 03:58:32 +0000"
     },
     "done": true
   },
@@ -9549,6 +9573,12 @@
   "farmersdelight:main/plant_rice": {
     "criteria": {
       "plant_rice": "2025-02-07 01:41:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-02-07 03:58:32 +0000"
     },
     "done": true
   },
@@ -9681,6 +9711,12 @@
   "everycomp:recipes/building_blocks/db/biomesoplenty/jacaranda_support": {
     "criteria": {
       "has_planks": "2025-02-07 03:23:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/use_cutting_board": {
+    "criteria": {
+      "cutting_board": "2025-02-07 04:00:54 +0000"
     },
     "done": true
   },
@@ -10410,6 +10446,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/bread_from_smelting": {
+    "criteria": {
+      "has_dough": "2025-02-07 03:59:19 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/q/biomesoplenty/stripped_jacaranda_post": {
     "criteria": {
       "has_planks": "2025-02-07 03:23:13 +0000"
@@ -10437,6 +10479,12 @@
   "netherexp:recipes/misc/rift_armor_trim_smithing_template": {
     "criteria": {
       "has_coast_armor_trim_smithing_template": "2025-02-07 03:19:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-07 04:00:54 +0000"
     },
     "done": true
   },

@@ -4091,3 +4091,9 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [07Feb2025 03:50:52.642] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
 [07Feb2025 03:50:52.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer has made the advancement [We Need to Go Deeper]
 [07Feb2025 03:50:52.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer has made the advancement [Time for a Sweat]
+[07Feb2025 03:56:56.596] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[07Feb2025 03:56:56.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOSHEEEE has made the advancement [We Need to Go Deeper]
+[07Feb2025 03:56:56.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOSHEEEE has made the advancement [Time for a Sweat]
+[07Feb2025 03:58:32.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer has made the advancement [Hunt and Gather]
+[07Feb2025 04:00:19.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOSHEEEE has made the advancement [Spooky Scary Skeleton]
+[07Feb2025 04:01:41.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOSHEEEE has reached the goal [The Fright Before Xmas]
