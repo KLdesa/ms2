@@ -5486,6 +5486,7 @@
     "criteria": {
       "muskeg": "2025-02-05 02:16:23 +0000",
       "snowblossom_grove": "2025-02-07 03:31:24 +0000",
+      "erupting_inferno": "2025-02-07 04:06:41 +0000",
       "highland": "2025-02-07 03:32:31 +0000",
       "jacaranda_glade": "2025-02-07 03:07:18 +0000",
       "maple_woods": "2025-02-05 02:06:03 +0000",
@@ -8916,6 +8917,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/smooth_netherrack/smooth_netherrack": {
+    "criteria": {
+      "has_item": "2025-02-07 04:06:14 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/building_blocks/allurite_bricks_from_allurite_block_stonecutting": {
     "criteria": {
       "has_allurite_block": "2025-02-07 02:34:00 +0000"
@@ -8934,6 +8941,18 @@
     },
     "done": false
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-02-07 04:06:01 +0000"
+    },
+    "done": false
+  },
+  "stoneworks:recipes/building_blocks/cracked_netherrack_bricks_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-07 04:06:14 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/hc/biomesoplenty/jacaranda_drawer": {
     "criteria": {
       "has_planks": "2025-02-07 03:23:13 +0000"
@@ -8943,6 +8962,12 @@
   "everycomp:recipes/decorations/hnhome/blue_skies/maple_trim_1": {
     "criteria": {
       "has_planks": "2025-02-07 03:25:06 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/nether_ruby_hoe": {
+    "criteria": {
+      "has_nether_ruby": "2025-02-07 04:08:00 +0000"
     },
     "done": true
   },
@@ -8976,6 +9001,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/netherrack_brick_stairs_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-07 04:06:14 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/gray_cushion": {
     "criteria": {
       "has_gray_cushion": "2025-02-07 02:43:41 +0000"
@@ -8991,6 +9022,12 @@
   "everycomp:recipes/decorations/af/blue_skies/maple_drawer": {
     "criteria": {
       "has_planks": "2025-02-07 03:25:06 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cincinnasite_fire_bowl": {
+    "criteria": {
+      "has_netherrack": "2025-02-07 04:06:14 +0000"
     },
     "done": true
   },
@@ -9060,6 +9097,12 @@
     },
     "done": true
   },
+  "betternether:recipes/tools/nether_ruby_leggings": {
+    "criteria": {
+      "has_nether_ruby": "2025-02-07 04:08:00 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/lunar_stonebrick_slab": {
     "criteria": {
       "has_item": "2025-02-07 03:35:05 +0000"
@@ -9096,6 +9139,18 @@
     },
     "done": true
   },
+  "betternether:recipes/tools/nether_ruby_boots": {
+    "criteria": {
+      "has_nether_ruby": "2025-02-07 04:08:00 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/farmland": {
+    "criteria": {
+      "has_netherrack": "2025-02-07 04:06:14 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/maple_stairs": {
     "criteria": {
       "has_item": "2025-02-07 03:25:06 +0000"
@@ -9129,6 +9184,12 @@
   "betternether:recipes/building_blocks/quartz_glass_white": {
     "criteria": {
       "has_white_dye": "2025-02-07 02:29:19 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_netherrack_wall_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-07 04:06:14 +0000"
     },
     "done": true
   },
@@ -9240,6 +9301,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/polished_netherrack_stairs_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-07 04:06:14 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/building_blocks/db/blue_skies/maple_palisade": {
     "criteria": {
       "has_planks": "2025-02-07 03:25:06 +0000"
@@ -9318,6 +9385,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-07 04:06:14 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/tw/biomesoplenty/jacaranda_table": {
     "criteria": {
       "has_planks": "2025-02-07 03:23:13 +0000"
@@ -9387,6 +9460,12 @@
   "everycomp:recipes/decorations/bp/blue_skies/maple_backpack_shelf": {
     "criteria": {
       "has_planks": "2025-02-07 03:25:06 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_netherrack_bricks_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-07 04:06:14 +0000"
     },
     "done": true
   },
@@ -9468,6 +9547,18 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/polished_netherrack_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-07 04:06:14 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_netherrack_wall_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-07 04:06:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
     "criteria": {
       "has_white_dye": "2025-02-07 02:29:19 +0000"
@@ -9522,6 +9613,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-07 04:06:14 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/hc/biomesoplenty/jacaranda_corner_trim": {
     "criteria": {
       "has_planks": "2025-02-07 03:23:13 +0000"
@@ -9543,6 +9640,12 @@
   "blue_skies:recipes/redstone/maple_pressure_plate": {
     "criteria": {
       "has_item": "2025-02-07 03:25:06 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/nether_ruby_helmet": {
+    "criteria": {
+      "has_nether_ruby": "2025-02-07 04:08:00 +0000"
     },
     "done": true
   },
@@ -9573,6 +9676,12 @@
   "farmersdelight:main/plant_rice": {
     "criteria": {
       "plant_rice": "2025-02-07 01:41:30 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_netherrack_brick_wall_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-07 04:06:14 +0000"
     },
     "done": true
   },
@@ -9654,6 +9763,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/cobbled_netherrack_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-07 04:06:14 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/af/biomesoplenty/jacaranda_table": {
     "criteria": {
       "has_planks": "2025-02-07 03:23:13 +0000"
@@ -9666,6 +9781,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_netherrack_brick_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-07 04:06:14 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/chiseled_lunar_stonebrick_stonecutting_lunar_stonebrick": {
     "criteria": {
       "has_item": "2025-02-07 03:35:05 +0000"
@@ -9675,6 +9796,12 @@
   "everycomp:recipes/decorations/hc/blue_skies/maple_fancy_bed": {
     "criteria": {
       "has_planks": "2025-02-07 03:25:06 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/nether_ruby_chestplate": {
+    "criteria": {
+      "has_nether_ruby": "2025-02-07 04:08:00 +0000"
     },
     "done": true
   },
@@ -9888,6 +10015,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/cobbled_netherrack_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-07 04:06:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/flower_banner_pattern": {
     "criteria": {
       "has_oxeye_daisy": "2025-02-07 01:42:16 +0000"
@@ -9939,6 +10072,12 @@
   "everycomp:recipes/decorations/q/blue_skies/maple_trapped_chest": {
     "criteria": {
       "has_planks": "2025-02-07 03:25:06 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/netherrack_brick_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-07 04:06:14 +0000"
     },
     "done": true
   },
@@ -10020,6 +10159,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-02-07 04:06:14 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/quartz_glass_framed_pane_white": {
     "criteria": {
       "has_white_dye": "2025-02-07 02:29:19 +0000"
@@ -10050,6 +10195,12 @@
     },
     "done": true
   },
+  "betternether:ruby_ore": {
+    "criteria": {
+      "ruby_ore": "2025-02-07 04:08:00 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/af/biomesoplenty/jacaranda_chair": {
     "criteria": {
       "has_planks": "2025-02-07 03:23:13 +0000"
@@ -10071,6 +10222,18 @@
   "blue_skies:recipes/combat/comet_spear": {
     "criteria": {
       "has_item": "2025-02-07 03:24:34 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/netherrack_brick_wall_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-07 04:06:14 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_wall_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-07 04:06:14 +0000"
     },
     "done": true
   },
@@ -10113,6 +10276,12 @@
   "everycomp:recipes/decorations/bp/biomesoplenty/jacaranda_backpack_shelf": {
     "criteria": {
       "has_planks": "2025-02-07 03:23:13 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/nether_ruby_shovel": {
+    "criteria": {
+      "has_nether_ruby": "2025-02-07 04:08:00 +0000"
     },
     "done": true
   },
@@ -10260,6 +10429,12 @@
     },
     "done": true
   },
+  "betternether:recipes/tools/nether_ruby_sword": {
+    "criteria": {
+      "has_nether_ruby": "2025-02-07 04:08:00 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
     "criteria": {
       "has_pumpkin": "2025-02-07 02:52:24 +0000"
@@ -10356,6 +10531,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/polished_netherrack_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-07 04:06:14 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/hc/biomesoplenty/jacaranda_counter": {
     "criteria": {
       "has_planks": "2025-02-07 03:23:13 +0000"
@@ -10386,6 +10567,18 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/netherrack_furnace": {
+    "criteria": {
+      "has_netherrack": "2025-02-07 04:06:14 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/nether_ruby_axe": {
+    "criteria": {
+      "has_nether_ruby": "2025-02-07 04:08:00 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/tf/blue_skies/maple_banister": {
     "criteria": {
       "has_planks": "2025-02-07 03:25:06 +0000"
@@ -10398,6 +10591,18 @@
     },
     "done": true
   },
+  "betternether:recipes/tools/nether_ruby_pickaxe": {
+    "criteria": {
+      "has_nether_ruby": "2025-02-07 04:08:00 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_netherrack_brick_stairs_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-07 04:06:14 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/abnbl/biomesoplenty/jacaranda_furnace_boat": {
     "criteria": {
       "has_planks": "2025-02-07 03:23:13 +0000"
@@ -10407,6 +10612,12 @@
   "minecraft:recipes/misc/gray_dye": {
     "criteria": {
       "has_white_dye": "2025-02-07 02:29:19 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_netherrack_stairs_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-07 04:06:14 +0000"
     },
     "done": true
   },
@@ -10425,6 +10636,12 @@
   "galosphere:recipes/building_blocks/allurite_slab": {
     "criteria": {
       "has_allurite_block": "2025-02-07 02:34:00 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/bricks_fire_bowl": {
+    "criteria": {
+      "has_netherrack": "2025-02-07 04:06:14 +0000"
     },
     "done": true
   },
@@ -10555,6 +10772,12 @@
     },
     "done": true
   },
+  "betternether:ruby_gear": {
+    "criteria": {
+      "nether_ruby_EquipmentSlot[name\u003dhelmet, category\u003dCOMBAT]": "2025-02-07 04:09:11 +0000"
+    },
+    "done": false
+  },
   "everycomp:recipes/decorations/q/biomesoplenty/hollow_jacaranda_log": {
     "criteria": {
       "has_planks": "2025-02-07 03:23:13 +0000"
@@ -10564,6 +10787,18 @@
   "handcrafted:recipes/misc/gray_sheet": {
     "criteria": {
       "has_gray_sheet": "2025-02-07 02:43:41 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_ruby_block": {
+    "criteria": {
+      "has_nether_ruby": "2025-02-07 04:08:00 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/lapis_pile_to_lapis": {
+    "criteria": {
+      "has_lapis_pile": "2025-02-07 04:06:23 +0000"
     },
     "done": true
   },
@@ -10603,9 +10838,21 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_stairs_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-07 04:06:14 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/q/biomesoplenty/jacaranda_bookshelf": {
     "criteria": {
       "has_planks": "2025-02-07 03:23:13 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/netherrack_bricks_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-07 04:06:14 +0000"
     },
     "done": true
   },

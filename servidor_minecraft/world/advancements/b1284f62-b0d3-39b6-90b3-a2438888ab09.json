@@ -9576,6 +9576,36 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-07 04:07:48 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_gloves_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-07 04:07:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-07 04:07:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/netherite_knife_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-07 04:07:48 +0000"
+    },
+    "done": true
+  },
+  "shieldexp:recipes/netherite_shield": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-07 04:07:48 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/black_cushion": {
     "criteria": {
       "has_black_cushion": "2025-02-07 02:11:36 +0000"
@@ -9591,6 +9621,12 @@
   "galosphere:recipes/decorations/monstrometer": {
     "criteria": {
       "has_lumiere_block": "2025-02-07 02:35:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-07 04:07:48 +0000"
     },
     "done": true
   },
@@ -9642,9 +9678,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-07 04:07:48 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/safe": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-07 04:07:48 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/building_blocks/smooth_lumiere_stairs_from_lumiere_block_stonecutting": {
     "criteria": {
       "has_lumiere_block": "2025-02-07 02:35:26 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/combat/sterling_boots_smithing": {
+    "criteria": {
+      "has_silver_ingot": "2025-02-07 04:07:48 +0000"
     },
     "done": true
   },
@@ -9666,6 +9720,12 @@
     },
     "done": true
   },
+  "galosphere:recipes/combat/sterling_horse_armor_smithing": {
+    "criteria": {
+      "has_silver_ingot": "2025-02-07 04:07:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/hero_of_the_village": {
     "criteria": {
       "hero_of_the_village": "2025-02-07 03:30:05 +0000"
@@ -9675,6 +9735,12 @@
   "another_furniture:recipes/black_lamp": {
     "criteria": {
       "has_wool": "2025-02-07 02:11:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-07 04:07:48 +0000"
     },
     "done": true
   },
@@ -9744,9 +9810,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-07 04:07:48 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/building_blocks/allurite_brick_slab_from_allurite_block_stonecutting": {
     "criteria": {
       "has_allurite_block": "2025-02-07 02:35:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-07 04:07:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-07 04:07:48 +0000"
     },
     "done": true
   },
@@ -9792,6 +9876,12 @@
     },
     "done": true
   },
+  "galosphere:recipes/combat/sterling_chestplate_smithing": {
+    "criteria": {
+      "has_silver_ingot": "2025-02-07 04:07:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/ol_betsy": {
     "criteria": {
       "shot_crossbow": "2025-02-07 03:00:14 +0000"
@@ -9801,6 +9891,18 @@
   "minecraft:recipes/decorations/black_bed": {
     "criteria": {
       "has_black_wool": "2025-02-07 02:11:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-07 04:07:48 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/combat/sterling_leggings_smithing": {
+    "criteria": {
+      "has_silver_ingot": "2025-02-07 04:07:48 +0000"
     },
     "done": true
   },
@@ -9828,9 +9930,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-07 04:07:48 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_black": {
     "criteria": {
       "has_black_wool": "2025-02-07 02:11:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-07 04:07:48 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/combat/sterling_helmet_smithing": {
+    "criteria": {
+      "has_silver_ingot": "2025-02-07 04:07:48 +0000"
     },
     "done": true
   },
