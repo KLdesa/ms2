@@ -9126,6 +9126,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-02-07 01:19:44 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/dead_fence_gate": {
     "criteria": {
       "has_planks": "2025-02-07 00:24:59 +0000"
@@ -9141,6 +9147,12 @@
   "everycomp:recipes/decorations/tf/biomesoplenty/hollow_dead_log": {
     "criteria": {
       "has_planks": "2025-02-07 00:24:59 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_helmet_repairing": {
+    "criteria": {
+      "has_golden_helmet": "2025-02-07 01:22:28 +0000"
     },
     "done": true
   },
@@ -9177,6 +9189,12 @@
   "everycomp:recipes/decorations/vp/biomesoplenty/dead_horticulturist_table": {
     "criteria": {
       "has_planks": "2025-02-07 00:24:59 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/chainmail_chestplate_repairing": {
+    "criteria": {
+      "has_chainmail_chestplate": "2025-02-07 01:22:29 +0000"
     },
     "done": true
   },
@@ -9441,6 +9459,18 @@
   "everycomp:recipes/building_blocks/db/biomesoplenty/dead_beam": {
     "criteria": {
       "has_planks": "2025-02-07 00:24:59 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cincinnasite_lantern": {
+    "criteria": {
+      "has_glowstone": "2025-02-07 01:19:44 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_boots_repairing": {
+    "criteria": {
+      "has_golden_boots": "2025-02-07 01:22:31 +0000"
     },
     "done": true
   },
