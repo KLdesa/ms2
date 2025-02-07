@@ -8899,9 +8899,27 @@
     },
     "done": true
   },
+  "supplementaries:recipes/candle_holders/candle_holder_white_dye": {
+    "criteria": {
+      "forge:dyes/white": "2025-02-07 02:29:19 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/building_blocks/rice_bale": {
     "criteria": {
       "has_rice_panicle": "2025-02-07 01:37:40 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/white_plate": {
+    "criteria": {
+      "has_white_plate": "2025-02-07 02:29:19 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/thallasium_bulb_lantern_white": {
+    "criteria": {
+      "has_white_dye": "2025-02-07 02:29:19 +0000"
     },
     "done": true
   },
@@ -8911,9 +8929,39 @@
     },
     "done": true
   },
+  "galosphere:recipes/building_blocks/smooth_lumiere_from_lumiere_block_stonecutting": {
+    "criteria": {
+      "has_lumiere_block": "2025-02-07 02:30:53 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/decorations/monstrometer": {
+    "criteria": {
+      "has_lumiere_block": "2025-02-07 02:30:53 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/white_crockery_combo": {
+    "criteria": {
+      "has_white_crockery_combo": "2025-02-07 02:29:19 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/quartz_glass_white": {
+    "criteria": {
+      "has_white_dye": "2025-02-07 02:29:19 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/cabbage_rolls": {
     "criteria": {
       "has_any_ingredient": "2025-02-07 01:57:29 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/white_bowl": {
+    "criteria": {
+      "has_white_bowl": "2025-02-07 02:29:19 +0000"
     },
     "done": true
   },
@@ -8923,9 +8971,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_white_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-02-07 02:29:19 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/lumiere_bricks_from_lumiere_block_stonecutting": {
+    "criteria": {
+      "has_lumiere_block": "2025-02-07 02:30:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-02-07 02:29:19 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/building_blocks/cabbage_crate": {
     "criteria": {
       "has_cabbage": "2025-02-07 01:57:29 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/lumiere_stairs": {
+    "criteria": {
+      "has_lumiere_block": "2025-02-07 02:30:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-02-07 02:29:19 +0000"
     },
     "done": true
   },
@@ -8941,9 +9019,75 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-02-07 02:29:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-02-07 02:29:19 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/white_cup": {
+    "criteria": {
+      "has_white_cup": "2025-02-07 02:29:19 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/quartz_glass_framed_white": {
+    "criteria": {
+      "has_white_dye": "2025-02-07 02:29:19 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/smooth_lumiere_stairs_from_lumiere_block_stonecutting": {
+    "criteria": {
+      "has_lumiere_block": "2025-02-07 02:30:53 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/decorations/lumiere_lamp": {
+    "criteria": {
+      "has_lumiere_shard": "2025-02-07 02:30:52 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/plant_rice": {
     "criteria": {
       "plant_rice": "2025-02-07 01:41:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_candle": {
+    "criteria": {
+      "has_white_dye": "2025-02-07 02:29:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_white_dye": "2025-02-07 02:29:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-02-07 02:29:19 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/lumiere_slab_from_lumiere_block_stonecutting": {
+    "criteria": {
+      "has_lumiere_block": "2025-02-07 02:30:53 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/lumiere_brick_stairs_from_lumiere_block_stonecutting": {
+    "criteria": {
+      "has_lumiere_block": "2025-02-07 02:30:53 +0000"
     },
     "done": true
   },
@@ -8959,6 +9103,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_white_dye": "2025-02-07 02:29:19 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/lumiere_block": {
+    "criteria": {
+      "has_lumiere_shard": "2025-02-07 02:30:52 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/quartz_glass_pane_white": {
+    "criteria": {
+      "has_white_dye": "2025-02-07 02:29:19 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/smooth_lumiere": {
+    "criteria": {
+      "has_lumiere_block": "2025-02-07 02:30:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
       "has_cornflower": "2025-02-07 01:42:16 +0000"
@@ -8971,15 +9139,63 @@
     },
     "done": true
   },
+  "galosphere:recipes/building_blocks/chiseled_lumiere_from_lumiere_block_stonecutting": {
+    "criteria": {
+      "has_lumiere_block": "2025-02-07 02:30:53 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/quartz_glass_framed_pane_white": {
+    "criteria": {
+      "has_white_dye": "2025-02-07 02:29:19 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/lumiere_stairs_from_lumiere_block_stonecutting": {
+    "criteria": {
+      "has_lumiere_block": "2025-02-07 02:30:53 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/golden_chestplate_repairing": {
     "criteria": {
       "has_golden_chestplate": "2025-02-07 01:50:26 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-02-07 02:29:19 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/golden_boots_repairing": {
     "criteria": {
       "has_golden_boots": "2025-02-07 02:20:36 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/lumiere_brick_slab_from_lumiere_block_stonecutting": {
+    "criteria": {
+      "has_lumiere_block": "2025-02-07 02:30:53 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/smooth_lumiere_slab_from_lumiere_block_stonecutting": {
+    "criteria": {
+      "has_lumiere_block": "2025-02-07 02:30:53 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/hydralux_petal_block_white": {
+    "criteria": {
+      "has_white_dye": "2025-02-07 02:29:19 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/terminite_bulb_lantern_white": {
+    "criteria": {
+      "has_white_dye": "2025-02-07 02:29:19 +0000"
     },
     "done": true
   },
@@ -8995,6 +9211,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_white_dye": "2025-02-07 02:29:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-02-07 02:29:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2025-02-07 02:19:48 +0000"
@@ -9004,6 +9232,18 @@
   "farmersdelight:recipes/cooking/cooked_rice": {
     "criteria": {
       "has_rice": "2025-02-07 01:41:28 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/lumiere_slab": {
+    "criteria": {
+      "has_lumiere_block": "2025-02-07 02:30:53 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/iron_bulb_lantern_white": {
+    "criteria": {
+      "has_white_dye": "2025-02-07 02:29:19 +0000"
     },
     "done": true
   },
