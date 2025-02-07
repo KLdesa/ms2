@@ -4088,3 +4088,6 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [07Feb2025 03:33:00.702] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-775, y=111, z=46} BlockPos{x=-774, y=109, z=46}
 [07Feb2025 03:33:00.730] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-775, y=111, z=46} BlockPos{x=-774, y=109, z=46}
 [07Feb2025 03:33:01.810] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-770, y=112, z=49} BlockPos{x=-769, y=111, z=49}
+[07Feb2025 03:50:52.642] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[07Feb2025 03:50:52.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer has made the advancement [We Need to Go Deeper]
+[07Feb2025 03:50:52.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer has made the advancement [Time for a Sweat]

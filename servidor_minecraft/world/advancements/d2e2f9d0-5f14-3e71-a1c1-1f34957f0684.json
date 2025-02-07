@@ -5494,6 +5494,7 @@
       "dune_beach": "2025-02-07 03:07:25 +0000",
       "seasonal_forest": "2025-02-06 05:08:15 +0000",
       "dead_forest": "2025-02-05 02:50:21 +0000",
+      "pasture": "2025-02-07 03:42:38 +0000",
       "fir_clearing": "2025-02-06 03:37:32 +0000",
       "pumpkin_patch": "2025-02-07 03:31:36 +0000",
       "prairie": "2025-02-07 03:21:06 +0000",
@@ -8927,6 +8928,12 @@
     },
     "done": true
   },
+  "betternether:all_the_biomes": {
+    "criteria": {
+      "betternether:crimson_glowing_woods": "2025-02-07 03:50:53 +0000"
+    },
+    "done": false
+  },
   "everycomp:recipes/decorations/hc/biomesoplenty/jacaranda_drawer": {
     "criteria": {
       "has_planks": "2025-02-07 03:23:13 +0000"
@@ -9017,6 +9024,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-02-07 03:48:30 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/q/blue_skies/hollow_maple_log": {
     "criteria": {
       "has_planks": "2025-02-07 03:25:06 +0000"
@@ -9026,6 +9039,12 @@
   "blue_skies:recipes/combat/dusk_spear": {
     "criteria": {
       "has_item": "2025-02-07 03:24:34 +0000"
+    },
+    "done": true
+  },
+  "bygonenether:root": {
+    "criteria": {
+      "entered_nether": "2025-02-07 03:50:52 +0000"
     },
     "done": true
   },
@@ -9155,6 +9174,12 @@
     },
     "done": true
   },
+  "betternether:recipes/food/stalagnate_bowl_mushroom": {
+    "criteria": {
+      "has_red_mushroom": "2025-02-07 03:51:30 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/gray_tall_stool": {
     "criteria": {
       "has_wool": "2025-02-07 02:43:41 +0000"
@@ -9188,6 +9213,12 @@
   "supplementaries:recipes/decorations/blue_skies/sign_post_maple": {
     "criteria": {
       "has_planks": "2025-02-07 03:25:06 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/crimson_stroganoff": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-07 03:51:03 +0000"
     },
     "done": true
   },
@@ -9269,6 +9300,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-02-07 03:48:37 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/tw/biomesoplenty/jacaranda_table": {
     "criteria": {
       "has_planks": "2025-02-07 03:23:13 +0000"
@@ -9290,6 +9327,18 @@
   "biomesoplenty:recipes/building_blocks/jacaranda_slab": {
     "criteria": {
       "has_planks": "2025-02-07 03:23:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-02-07 03:48:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-07 03:51:30 +0000"
     },
     "done": true
   },
@@ -9485,6 +9534,12 @@
     },
     "done": true
   },
+  "betternether:recipes/misc/wall_red_brown": {
+    "criteria": {
+      "has_red_mushroom": "2025-02-07 03:51:30 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/decorations/lumiere_lamp": {
     "criteria": {
       "has_lumiere_shard": "2025-02-07 02:30:52 +0000"
@@ -9506,6 +9561,12 @@
   "comforts:hammock_gray": {
     "criteria": {
       "has_gray_wool": "2025-02-07 02:43:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-02-07 03:48:30 +0000"
     },
     "done": true
   },
@@ -9557,6 +9618,12 @@
     },
     "done": true
   },
+  "adorabuild_structures:nether_structures": {
+    "criteria": {
+      "example": "2025-02-07 03:50:52 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/af/biomesoplenty/jacaranda_table": {
     "criteria": {
       "has_planks": "2025-02-07 03:23:13 +0000"
@@ -9581,6 +9648,12 @@
     },
     "done": true
   },
+  "mynethersdelight:recipes/cooking/strider_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-07 03:51:03 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/tw/blue_skies/maple_table": {
     "criteria": {
       "has_planks": "2025-02-07 03:25:06 +0000"
@@ -9590,6 +9663,12 @@
   "everycomp:recipes/decorations/hc/blue_skies/maple_shelf": {
     "criteria": {
       "has_planks": "2025-02-07 03:25:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-02-07 03:50:52 +0000"
     },
     "done": true
   },
@@ -9680,6 +9759,12 @@
   "galosphere:recipes/building_blocks/lumiere_brick_stairs_from_lumiere_block_stonecutting": {
     "criteria": {
       "has_lumiere_block": "2025-02-07 02:30:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2025-02-07 03:48:30 +0000"
     },
     "done": true
   },
@@ -9887,6 +9972,12 @@
     },
     "done": true
   },
+  "crabbersdelight:recipes/building_blocks/cod_barrel": {
+    "criteria": {
+      "has_cod": "2025-02-07 03:48:37 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/q/biomesoplenty/jacaranda_trapped_chest": {
     "criteria": {
       "has_planks": "2025-02-07 03:23:13 +0000"
@@ -9914,6 +10005,12 @@
   "blue_skies:recipes/building_blocks/maple_trapdoor": {
     "criteria": {
       "has_item": "2025-02-07 03:25:06 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/strider_and_grilled_fungus": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-07 03:51:03 +0000"
     },
     "done": true
   },
@@ -9956,6 +10053,12 @@
   "blue_skies:recipes/building_blocks/maple_sign": {
     "criteria": {
       "has_item": "2025-02-07 03:25:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-02-07 03:50:52 +0000"
     },
     "done": true
   },
@@ -10007,6 +10110,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-02-07 03:48:30 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/jacaranda_sign": {
     "criteria": {
       "has_planks": "2025-02-07 03:23:13 +0000"
@@ -10052,6 +10161,12 @@
   "everycomp:recipes/decorations/hc/blue_skies/maple_nightstand": {
     "criteria": {
       "has_planks": "2025-02-07 03:25:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-02-07 03:48:37 +0000"
     },
     "done": true
   },
@@ -10133,6 +10248,12 @@
     },
     "done": true
   },
+  "oceansdelight:recipes/oceansdelight/stuffed_cod": {
+    "criteria": {
+      "has_cod": "2025-02-07 03:48:37 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/combat/maple_spear": {
     "criteria": {
       "has_item": "2025-02-07 03:24:34 +0000"
@@ -10154,6 +10275,12 @@
   "betterend:recipes/misc/hydralux_petal_block_white": {
     "criteria": {
       "has_white_dye": "2025-02-07 02:29:19 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/bn_red_mushroom": {
+    "criteria": {
+      "has_wall_mushroom_red": "2025-02-07 03:51:10 +0000"
     },
     "done": true
   },
@@ -10211,6 +10338,12 @@
     },
     "done": true
   },
+  "betternether:enter_nether": {
+    "criteria": {
+      "entered_nether": "2025-02-07 03:50:52 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/building_blocks/allurite_slab_from_allurite_block_stonecutting": {
     "criteria": {
       "has_allurite_block": "2025-02-07 02:34:00 +0000"
@@ -10256,6 +10389,12 @@
   "galosphere:recipes/building_blocks/allurite_slab": {
     "criteria": {
       "has_allurite_block": "2025-02-07 02:34:00 +0000"
+    },
+    "done": true
+  },
+  "crabbersdelight:recipes/building_blocks/salmon_barrel": {
+    "criteria": {
+      "has_salmon": "2025-02-07 03:48:30 +0000"
     },
     "done": true
   },
