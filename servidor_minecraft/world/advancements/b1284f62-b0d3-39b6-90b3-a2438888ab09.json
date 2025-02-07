@@ -9096,6 +9096,18 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/dead_planks": {
+    "criteria": {
+      "has_logs": "2025-02-07 00:24:49 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/dead_wood": {
+    "criteria": {
+      "has_log": "2025-02-07 00:24:49 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/q/biomesoplenty/dead_post": {
     "criteria": {
       "has_planks": "2025-02-07 00:24:59 +0000"
@@ -9120,18 +9132,6 @@
     },
     "done": true
   },
-  "aether:recipes/combat/leather_helmet_repairing": {
-    "criteria": {
-      "has_leather_helmet": "2025-02-07 00:48:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone_lamp": {
-    "criteria": {
-      "has_glowstone": "2025-02-07 01:19:44 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/redstone/dead_fence_gate": {
     "criteria": {
       "has_planks": "2025-02-07 00:24:59 +0000"
@@ -9147,12 +9147,6 @@
   "everycomp:recipes/decorations/tf/biomesoplenty/hollow_dead_log": {
     "criteria": {
       "has_planks": "2025-02-07 00:24:59 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/golden_helmet_repairing": {
-    "criteria": {
-      "has_golden_helmet": "2025-02-07 01:22:28 +0000"
     },
     "done": true
   },
@@ -9192,27 +9186,9 @@
     },
     "done": true
   },
-  "aether:recipes/combat/chainmail_chestplate_repairing": {
-    "criteria": {
-      "has_chainmail_chestplate": "2025-02-07 01:22:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/chest_minecart": {
-    "criteria": {
-      "has_minecart": "2025-02-07 00:55:46 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/building_blocks/dead_stairs": {
     "criteria": {
       "has_planks": "2025-02-07 00:24:59 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/dispenser_minecart": {
-    "criteria": {
-      "has_minecart": "2025-02-07 00:55:46 +0000"
     },
     "done": true
   },
@@ -9270,12 +9246,6 @@
     },
     "done": true
   },
-  "aether:recipes/combat/golden_leggings_repairing": {
-    "criteria": {
-      "has_golden_leggings": "2025-02-07 00:54:06 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/hc/biomesoplenty/dead_chair": {
     "criteria": {
       "has_planks": "2025-02-07 00:24:59 +0000"
@@ -9297,18 +9267,6 @@
   "everycomp:recipes/decorations/bp/biomesoplenty/dead_backpack_shelf": {
     "criteria": {
       "has_planks": "2025-02-07 00:24:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/tnt_minecart": {
-    "criteria": {
-      "has_minecart": "2025-02-07 00:55:46 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/leather_chestplate_repairing": {
-    "criteria": {
-      "has_leather_chestplate": "2025-02-07 00:59:29 +0000"
     },
     "done": true
   },
@@ -9384,21 +9342,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/hopper_minecart": {
-    "criteria": {
-      "has_minecart": "2025-02-07 00:55:46 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/decorations/biomesoplenty/sign_post_dead": {
     "criteria": {
       "has_planks": "2025-02-07 00:24:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/rail": {
-    "criteria": {
-      "has_minecart": "2025-02-07 00:55:46 +0000"
     },
     "done": true
   },
@@ -9420,12 +9366,6 @@
     },
     "done": true
   },
-  "aether:recipes/combat/chainmail_boots_repairing": {
-    "criteria": {
-      "has_chainmail_boots": "2025-02-07 00:51:14 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/hc/biomesoplenty/dead_counter": {
     "criteria": {
       "has_planks": "2025-02-07 00:24:59 +0000"
@@ -9444,12 +9384,6 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/building_blocks/dead_planks": {
-    "criteria": {
-      "has_logs": "2025-02-07 00:24:49 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/hc/biomesoplenty/dead_side_table": {
     "criteria": {
       "has_planks": "2025-02-07 00:24:59 +0000"
@@ -9459,18 +9393,6 @@
   "everycomp:recipes/building_blocks/db/biomesoplenty/dead_beam": {
     "criteria": {
       "has_planks": "2025-02-07 00:24:59 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/decorations/cincinnasite_lantern": {
-    "criteria": {
-      "has_glowstone": "2025-02-07 01:19:44 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/golden_boots_repairing": {
-    "criteria": {
-      "has_golden_boots": "2025-02-07 01:22:31 +0000"
     },
     "done": true
   },
@@ -9516,33 +9438,9 @@
     },
     "done": true
   },
-  "aether:recipes/combat/leather_leggings_repairing": {
-    "criteria": {
-      "has_leather_leggings": "2025-02-07 00:51:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enchant_item": {
-    "criteria": {
-      "enchanted_item": "2025-02-07 01:05:05 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/faf/biomesoplenty/dead_beehive": {
     "criteria": {
       "has_planks": "2025-02-07 00:24:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/furnace_minecart": {
-    "criteria": {
-      "has_minecart": "2025-02-07 00:55:46 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/dead_wood": {
-    "criteria": {
-      "has_log": "2025-02-07 00:24:49 +0000"
     },
     "done": true
   },
@@ -9567,6 +9465,186 @@
   "everycomp:recipes/decorations/af/biomesoplenty/dead_bench": {
     "criteria": {
       "has_planks": "2025-02-07 00:24:59 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_helmet_repairing": {
+    "criteria": {
+      "has_leather_helmet": "2025-02-07 00:48:04 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/chainmail_boots_repairing": {
+    "criteria": {
+      "has_chainmail_boots": "2025-02-07 00:51:14 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_leggings_repairing": {
+    "criteria": {
+      "has_leather_leggings": "2025-02-07 00:51:14 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_leggings_repairing": {
+    "criteria": {
+      "has_golden_leggings": "2025-02-07 00:54:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2025-02-07 00:55:46 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/dispenser_minecart": {
+    "criteria": {
+      "has_minecart": "2025-02-07 00:55:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2025-02-07 00:55:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2025-02-07 00:55:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2025-02-07 00:55:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2025-02-07 00:55:46 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_chestplate_repairing": {
+    "criteria": {
+      "has_leather_chestplate": "2025-02-07 00:59:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-02-07 01:05:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-02-07 01:19:44 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cincinnasite_lantern": {
+    "criteria": {
+      "has_glowstone": "2025-02-07 01:19:44 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_helmet_repairing": {
+    "criteria": {
+      "has_golden_helmet": "2025-02-07 01:22:28 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/chainmail_chestplate_repairing": {
+    "criteria": {
+      "has_chainmail_chestplate": "2025-02-07 01:22:29 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_boots_repairing": {
+    "criteria": {
+      "has_golden_boots": "2025-02-07 01:22:31 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/black_cushion": {
+    "criteria": {
+      "has_black_cushion": "2025-02-07 02:11:36 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/black_stool": {
+    "criteria": {
+      "has_wool": "2025-02-07 02:11:36 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/black_sofa": {
+    "criteria": {
+      "has_wool": "2025-02-07 02:11:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-02-07 02:11:36 +0000"
+    },
+    "done": true
+  },
+  "shieldexp:get_diamond_shield": {
+    "criteria": {
+      "diamond_shield": "2025-02-07 02:20:06 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/black_lamp": {
+    "criteria": {
+      "has_wool": "2025-02-07 02:11:36 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/black_curtain": {
+    "criteria": {
+      "has_wool": "2025-02-07 02:11:36 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/black_sheet": {
+    "criteria": {
+      "has_black_sheet": "2025-02-07 02:11:36 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/black_tall_stool": {
+    "criteria": {
+      "has_wool": "2025-02-07 02:11:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-02-07 02:11:36 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_black": {
+    "criteria": {
+      "has_black_wool": "2025-02-07 02:11:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-02-07 02:11:36 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_black": {
+    "criteria": {
+      "has_black_wool": "2025-02-07 02:11:36 +0000"
     },
     "done": true
   },

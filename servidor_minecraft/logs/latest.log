@@ -4035,3 +4035,5 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [07Feb2025 02:09:52.129] [Server thread/INFO] [Jade/]: Syncing config to Shinkar (b1284f62-b0d3-39b6-90b3-a2438888ab09)
 [07Feb2025 02:09:53.610] [Server thread/INFO] [ping-wheel/]: Channel update: Shinkar -> default
 [07Feb2025 02:09:53.697] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
+[07Feb2025 02:19:48.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer has made the advancement [Enchanter]
+[07Feb2025 02:20:06.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar has made the advancement [Diamond is Unbreakable]
