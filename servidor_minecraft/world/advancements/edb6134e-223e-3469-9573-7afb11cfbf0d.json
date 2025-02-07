@@ -2473,6 +2473,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-02-05 02:37:31 +0000",
+      "minecraft:blaze": "2025-02-07 04:30:26 +0000",
       "minecraft:skeleton": "2025-02-04 05:42:30 +0000",
       "minecraft:ravager": "2025-02-05 04:14:13 +0000",
       "minecraft:vindicator": "2025-02-05 03:24:23 +0000",
@@ -9975,9 +9976,19 @@
     },
     "done": true
   },
+  "betternether:recipes/redstone/bone_reed_door": {
+    "criteria": {
+      "has_bone_block": "2025-02-07 04:27:51 +0000"
+    },
+    "done": true
+  },
   "betternether:all_the_biomes": {
     "criteria": {
-      "betternether:crimson_glowing_woods": "2025-02-07 03:01:26 +0000"
+      "betternether:bone_reef": "2025-02-07 04:24:15 +0000",
+      "betternether:nether_swampland": "2025-02-07 04:25:35 +0000",
+      "betternether:crimson_glowing_woods": "2025-02-07 03:01:26 +0000",
+      "betternether:nether_swampland_terraces": "2025-02-07 04:30:03 +0000",
+      "betternether:sulfuric_bone_reef": "2025-02-07 04:29:33 +0000"
     },
     "done": false
   },
@@ -10083,6 +10094,12 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/bone_wall": {
+    "criteria": {
+      "has_bone_block": "2025-02-07 04:27:51 +0000"
+    },
+    "done": true
+  },
   "bygonenether:root": {
     "criteria": {
       "entered_nether": "2025-02-07 03:01:21 +0000"
@@ -10092,6 +10109,12 @@
   "twigs:recipes/lamps/crimson_shroomlamp": {
     "criteria": {
       "has_item": "2025-02-07 04:17:33 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/bone_slab_stonecutting": {
+    "criteria": {
+      "has_block.betternether.bone_block": "2025-02-07 04:27:51 +0000"
     },
     "done": true
   },
@@ -10122,6 +10145,12 @@
   "stoneworks:recipes/building_blocks/polished_netherrack_wall_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-02-07 04:20:35 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/spicy_skewer": {
+    "criteria": {
+      "has_blaze_rod": "2025-02-07 04:30:30 +0000"
     },
     "done": true
   },
@@ -10281,9 +10310,21 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/bone_wall_stonecutting": {
+    "criteria": {
+      "has_block.betternether.bone_block": "2025-02-07 04:27:51 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/safe": {
     "criteria": {
       "has_netherite_ingot": "2025-02-07 03:56:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2025-02-07 04:29:11 +0000"
     },
     "done": true
   },
@@ -10302,6 +10343,12 @@
   "stoneworks:recipes/building_blocks/mossy_netherrack_brick_wall_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-02-07 04:20:35 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/brewing/nether_brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-02-07 04:30:30 +0000"
     },
     "done": true
   },
@@ -10395,9 +10442,27 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-02-07 04:30:30 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/redstone/bone_block_bone_plate": {
+    "criteria": {
+      "has_bone_block": "2025-02-07 04:27:51 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_netherrack_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-02-07 04:20:35 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/bone_block_bone_stairs": {
+    "criteria": {
+      "has_bone_block": "2025-02-07 04:27:51 +0000"
     },
     "done": true
   },
@@ -10455,6 +10520,18 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/bone_stairs_stonecutting": {
+    "criteria": {
+      "has_block.betternether.bone_block": "2025-02-07 04:27:51 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/frozen/obsidian": {
+    "criteria": {
+      "has_magma_block": "2025-02-07 04:31:54 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/golden_chestplate_repairing": {
     "criteria": {
       "has_golden_chestplate": "2025-02-07 03:37:42 +0000"
@@ -10500,6 +10577,12 @@
   "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
       "has_cod": "2025-02-07 03:48:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-02-07 04:30:30 +0000"
     },
     "done": true
   },
@@ -10593,6 +10676,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/bone_block_bone_slab": {
+    "criteria": {
+      "has_bone_block": "2025-02-07 04:27:51 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/stone_sword_repairing": {
     "criteria": {
       "has_stone_sword": "2025-02-07 02:54:04 +0000"
@@ -10659,9 +10748,21 @@
     },
     "done": true
   },
+  "betternether:recipes/redstone/bone_cin_door": {
+    "criteria": {
+      "has_bone_block": "2025-02-07 04:27:51 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/misc/lapis_pile_to_lapis": {
     "criteria": {
       "has_lapis_pile": "2025-02-07 04:20:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-02-07 04:30:30 +0000"
     },
     "done": true
   },

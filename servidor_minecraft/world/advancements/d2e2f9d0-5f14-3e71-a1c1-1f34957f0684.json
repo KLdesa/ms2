@@ -9056,6 +9056,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/light_gray_stool": {
+    "criteria": {
+      "has_wool": "2025-02-07 04:27:13 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/misc/maple_stick": {
     "criteria": {
       "has_item": "2025-02-07 03:25:06 +0000"
@@ -9065,6 +9071,12 @@
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2025-02-07 03:48:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops_from_campfire_cooking": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-02-07 04:27:50 +0000"
     },
     "done": true
   },
@@ -9101,6 +9113,12 @@
   "betternether:recipes/tools/nether_ruby_leggings": {
     "criteria": {
       "has_nether_ruby": "2025-02-07 04:08:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-02-07 04:27:13 +0000"
     },
     "done": true
   },
@@ -9164,6 +9182,12 @@
     },
     "done": true
   },
+  "comforts:sleeping_bag_light_gray": {
+    "criteria": {
+      "has_light_gray_wool": "2025-02-07 04:27:13 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/decorations/monstrometer": {
     "criteria": {
       "has_lumiere_block": "2025-02-07 02:30:53 +0000"
@@ -9173,6 +9197,12 @@
   "handcrafted:recipes/misc/white_crockery_combo": {
     "criteria": {
       "has_white_crockery_combo": "2025-02-07 02:29:19 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/light_gray_sofa": {
+    "criteria": {
+      "has_wool": "2025-02-07 04:27:13 +0000"
     },
     "done": true
   },
@@ -9956,6 +9986,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/light_gray_cushion": {
+    "criteria": {
+      "has_light_gray_cushion": "2025-02-07 04:27:13 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/building_blocks/db/biomesoplenty/jacaranda_seat": {
     "criteria": {
       "has_planks": "2025-02-07 03:23:13 +0000"
@@ -10073,6 +10109,12 @@
   "everycomp:recipes/decorations/hnhome/biomesoplenty/jacaranda_lattice": {
     "criteria": {
       "has_planks": "2025-02-07 03:23:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-02-07 04:27:13 +0000"
     },
     "done": true
   },
@@ -10322,6 +10364,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/light_gray_sheet": {
+    "criteria": {
+      "has_light_gray_sheet": "2025-02-07 04:27:13 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/hc/blue_skies/maple_pillar_trim": {
     "criteria": {
       "has_planks": "2025-02-07 03:25:06 +0000"
@@ -10337,6 +10385,12 @@
   "aether:recipes/combat/golden_chestplate_repairing": {
     "criteria": {
       "has_golden_chestplate": "2025-02-07 01:50:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops_from_smoking": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-02-07 04:27:50 +0000"
     },
     "done": true
   },
@@ -10361,6 +10415,12 @@
   "biomesoplenty:recipes/decorations/jacaranda_sign": {
     "criteria": {
       "has_planks": "2025-02-07 03:23:13 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/light_gray_tall_stool": {
+    "criteria": {
+      "has_wool": "2025-02-07 04:27:13 +0000"
     },
     "done": true
   },
@@ -10412,6 +10472,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-02-07 04:27:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sea_lantern": {
     "criteria": {
       "has_prismarine_crystals": "2025-02-07 03:16:28 +0000"
@@ -10421,6 +10487,12 @@
   "supplementaries:recipes/strings": {
     "criteria": {
       "has_flax": "2025-02-07 04:21:40 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/light_gray_curtain": {
+    "criteria": {
+      "has_wool": "2025-02-07 04:27:13 +0000"
     },
     "done": true
   },
@@ -10754,6 +10826,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/cooked_mutton_chops": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-02-07 04:27:50 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/misc/rift_armor_trim_smithing_template": {
     "criteria": {
       "has_coast_armor_trim_smithing_template": "2025-02-07 03:19:58 +0000"
@@ -10905,6 +10983,12 @@
     },
     "done": true
   },
+  "comforts:hammock_light_gray": {
+    "criteria": {
+      "has_light_gray_wool": "2025-02-07 04:27:13 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/q/biomesoplenty/jacaranda_bookshelf": {
     "criteria": {
       "has_planks": "2025-02-07 03:23:13 +0000"
@@ -10950,6 +11034,12 @@
   "crabbersdelight:recipes/food/kelp_shake": {
     "criteria": {
       "has_kelp": "2025-02-07 03:19:27 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/light_gray_lamp": {
+    "criteria": {
+      "has_wool": "2025-02-07 04:27:13 +0000"
     },
     "done": true
   },
