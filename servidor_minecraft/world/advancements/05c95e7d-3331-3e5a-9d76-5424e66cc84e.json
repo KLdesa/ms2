@@ -9360,6 +9360,7 @@
   },
   "betternether:all_the_biomes": {
     "criteria": {
+      "betternether:crimson_pinewood": "2025-02-07 04:18:15 +0000",
       "betternether:crimson_glowing_woods": "2025-02-07 03:56:57 +0000"
     },
     "done": false
@@ -10030,6 +10031,18 @@
     },
     "done": true
   },
+  "twigs:recipes/paper_lanterns/crimson_roots_paper_lantern": {
+    "criteria": {
+      "has_item": "2025-02-07 04:17:58 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/bn_red_mushroom": {
+    "criteria": {
+      "has_wall_mushroom_red": "2025-02-07 04:17:59 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/combat/sterling_chestplate_smithing": {
     "criteria": {
       "has_silver_ingot": "2025-02-07 03:40:30 +0000"
@@ -10189,6 +10202,12 @@
   "netherexp:recipes/misc/soul_candle": {
     "criteria": {
       "has_planks": "2025-02-07 04:02:39 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/lapis_pile_to_lapis": {
+    "criteria": {
+      "has_lapis_pile": "2025-02-07 04:20:11 +0000"
     },
     "done": true
   },
