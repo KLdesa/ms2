@@ -9094,5 +9094,377 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/q/biomesoplenty/dead_post": {
+    "criteria": {
+      "has_planks": "2025-02-07 00:24:59 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/tw/biomesoplenty/dead_table": {
+    "criteria": {
+      "has_planks": "2025-02-07 00:24:59 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/dead_desk": {
+    "criteria": {
+      "has_planks": "2025-02-07 00:24:59 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/fd/biomesoplenty/dead_cabinet": {
+    "criteria": {
+      "has_planks": "2025-02-07 00:24:59 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/dead_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-07 00:24:59 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/biomesoplenty/dead_vertical_trim": {
+    "criteria": {
+      "has_planks": "2025-02-07 00:24:59 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/tf/biomesoplenty/hollow_dead_log": {
+    "criteria": {
+      "has_planks": "2025-02-07 00:24:59 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/biomesoplenty/dead_bookshelf": {
+    "criteria": {
+      "has_planks": "2025-02-07 00:24:59 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/db/biomesoplenty/dead_seat": {
+    "criteria": {
+      "has_planks": "2025-02-07 00:24:59 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/biomesoplenty/dead_flower_box": {
+    "criteria": {
+      "has_planks": "2025-02-07 00:24:59 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/biomesoplenty/stripped_dead_post": {
+    "criteria": {
+      "has_planks": "2025-02-07 00:24:59 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/biomesoplenty/dead_chest": {
+    "criteria": {
+      "has_planks": "2025-02-07 00:24:59 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/vp/biomesoplenty/dead_horticulturist_table": {
+    "criteria": {
+      "has_planks": "2025-02-07 00:24:59 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/dead_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-07 00:24:59 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/dead_corner_trim": {
+    "criteria": {
+      "has_planks": "2025-02-07 00:24:59 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/dead_slab": {
+    "criteria": {
+      "has_planks": "2025-02-07 00:24:59 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/dead_nightstand": {
+    "criteria": {
+      "has_planks": "2025-02-07 00:24:59 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/biomesoplenty/dead_table": {
+    "criteria": {
+      "has_planks": "2025-02-07 00:24:59 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/dead_couch": {
+    "criteria": {
+      "has_planks": "2025-02-07 00:24:59 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/dead_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-07 00:24:59 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/dead_dining_bench": {
+    "criteria": {
+      "has_planks": "2025-02-07 00:24:59 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/biomesoplenty/dead_trapped_chest": {
+    "criteria": {
+      "has_planks": "2025-02-07 00:24:59 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/dead_fence": {
+    "criteria": {
+      "has_planks": "2025-02-07 00:24:59 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/dead_chair": {
+    "criteria": {
+      "has_planks": "2025-02-07 00:24:59 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/dead_table": {
+    "criteria": {
+      "has_planks": "2025-02-07 00:24:59 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/db/biomesoplenty/dead_support": {
+    "criteria": {
+      "has_planks": "2025-02-07 00:24:59 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/bp/biomesoplenty/dead_backpack_shelf": {
+    "criteria": {
+      "has_planks": "2025-02-07 00:24:59 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/biomesoplenty/dead_ladder": {
+    "criteria": {
+      "has_planks": "2025-02-07 00:24:59 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/biomesoplenty/dead_chair": {
+    "criteria": {
+      "has_planks": "2025-02-07 00:24:59 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/biomesoplenty/dead_parquet": {
+    "criteria": {
+      "has_planks": "2025-02-07 00:24:59 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/biomesoplenty/hollow_dead_log": {
+    "criteria": {
+      "has_planks": "2025-02-07 00:24:59 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/dead_button": {
+    "criteria": {
+      "has_planks": "2025-02-07 00:24:59 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/biomesoplenty/dead_sanded_wood": {
+    "criteria": {
+      "has_planks": "2025-02-07 00:24:59 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/dead_cupboard": {
+    "criteria": {
+      "has_planks": "2025-02-07 00:24:59 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/biomesoplenty/dead_shelf": {
+    "criteria": {
+      "has_planks": "2025-02-07 00:24:59 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/tf/biomesoplenty/dead_banister": {
+    "criteria": {
+      "has_planks": "2025-02-07 00:24:59 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/abnbl/biomesoplenty/dead_furnace_boat": {
+    "criteria": {
+      "has_planks": "2025-02-07 00:24:59 +0000"
+    },
+    "done": true
+  },
+  "suppsquared:recipes/decorations/biomesoplenty/item_shelf_dead": {
+    "criteria": {
+      "has_planks": "2025-02-07 00:24:59 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/dead_fancy_bed": {
+    "criteria": {
+      "has_planks": "2025-02-07 00:24:59 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/biomesoplenty/sign_post_dead": {
+    "criteria": {
+      "has_planks": "2025-02-07 00:24:59 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/dead_drawer": {
+    "criteria": {
+      "has_planks": "2025-02-07 00:24:59 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/dead_shelf": {
+    "criteria": {
+      "has_planks": "2025-02-07 00:24:59 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/biomesoplenty/dead_trim_1": {
+    "criteria": {
+      "has_planks": "2025-02-07 00:24:59 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/dead_counter": {
+    "criteria": {
+      "has_planks": "2025-02-07 00:24:59 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/dead_pillar_trim": {
+    "criteria": {
+      "has_planks": "2025-02-07 00:24:59 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/biomesoplenty/dead_lattice": {
+    "criteria": {
+      "has_planks": "2025-02-07 00:24:59 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/dead_planks": {
+    "criteria": {
+      "has_logs": "2025-02-07 00:24:49 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/dead_side_table": {
+    "criteria": {
+      "has_planks": "2025-02-07 00:24:59 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/db/biomesoplenty/dead_beam": {
+    "criteria": {
+      "has_planks": "2025-02-07 00:24:59 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/biomesoplenty/dead_trim": {
+    "criteria": {
+      "has_planks": "2025-02-07 00:24:59 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/biomesoplenty/dead_shutter": {
+    "criteria": {
+      "has_planks": "2025-02-07 00:24:59 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/dead_bench": {
+    "criteria": {
+      "has_planks": "2025-02-07 00:24:59 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/biomesoplenty/dead_drawer": {
+    "criteria": {
+      "has_planks": "2025-02-07 00:24:59 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/dead_sign": {
+    "criteria": {
+      "has_planks": "2025-02-07 00:24:59 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/abnbl/biomesoplenty/large_dead_boat": {
+    "criteria": {
+      "has_planks": "2025-02-07 00:24:59 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/db/biomesoplenty/dead_palisade": {
+    "criteria": {
+      "has_planks": "2025-02-07 00:24:59 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/faf/biomesoplenty/dead_beehive": {
+    "criteria": {
+      "has_planks": "2025-02-07 00:24:59 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/dead_wood": {
+    "criteria": {
+      "has_log": "2025-02-07 00:24:49 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/biomesoplenty/vertical_dead_planks": {
+    "criteria": {
+      "has_planks": "2025-02-07 00:24:59 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/dead_door": {
+    "criteria": {
+      "has_planks": "2025-02-07 00:24:59 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/dead_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-07 00:24:59 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/biomesoplenty/dead_bench": {
+    "criteria": {
+      "has_planks": "2025-02-07 00:24:59 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
