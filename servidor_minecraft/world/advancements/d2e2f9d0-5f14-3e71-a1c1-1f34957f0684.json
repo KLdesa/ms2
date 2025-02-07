@@ -8930,6 +8930,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-07 04:42:28 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/hc/biomesoplenty/jacaranda_table": {
     "criteria": {
       "has_planks": "2025-02-07 03:23:13 +0000"
@@ -9068,6 +9074,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-07 04:42:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2025-02-07 03:48:30 +0000"
@@ -9140,6 +9152,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-02-07 04:57:43 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/af/biomesoplenty/jacaranda_drawer": {
     "criteria": {
       "has_planks": "2025-02-07 03:23:13 +0000"
@@ -9161,6 +9179,12 @@
   "betternether:recipes/tools/nether_ruby_boots": {
     "criteria": {
       "has_nether_ruby": "2025-02-07 04:08:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-07 04:42:28 +0000"
     },
     "done": true
   },
@@ -9278,6 +9302,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-07 04:42:28 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/bread_from_smoking": {
     "criteria": {
       "has_dough": "2025-02-07 03:59:19 +0000"
@@ -9302,6 +9332,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-02-07 04:57:43 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/chainmail_chestplate_repairing": {
     "criteria": {
       "has_chainmail_chestplate": "2025-02-07 02:21:12 +0000"
@@ -9323,6 +9359,12 @@
   "mynethersdelight:recipes/cooking/crimson_stroganoff": {
     "criteria": {
       "has_any_ingredient": "2025-02-07 03:51:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glass_bottle": {
+    "criteria": {
+      "has_glass": "2025-02-07 04:42:28 +0000"
     },
     "done": true
   },
@@ -9368,9 +9410,21 @@
     },
     "done": true
   },
+  "farmersdelight:main/master_chef": {
+    "criteria": {
+      "pasta_with_mutton_chop": "2025-02-07 04:47:07 +0000"
+    },
+    "done": false
+  },
   "galosphere:recipes/building_blocks/lumiere_bricks_from_lumiere_block_stonecutting": {
     "criteria": {
       "has_lumiere_block": "2025-02-07 02:30:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-07 04:42:28 +0000"
     },
     "done": true
   },
@@ -9476,6 +9530,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/black_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-07 04:42:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-07 04:42:28 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/hnhome/biomesoplenty/jacaranda_trim_1": {
     "criteria": {
       "has_planks": "2025-02-07 03:23:13 +0000"
@@ -9509,6 +9575,12 @@
   "aether:recipes/combat/leather_boots_repairing": {
     "criteria": {
       "has_leather_boots": "2025-02-07 02:20:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-02-07 04:57:43 +0000"
     },
     "done": true
   },
@@ -9623,6 +9695,12 @@
   "blue_skies:recipes/misc/moonstone_from_shard": {
     "criteria": {
       "has_item": "2025-02-07 03:24:34 +0000"
+    },
+    "done": true
+  },
+  "hearth_and_home:recipes/barred_glass": {
+    "criteria": {
+      "has_item": "2025-02-07 04:42:28 +0000"
     },
     "done": true
   },
@@ -9812,6 +9890,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2025-02-07 04:42:28 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/af/biomesoplenty/jacaranda_table": {
     "criteria": {
       "has_planks": "2025-02-07 03:23:13 +0000"
@@ -9926,6 +10010,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-07 04:42:28 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/hc/biomesoplenty/jacaranda_chair": {
     "criteria": {
       "has_planks": "2025-02-07 03:23:13 +0000"
@@ -10022,6 +10112,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-07 04:42:28 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/beef_patty_from_campfire_cooking": {
     "criteria": {
       "beef_patty": "2025-02-07 04:17:28 +0000"
@@ -10097,6 +10193,12 @@
   "minecraft:recipes/misc/lime_dye": {
     "criteria": {
       "has_white_dye": "2025-02-07 02:29:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-07 04:42:28 +0000"
     },
     "done": true
   },
@@ -10244,6 +10346,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_the_recipe": "2025-02-07 04:57:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smelting": {
     "criteria": {
       "has_kelp": "2025-02-07 03:19:27 +0000"
@@ -10316,6 +10424,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-07 04:42:28 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/hnhome/biomesoplenty/jacaranda_trim": {
     "criteria": {
       "has_planks": "2025-02-07 03:23:13 +0000"
@@ -10367,6 +10481,12 @@
   "handcrafted:recipes/misc/light_gray_sheet": {
     "criteria": {
       "has_light_gray_sheet": "2025-02-07 04:27:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-07 04:42:28 +0000"
     },
     "done": true
   },
@@ -10580,6 +10700,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-07 04:42:28 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/combat/maple_spear": {
     "criteria": {
       "has_item": "2025-02-07 03:24:34 +0000"
@@ -10679,6 +10805,12 @@
   "betternether:enter_nether": {
     "criteria": {
       "entered_nether": "2025-02-07 03:50:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-07 04:42:28 +0000"
     },
     "done": true
   },
@@ -10826,6 +10958,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-07 04:42:28 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/cooked_mutton_chops": {
     "criteria": {
       "cooked_mutton_chops": "2025-02-07 04:27:50 +0000"
@@ -10880,6 +11018,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-07 04:42:28 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/cooked_rice": {
     "criteria": {
       "has_rice": "2025-02-07 01:41:28 +0000"
@@ -10896,6 +11040,12 @@
     "criteria": {
       "has_pumpkin": "2025-02-07 02:52:24 +0000",
       "has_the_recipe": "2025-02-07 02:52:24 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/tined_glass_from_smaragdant": {
+    "criteria": {
+      "has_glass": "2025-02-07 04:42:28 +0000"
     },
     "done": true
   },
@@ -10950,6 +11100,12 @@
   "everycomp:recipes/decorations/af/blue_skies/maple_flower_box": {
     "criteria": {
       "has_planks": "2025-02-07 03:25:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_nourishing_food": {
+    "criteria": {
+      "nourishment": "2025-02-07 04:47:07 +0000"
     },
     "done": true
   },

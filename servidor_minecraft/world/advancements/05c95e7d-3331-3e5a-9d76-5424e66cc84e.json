@@ -9360,6 +9360,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/blossom_berry_jelly_potion": {
+    "criteria": {
+      "has_potion": "2025-02-07 04:54:54 +0000"
+    },
+    "done": true
+  },
   "betternether:all_the_biomes": {
     "criteria": {
       "betternether:bone_reef": "2025-02-07 04:24:19 +0000",
@@ -9373,6 +9379,12 @@
   "aether:recipes/combat/netherite_gloves_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-02-07 03:40:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-02-07 04:54:53 +0000"
     },
     "done": true
   },
@@ -9706,6 +9718,12 @@
     },
     "done": true
   },
+  "repurposed_structures:shipwrecks": {
+    "criteria": {
+      "in_shipwreck_nether_bricks": "2025-02-07 04:54:33 +0000"
+    },
+    "done": false
+  },
   "stoneworks:recipes/building_blocks/nether_brick_shingle_slab_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-02-07 04:00:31 +0000"
@@ -9832,6 +9850,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/golden_sword_repairing": {
+    "criteria": {
+      "has_golden_sword": "2025-02-07 04:49:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_wart_block": {
     "criteria": {
       "has_nether_wart": "2025-02-07 04:00:54 +0000"
@@ -9853,6 +9877,12 @@
   "netherexp:recipes/soul_slate/wall": {
     "criteria": {
       "has_planks": "2025-02-07 04:02:44 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/shadow_berry_jelly_potion": {
+    "criteria": {
+      "has_potion": "2025-02-07 04:54:54 +0000"
     },
     "done": true
   },
@@ -9895,6 +9925,12 @@
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-02-07 03:56:56 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/netherrack_stalactite_netherrack": {
+    "criteria": {
+      "has_netherrack_stalactite": "2025-02-07 04:58:31 +0000"
     },
     "done": true
   },
@@ -10033,6 +10069,12 @@
   "minecraft:recipes/building_blocks/red_nether_brick_slab": {
     "criteria": {
       "has_red_nether_bricks": "2025-02-07 04:29:02 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/bn_glowstone_dust": {
+    "criteria": {
+      "has_glowstone_pile": "2025-02-07 04:51:41 +0000"
     },
     "done": true
   },
@@ -10303,6 +10345,12 @@
   "minecraft:recipes/misc/gold_ingot_from_blasting_deepslate_gold_ore": {
     "criteria": {
       "has_deepslate_gold_ore": "2025-02-07 00:37:17 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_boots_repairing": {
+    "criteria": {
+      "has_netherite_boots": "2025-02-07 04:55:07 +0000"
     },
     "done": true
   },

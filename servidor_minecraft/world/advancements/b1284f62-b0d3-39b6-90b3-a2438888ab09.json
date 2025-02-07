@@ -2040,6 +2040,7 @@
       "minecraft:pillager": "2025-02-05 03:17:56 +0000",
       "minecraft:skeleton": "2025-02-03 23:39:52 +0000",
       "minecraft:ravager": "2025-02-05 03:40:46 +0000",
+      "minecraft:ghast": "2025-02-07 04:56:40 +0000",
       "minecraft:vindicator": "2025-02-05 03:18:53 +0000",
       "minecraft:spider": "2025-02-05 02:34:39 +0000",
       "minecraft:creeper": "2025-02-04 05:31:03 +0000",
@@ -7261,7 +7262,8 @@
   },
   "repurposed_structures:mineshafts": {
     "criteria": {
-      "in_mineshaft_icy": "2025-02-05 06:31:38 +0000"
+      "in_mineshaft_icy": "2025-02-05 06:31:38 +0000",
+      "in_mineshaft_nether": "2025-02-07 04:46:57 +0000"
     },
     "done": false
   },
@@ -9595,6 +9597,7 @@
   },
   "betternether:all_the_biomes": {
     "criteria": {
+      "betternether:upside_down_forest_cleared": "2025-02-07 04:44:47 +0000",
       "betternether:crimson_pinewood": "2025-02-07 04:33:26 +0000",
       "betternether:crimson_glowing_woods": "2025-02-07 04:25:48 +0000"
     },
@@ -9617,6 +9620,12 @@
       "minecraft:crimson_forest": "2025-02-07 04:36:04 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-02-07 04:48:22 +0000"
+    },
+    "done": true
   },
   "netherexp:nether/gravedigger": {
     "criteria": {
@@ -9651,6 +9660,12 @@
   "stoneworks:recipes/building_blocks/netherrack_brick_stairs_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-02-07 04:30:00 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/cincinnasite_ingot_from_shard_blasting": {
+    "criteria": {
+      "has_item.betternether.cincinnasite": "2025-02-07 04:45:24 +0000"
     },
     "done": true
   },
@@ -9924,6 +9939,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-02-07 04:46:38 +0000"
+    },
+    "done": true
+  },
   "boatload:recipes/transportation/wide_bamboo_raft": {
     "criteria": {
       "has_boat": "2025-02-07 04:27:54 +0000"
@@ -10020,6 +10041,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/cincinnasite_block": {
+    "criteria": {
+      "has_cincinnasite": "2025-02-07 04:45:24 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/safe": {
     "criteria": {
       "has_netherite_ingot": "2025-02-07 04:07:48 +0000"
@@ -10098,9 +10125,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-02-07 04:46:38 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/misc/soul_magma_block": {
     "criteria": {
       "has_item2": "2025-02-07 04:37:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-02-07 04:50:16 +0000"
     },
     "done": true
   },
@@ -10113,6 +10152,12 @@
   "minecraft:recipes/transportation/acacia_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-07 04:27:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-02-07 04:48:22 +0000"
     },
     "done": true
   },
@@ -10197,6 +10242,12 @@
   "twigs:recipes/bloodstone/bloodstone": {
     "criteria": {
       "has_item": "2025-02-07 04:36:23 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/food/herbal_medicine": {
+    "criteria": {
+      "has_nether_wart": "2025-02-07 04:50:16 +0000"
     },
     "done": true
   },
@@ -10434,6 +10485,12 @@
     },
     "done": true
   },
+  "betternether:recipes/food/stalagnate_bowl_wart": {
+    "criteria": {
+      "has_nether_wart": "2025-02-07 04:50:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_leggings_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-02-07 04:07:48 +0000"
@@ -10449,6 +10506,12 @@
   "netherexp:recipes/bone_blocks/soul_burning_skull_block": {
     "criteria": {
       "has_item": "2025-02-07 04:37:48 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/frozen/obsidian": {
+    "criteria": {
+      "has_magma_block": "2025-02-07 04:46:33 +0000"
     },
     "done": true
   },
@@ -10473,6 +10536,12 @@
   "minecraft:recipes/decorations/lodestone": {
     "criteria": {
       "has_netherite_ingot": "2025-02-07 04:07:48 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/cincinnasite_ingot_from_shard_smelting": {
+    "criteria": {
+      "has_item.betternether.cincinnasite": "2025-02-07 04:45:24 +0000"
     },
     "done": true
   },
@@ -10593,6 +10662,18 @@
   "minecraft:recipes/transportation/jungle_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-07 04:27:54 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/bn_red_mushroom": {
+    "criteria": {
+      "has_wall_mushroom_red": "2025-02-07 04:57:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-02-07 04:48:22 +0000"
     },
     "done": true
   },
