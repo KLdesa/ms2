@@ -3950,3 +3950,53 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [07Feb2025 01:27:18.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JOSHEEEE> pico
 [07Feb2025 01:28:15.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JOSHEEEE> ty
 [07Feb2025 01:29:27.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JOSHEEEE> dejamen encantar mi armadura
+[07Feb2025 01:34:01.977] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Digigamerfer[/127.175.27.76:41551] logged in with entity id 27253 at (82.18242318705552, 66.0, -96.47739048144766)
+[07Feb2025 01:34:01.982] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Digigamerfer
+[07Feb2025 01:34:01.983] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Digigamerfer
+[07Feb2025 01:34:01.983] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Digigamerfer
+[07Feb2025 01:34:01.983] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Digigamerfer
+[07Feb2025 01:34:01.985] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Digigamerfer
+[07Feb2025 01:34:01.987] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Digigamerfer
+[07Feb2025 01:34:01.987] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Digigamerfer
+[07Feb2025 01:34:01.997] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[07Feb2025 01:34:02.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer joined the game
+[07Feb2025 01:34:02.052] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for d2e2f9d0-5f14-3e71-a1c1-1f34957f0684
+[07Feb2025 01:34:02.060] [Server thread/INFO] [Jade/]: Syncing config to Digigamerfer (d2e2f9d0-5f14-3e71-a1c1-1f34957f0684)
+[07Feb2025 01:34:03.911] [Server thread/INFO] [ping-wheel/]: Channel update: Digigamerfer -> default
+[07Feb2025 01:34:04.095] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
+[07Feb2025 01:34:27.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JOSHEEEE> tienen hornitas para intercambiar hierro?
+[07Feb2025 01:34:45.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JOSHEEEE> donde es la granja mayoriaa?
+[07Feb2025 01:34:50.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JOSHEEEE> me faltta 2 niceles
+[07Feb2025 01:34:53.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JOSHEEEE> fuera hihjita
+[07Feb2025 01:35:10.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Digigamerfer> joshe?
+[07Feb2025 01:35:12.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JOSHEEEE> sip
+[07Feb2025 01:35:17.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JOSHEEEE> nop
+[07Feb2025 01:35:20.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Digigamerfer> sabes hablar? :v
+[07Feb2025 01:36:08.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JOSHEEEE> ya esta
+[07Feb2025 01:36:12.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JOSHEEEE> ire a encantar
+[07Feb2025 01:36:38.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JOSHEEEE> la quemare
+[07Feb2025 01:37:02.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JOSHEEEE> ty
+[07Feb2025 01:38:07.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Digigamerfer> zzzz
+[07Feb2025 01:38:33.599] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shinkar lost connection: Disconnected
+[07Feb2025 01:38:33.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar left the game
+[07Feb2025 01:38:33.600] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for b1284f62-b0d3-39b6-90b3-a2438888ab09
+[07Feb2025 01:38:48.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[07Feb2025 01:38:48.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: s<--[HERE]
+[07Feb2025 01:41:51.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JOSHEEEE> si
+[07Feb2025 01:42:16.703] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=34, y=64, z=-127} BlockPos{x=34, y=63, z=-127}
+[07Feb2025 01:42:18.498] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=29, y=64, z=-122} BlockPos{x=28, y=63, z=-122}
+[07Feb2025 01:42:18.546] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=29, y=64, z=-122} BlockPos{x=28, y=63, z=-122}
+[07Feb2025 01:42:19.353] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=34, y=64, z=-122} BlockPos{x=32, y=63, z=-122}
+[07Feb2025 01:42:20.251] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=35, y=64, z=-123} BlockPos{x=35, y=63, z=-123}
+[07Feb2025 01:42:23.152] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=41, y=64, z=-134} BlockPos{x=41, y=63, z=-133}
+[07Feb2025 01:42:23.796] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=43, y=64, z=-133} BlockPos{x=43, y=63, z=-133}
+[07Feb2025 01:42:32.645] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=36, y=64, z=-131} BlockPos{x=36, y=63, z=-131}
+[07Feb2025 01:42:32.699] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=36, y=64, z=-131} BlockPos{x=36, y=63, z=-131}
+[07Feb2025 01:42:33.406] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=36, y=64, z=-135} BlockPos{x=36, y=63, z=-135}
+[07Feb2025 01:42:35.797] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=30, y=64, z=-130} BlockPos{x=30, y=63, z=-129}
+[07Feb2025 01:42:36.800] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=27, y=64, z=-126} BlockPos{x=26, y=63, z=-126}
+[07Feb2025 01:42:37.318] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=26, y=64, z=-124} BlockPos{x=27, y=63, z=-124}
+[07Feb2025 01:42:52.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JOSHEEEE> cuants'
+[07Feb2025 01:42:54.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JOSHEEEE> ?
+[07Feb2025 01:50:00.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JOSHEEEE> que fue
+[07Feb2025 01:50:05.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Digigamerfer> es de chill
