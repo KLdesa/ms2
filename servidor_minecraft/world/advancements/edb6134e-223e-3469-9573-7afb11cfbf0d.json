@@ -10027,9 +10027,21 @@
     },
     "done": true
   },
+  "aether:recipes/combat/golden_helmet_repairing": {
+    "criteria": {
+      "has_golden_helmet": "2025-02-07 03:37:42 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/dragon_tree_hanging_sign": {
     "criteria": {
       "has_chain": "2025-02-07 03:02:55 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/chainmail_chestplate_repairing": {
+    "criteria": {
+      "has_chainmail_chestplate": "2025-02-07 03:40:04 +0000"
     },
     "done": true
   },
@@ -10099,6 +10111,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-02-07 03:30:05 +0000"
+    },
+    "done": true
+  },
   "adorabuild_structures:nether_structures": {
     "criteria": {
       "example": "2025-02-07 03:01:21 +0000"
@@ -10138,6 +10156,12 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-02-07 03:01:21 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_chestplate_repairing": {
+    "criteria": {
+      "has_golden_chestplate": "2025-02-07 03:37:42 +0000"
     },
     "done": true
   },

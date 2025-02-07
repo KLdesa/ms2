@@ -2549,7 +2549,8 @@
       "rotten_flesh": "2025-02-04 05:09:05 +0000",
       "golden_carrot": "2025-02-05 02:28:53 +0000",
       "beetroot": "2025-02-07 03:02:43 +0000",
-      "cooked_chicken": "2025-02-05 04:30:11 +0000"
+      "cooked_chicken": "2025-02-05 04:30:11 +0000",
+      "cooked_salmon": "2025-02-07 03:29:28 +0000"
     },
     "done": false
   },
@@ -5484,6 +5485,8 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "muskeg": "2025-02-05 02:16:23 +0000",
+      "snowblossom_grove": "2025-02-07 03:31:24 +0000",
+      "highland": "2025-02-07 03:32:31 +0000",
       "jacaranda_glade": "2025-02-07 03:07:18 +0000",
       "maple_woods": "2025-02-05 02:06:03 +0000",
       "coniferous_forest": "2025-02-05 02:46:16 +0000",
@@ -5492,6 +5495,7 @@
       "seasonal_forest": "2025-02-06 05:08:15 +0000",
       "dead_forest": "2025-02-05 02:50:21 +0000",
       "fir_clearing": "2025-02-06 03:37:32 +0000",
+      "pumpkin_patch": "2025-02-07 03:31:36 +0000",
       "prairie": "2025-02-07 03:21:06 +0000",
       "tundra": "2025-02-05 02:28:00 +0000",
       "gravel_beach": "2025-02-06 05:08:20 +0000",
@@ -5579,6 +5583,7 @@
   },
   "adorabuild_structures:tireless_legs": {
     "criteria": {
+      "prison_small_1": "2025-02-07 03:29:25 +0000",
       "spruce_house_large_1": "2025-02-05 02:28:41 +0000",
       "oak_house_small_3": "2025-02-05 02:35:37 +0000",
       "oak_house_small_1": "2025-02-07 03:21:12 +0000"
@@ -8718,6 +8723,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:cow": "2025-02-07 03:26:04 +0000",
       "minecraft:bee": "2025-02-06 04:57:21 +0000",
       "minecraft:sheep": "2025-02-07 02:16:23 +0000"
     },
@@ -8915,9 +8921,51 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/hc/biomesoplenty/jacaranda_table": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:23:13 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/jacaranda_drawer": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:23:13 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/blue_skies/maple_trim_1": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:25:06 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/biomesoplenty/jacaranda_parquet": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:23:13 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/blue_skies/maple_table": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:25:06 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/db/blue_skies/maple_beam": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:25:06 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_white_dye": {
     "criteria": {
       "forge:dyes/white": "2025-02-07 02:29:19 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/fd/biomesoplenty/jacaranda_cabinet": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:23:13 +0000"
     },
     "done": true
   },
@@ -8933,9 +8981,21 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/af/blue_skies/maple_drawer": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:25:06 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/white_plate": {
     "criteria": {
       "has_white_plate": "2025-02-07 02:29:19 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/vp/blue_skies/maple_horticulturist_table": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:25:06 +0000"
     },
     "done": true
   },
@@ -8951,9 +9011,39 @@
     },
     "done": true
   },
+  "blue_skies:recipes/misc/maple_stick": {
+    "criteria": {
+      "has_item": "2025-02-07 03:25:06 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/blue_skies/hollow_maple_log": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:25:06 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/dusk_spear": {
+    "criteria": {
+      "has_item": "2025-02-07 03:24:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_banner": {
     "criteria": {
       "has_gray_wool": "2025-02-07 02:43:41 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/lunar_stonebrick_slab": {
+    "criteria": {
+      "has_item": "2025-02-07 03:35:05 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/db/biomesoplenty/jacaranda_beam": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:23:13 +0000"
     },
     "done": true
   },
@@ -8963,9 +9053,33 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/af/biomesoplenty/jacaranda_drawer": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:23:13 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/yellow_dye_from_goldenrod": {
+    "criteria": {
+      "has_goldenrod": "2025-02-07 03:40:45 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/building_blocks/smooth_lumiere_from_lumiere_block_stonecutting": {
     "criteria": {
       "has_lumiere_block": "2025-02-07 02:30:53 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/maple_stairs": {
+    "criteria": {
+      "has_item": "2025-02-07 03:25:06 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/maple_crafting_table": {
+    "criteria": {
+      "has_item": "2025-02-07 03:25:06 +0000"
     },
     "done": true
   },
@@ -8978,6 +9092,12 @@
   "handcrafted:recipes/misc/white_crockery_combo": {
     "criteria": {
       "has_white_crockery_combo": "2025-02-07 02:29:19 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/jacaranda_button": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:23:13 +0000"
     },
     "done": true
   },
@@ -9005,9 +9125,33 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/q/blue_skies/vertical_maple_planks": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:25:06 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/biomesoplenty/jacaranda_chest": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:23:13 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/biomesoplenty/sign_post_jacaranda": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:23:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-02-07 03:09:08 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/blue_skies/maple_bench": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:25:06 +0000"
     },
     "done": true
   },
@@ -9017,9 +9161,45 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/af/biomesoplenty/jacaranda_shutter": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:23:13 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/tools/zeal_lighter": {
+    "criteria": {
+      "has_item": "2025-02-07 03:24:34 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/chainmail_chestplate_repairing": {
     "criteria": {
       "has_chainmail_chestplate": "2025-02-07 02:21:12 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/lunar_stonebrick_stairs_stonecutting_lunar_stonebrick": {
+    "criteria": {
+      "has_item": "2025-02-07 03:35:05 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/blue_skies/sign_post_maple": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:25:06 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/blue_skies/maple_corner_trim": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:25:06 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/db/blue_skies/maple_palisade": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:25:06 +0000"
     },
     "done": true
   },
@@ -9029,15 +9209,33 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/jacaranda_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:23:13 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/gray_lamp": {
     "criteria": {
       "has_wool": "2025-02-07 02:43:41 +0000"
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_tools/maple_sword": {
+    "criteria": {
+      "has_resource": "2025-02-07 03:25:06 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/building_blocks/lumiere_bricks_from_lumiere_block_stonecutting": {
     "criteria": {
       "has_lumiere_block": "2025-02-07 02:30:53 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/maple_door": {
+    "criteria": {
+      "has_item": "2025-02-07 03:25:06 +0000"
     },
     "done": true
   },
@@ -9053,6 +9251,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/af/biomesoplenty/jacaranda_bench": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:23:13 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/building_blocks/smooth_allurite_from_allurite_block_stonecutting": {
     "criteria": {
       "has_allurite_block": "2025-02-07 02:34:00 +0000"
@@ -9062,6 +9266,12 @@
   "farmersdelight:recipes/building_blocks/cabbage_crate": {
     "criteria": {
       "has_cabbage": "2025-02-07 01:57:29 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/tw/biomesoplenty/jacaranda_table": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:23:13 +0000"
     },
     "done": true
   },
@@ -9077,6 +9287,48 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/jacaranda_slab": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:23:13 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/blue_skies/maple_shelf": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:25:06 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/jacaranda_shelf": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:23:13 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/blue_skies/maple_chair": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:25:06 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/biomesoplenty/jacaranda_trim_1": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:23:13 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/maple_shovel": {
+    "criteria": {
+      "has_resource": "2025-02-07 03:25:06 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/bp/blue_skies/maple_backpack_shelf": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:25:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_white_bed": {
     "criteria": {
       "has_needed_dye": "2025-02-07 02:29:19 +0000"
@@ -9089,15 +9341,57 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/vp/biomesoplenty/jacaranda_horticulturist_table": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:23:13 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/gray_curtain": {
     "criteria": {
       "has_wool": "2025-02-07 02:43:41 +0000"
     },
     "done": true
   },
+  "blue_skies:recipes/combat/lunar_spear": {
+    "criteria": {
+      "has_item": "2025-02-07 03:24:34 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/lunar_stonebrick_wall": {
+    "criteria": {
+      "has_item": "2025-02-07 03:35:05 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/redstone/moonstone_pressure_plate": {
+    "criteria": {
+      "has_item": "2025-02-07 03:24:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
       "has_kelp": "2025-02-07 03:19:27 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/blue_skies/maple_couch": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:25:06 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_stonebrick_stairs_stonecutting_turquoise_stonebrick": {
+    "criteria": {
+      "has_item": "2025-02-07 03:35:04 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/biomesoplenty/jacaranda_ladder": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:23:13 +0000"
     },
     "done": true
   },
@@ -9131,9 +9425,21 @@
     },
     "done": true
   },
+  "blue_skies:recipes/misc/moonstone_from_shard": {
+    "criteria": {
+      "has_item": "2025-02-07 03:24:34 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/quartz_glass_framed_white": {
     "criteria": {
       "has_white_dye": "2025-02-07 02:29:19 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_stonebrick_slab_stonecutting_turquoise_stonebrick": {
+    "criteria": {
+      "has_item": "2025-02-07 03:35:04 +0000"
     },
     "done": true
   },
@@ -9146,6 +9452,30 @@
   "galosphere:recipes/building_blocks/smooth_lumiere_stairs_from_lumiere_block_stonecutting": {
     "criteria": {
       "has_lumiere_block": "2025-02-07 02:30:53 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/jacaranda_corner_trim": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:23:13 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/blue_skies/maple_trim": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:25:06 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/redstone/maple_pressure_plate": {
+    "criteria": {
+      "has_item": "2025-02-07 03:25:06 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/cracked_turquoise_stonebrick_from_smelting_turquoise_stonebrick": {
+    "criteria": {
+      "has_item": "2025-02-07 03:35:04 +0000"
     },
     "done": true
   },
@@ -9167,9 +9497,21 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/hc/blue_skies/maple_cupboard": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:25:06 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_gray": {
     "criteria": {
       "has_gray_wool": "2025-02-07 02:43:41 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:get_moonstone_shard": {
+    "criteria": {
+      "obtain_moonstone_shard": "2025-02-07 03:24:34 +0000"
     },
     "done": true
   },
@@ -9191,9 +9533,33 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/fd/blue_skies/maple_cabinet": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:25:06 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/maple_fence_gate": {
+    "criteria": {
+      "has_item": "2025-02-07 03:25:06 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/seagull_steal": {
     "criteria": {
       "ex": "2025-02-07 03:22:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/jacaranda_dining_bench": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:23:13 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/biomesoplenty/jacaranda_table": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:23:13 +0000"
     },
     "done": true
   },
@@ -9203,9 +9569,63 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/chiseled_lunar_stonebrick_stonecutting_lunar_stonebrick": {
+    "criteria": {
+      "has_item": "2025-02-07 03:35:05 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/blue_skies/maple_fancy_bed": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:25:06 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/tw/blue_skies/maple_table": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:25:06 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/blue_skies/maple_shelf": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:25:06 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/jacaranda_desk": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:23:13 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/db/biomesoplenty/jacaranda_support": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:23:13 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/jacaranda_couch": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:23:13 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/jacaranda_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:23:13 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/gray_sofa": {
     "criteria": {
       "has_wool": "2025-02-07 02:43:41 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_stonebrick_slab": {
+    "criteria": {
+      "has_item": "2025-02-07 03:35:04 +0000"
     },
     "done": true
   },
@@ -9215,9 +9635,45 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/hc/biomesoplenty/jacaranda_chair": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:23:13 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/blue_skies/maple_lattice": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:25:06 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/blue_skies/maple_shutter": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:25:06 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/faf/blue_skies/maple_beehive": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:25:06 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/building_blocks/lumiere_slab_from_lumiere_block_stonecutting": {
     "criteria": {
       "has_lumiere_block": "2025-02-07 02:30:53 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/jacaranda_side_table": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:23:13 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/lunar_stonebrick_slab_stonecutting_lunar_stonebrick": {
+    "criteria": {
+      "has_item": "2025-02-07 03:35:05 +0000"
     },
     "done": true
   },
@@ -9227,9 +9683,51 @@
     },
     "done": true
   },
+  "everycomp:recipes/building_blocks/db/biomesoplenty/jacaranda_seat": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:23:13 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/bluebright_spear": {
+    "criteria": {
+      "has_item": "2025-02-07 03:24:34 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/blue_skies/maple_table": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:25:06 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/biomesoplenty/jacaranda_vertical_trim": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:23:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2025-02-07 01:59:06 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/jacaranda_nightstand": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:23:13 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_stonebrick_wall_stonecutting_turquoise_stonebrick": {
+    "criteria": {
+      "has_item": "2025-02-07 03:35:04 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/blue_skies/stripped_maple_post": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:25:06 +0000"
     },
     "done": true
   },
@@ -9245,9 +9743,27 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/turquoise_stonebrick_wall": {
+    "criteria": {
+      "has_item": "2025-02-07 03:35:04 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/db/biomesoplenty/jacaranda_palisade": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:23:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
       "has_pumpkin": "2025-02-07 02:52:24 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/blue_skies/maple_side_table": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:25:06 +0000"
     },
     "done": true
   },
@@ -9263,9 +9779,33 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/af/biomesoplenty/jacaranda_shelf": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:23:13 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/biomesoplenty/jacaranda_lattice": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:23:13 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/abnbl/biomesoplenty/large_jacaranda_boat": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:23:13 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/decorations/warped_anchor": {
     "criteria": {
       "has_allurite_block": "2025-02-07 02:34:00 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/tf/biomesoplenty/hollow_jacaranda_log": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:23:13 +0000"
     },
     "done": true
   },
@@ -9275,9 +9815,27 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/q/blue_skies/maple_trapped_chest": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:25:06 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/redstone/maple_button": {
+    "criteria": {
+      "has_item": "2025-02-07 03:25:06 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/quartz_glass_pane_white": {
     "criteria": {
       "has_white_dye": "2025-02-07 02:29:19 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/cracked_lunar_stonebrick_from_smelting_lunar_stonebrick": {
+    "criteria": {
+      "has_item": "2025-02-07 03:35:05 +0000"
     },
     "done": true
   },
@@ -9293,6 +9851,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/jacaranda_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:23:13 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2025-02-07 01:59:06 +0000"
@@ -9305,9 +9869,27 @@
     },
     "done": true
   },
+  "everycomp:recipes/building_blocks/db/blue_skies/maple_seat": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:25:06 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/jacaranda_wood": {
     "criteria": {
       "has_log": "2025-02-07 03:07:45 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/jacaranda_fancy_bed": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:23:13 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/biomesoplenty/jacaranda_trapped_chest": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:23:13 +0000"
     },
     "done": true
   },
@@ -9329,9 +9911,57 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/maple_trapdoor": {
+    "criteria": {
+      "has_item": "2025-02-07 03:25:06 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/biomesoplenty/jacaranda_chair": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:23:13 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/db/blue_skies/maple_support": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:25:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_kelp": "2025-02-07 03:19:27 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/comet_spear": {
+    "criteria": {
+      "has_item": "2025-02-07 03:24:34 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/biomesoplenty/jacaranda_sanded_wood": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:23:13 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/biomesoplenty/jacaranda_trim": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:23:13 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/maple_sign": {
+    "criteria": {
+      "has_item": "2025-02-07 03:25:06 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/biomesoplenty/jacaranda_post": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:23:13 +0000"
     },
     "done": true
   },
@@ -9341,15 +9971,87 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/bp/biomesoplenty/jacaranda_backpack_shelf": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:23:13 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/blue_skies/maple_pillar_trim": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:25:06 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/jacaranda_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:23:13 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/golden_chestplate_repairing": {
     "criteria": {
       "has_golden_chestplate": "2025-02-07 01:50:26 +0000"
     },
     "done": true
   },
+  "everycomp:recipes/decorations/hc/blue_skies/maple_drawer": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:25:06 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/maple_slab": {
+    "criteria": {
+      "has_item": "2025-02-07 03:25:06 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/jacaranda_sign": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:23:13 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_gray": {
     "criteria": {
       "has_gray_wool": "2025-02-07 02:43:41 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/biomesoplenty/jacaranda_flower_box": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:23:13 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/maple_fence": {
+    "criteria": {
+      "has_item": "2025-02-07 03:25:06 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/blue_skies/maple_parquet": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:25:06 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/blue_skies/maple_chair": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:25:06 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/lunar_stonebrick_stairs": {
+    "criteria": {
+      "has_item": "2025-02-07 03:35:05 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/blue_skies/maple_nightstand": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:25:06 +0000"
     },
     "done": true
   },
@@ -9389,6 +10091,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/tf/biomesoplenty/jacaranda_banister": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:23:13 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/gray_stool": {
     "criteria": {
       "has_wool": "2025-02-07 02:43:41 +0000"
@@ -9407,9 +10115,27 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_tools/maple_pickaxe": {
+    "criteria": {
+      "has_resource": "2025-02-07 03:25:06 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/building_blocks/smooth_allurite_slab_from_allurite_block_stonecutting": {
     "criteria": {
       "has_allurite_block": "2025-02-07 02:33:59 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/maple_hoe": {
+    "criteria": {
+      "has_resource": "2025-02-07 03:25:06 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/maple_spear": {
+    "criteria": {
+      "has_item": "2025-02-07 03:24:34 +0000"
     },
     "done": true
   },
@@ -9419,9 +10145,27 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/hc/blue_skies/maple_counter": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:25:06 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/hydralux_petal_block_white": {
     "criteria": {
       "has_white_dye": "2025-02-07 02:29:19 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/faf/biomesoplenty/jacaranda_beehive": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:23:13 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/frostbright_spear": {
+    "criteria": {
+      "has_item": "2025-02-07 03:24:34 +0000"
     },
     "done": true
   },
@@ -9437,9 +10181,27 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/chiseled_turquoise_stonebrick_stonecutting_turquoise_stonebrick": {
+    "criteria": {
+      "has_item": "2025-02-07 03:35:04 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/rice": {
     "criteria": {
       "has_rice_panicle": "2025-02-07 01:37:40 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/jacaranda_counter": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:23:13 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/blue_skies/maple_sanded_wood": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:25:06 +0000"
     },
     "done": true
   },
@@ -9455,9 +10217,33 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/tf/blue_skies/maple_banister": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:25:06 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/blue_skies/maple_bench": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:25:06 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/abnbl/biomesoplenty/jacaranda_furnace_boat": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:23:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gray_dye": {
     "criteria": {
       "has_white_dye": "2025-02-07 02:29:19 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/jacaranda_door": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:23:13 +0000"
     },
     "done": true
   },
@@ -9473,9 +10259,33 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/q/blue_skies/maple_post": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:25:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed": {
     "criteria": {
       "has_gray_wool": "2025-02-07 02:43:41 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/biomesoplenty/stripped_jacaranda_post": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:23:13 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/starlit_spear": {
+    "criteria": {
+      "has_item": "2025-02-07 03:24:34 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/jacaranda_fence": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:23:13 +0000"
     },
     "done": true
   },
@@ -9491,9 +10301,39 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/tf/blue_skies/hollow_maple_log": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:25:06 +0000"
+    },
+    "done": true
+  },
+  "suppsquared:recipes/decorations/biomesoplenty/item_shelf_jacaranda": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:23:13 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/lunar_stonebrick_wall_stonecutting_lunar_stonebrick": {
+    "criteria": {
+      "has_item": "2025-02-07 03:35:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2025-02-07 02:19:48 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/jacaranda_pillar_trim": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:23:13 +0000"
+    },
+    "done": true
+  },
+  "suppsquared:recipes/decorations/blue_skies/item_shelf_maple": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:25:06 +0000"
     },
     "done": true
   },
@@ -9516,9 +10356,45 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/hc/biomesoplenty/jacaranda_bench": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:23:13 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/maple_axe": {
+    "criteria": {
+      "has_resource": "2025-02-07 03:25:06 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/biomesoplenty/hollow_jacaranda_log": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:23:13 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/gray_sheet": {
     "criteria": {
       "has_gray_sheet": "2025-02-07 02:43:41 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_stonebrick_stairs": {
+    "criteria": {
+      "has_item": "2025-02-07 03:35:04 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/blue_skies/maple_flower_box": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:25:06 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/blue_skies/maple_desk": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:25:06 +0000"
     },
     "done": true
   },
@@ -9534,6 +10410,24 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/hnhome/blue_skies/maple_vertical_trim": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:25:06 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/biomesoplenty/jacaranda_bookshelf": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:23:13 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/biomesoplenty/vertical_jacaranda_planks": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:23:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
     "criteria": {
       "has_oxeye_daisy": "2025-02-07 01:42:16 +0000"
@@ -9543,6 +10437,18 @@
   "aether:recipes/food/moa_egg_pumpkin_pie": {
     "criteria": {
       "has_pumpkin": "2025-02-07 02:52:24 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/jacaranda_cupboard": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:23:13 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/blue_skies/maple_dining_bench": {
+    "criteria": {
+      "has_planks": "2025-02-07 03:25:06 +0000"
     },
     "done": true
   },

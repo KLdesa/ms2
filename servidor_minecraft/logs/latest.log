@@ -4079,3 +4079,12 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [07Feb2025 03:22:49.714] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:cave_air} but failed at location BlockPos{x=1910, y=-50, z=-13}
 [07Feb2025 03:22:49.714] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1906, y=-50, z=-13} but found not block entity block Block{minecraft:cave_air} at location
 [07Feb2025 03:22:49.714] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:cave_air} but failed at location BlockPos{x=1906, y=-50, z=-13}
+[07Feb2025 03:24:34.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer has made the advancement [Light Up The World!]
+[07Feb2025 03:24:57.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shinkar> zzz
+[07Feb2025 03:30:05.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sirfafnir55 has completed the challenge [Hero of the Village]
+[07Feb2025 03:30:05.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar has completed the challenge [Hero of the Village]
+[07Feb2025 03:30:05.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOSHEEEE has completed the challenge [Hero of the Village]
+[07Feb2025 03:32:58.058] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-792, y=107, z=41} BlockPos{x=-791, y=106, z=41}
+[07Feb2025 03:33:00.702] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-775, y=111, z=46} BlockPos{x=-774, y=109, z=46}
+[07Feb2025 03:33:00.730] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-775, y=111, z=46} BlockPos{x=-774, y=109, z=46}
+[07Feb2025 03:33:01.810] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-770, y=112, z=49} BlockPos{x=-769, y=111, z=49}

@@ -9666,6 +9666,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-02-07 03:30:05 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/black_lamp": {
     "criteria": {
       "has_wool": "2025-02-07 02:11:36 +0000"
@@ -9681,6 +9687,12 @@
   "another_furniture:recipes/black_curtain": {
     "criteria": {
       "has_wool": "2025-02-07 02:11:36 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-02-07 03:37:02 +0000"
     },
     "done": true
   },
@@ -9711,6 +9723,12 @@
   "galosphere:recipes/building_blocks/smooth_lumiere": {
     "criteria": {
       "has_lumiere_block": "2025-02-07 02:35:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-02-07 03:37:02 +0000"
     },
     "done": true
   },
