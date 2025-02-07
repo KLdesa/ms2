@@ -4065,3 +4065,17 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [07Feb2025 03:06:15.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sirfafnir55> xaero-waypoint:aaaa:A:-971:63:173:3:false:0:Internal-overworld-waypoints
 [07Feb2025 03:06:45.920] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-941, y=63, z=155} BlockPos{x=-937, y=62, z=161}
 [07Feb2025 03:12:06.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar has made the advancement [Who's the Pillager Now?]
+[07Feb2025 03:13:42.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JOSHEEEE> zzzz
+[07Feb2025 03:13:43.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JOSHEEEE> z
+[07Feb2025 03:13:43.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JOSHEEEE> z
+[07Feb2025 03:13:43.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JOSHEEEE> z
+[07Feb2025 03:18:55.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Digigamerfer> xaero-waypoint:dungueon acuatica:D:1360:63:111:11:false:0:Internal-overworld-waypoints
+[07Feb2025 03:20:18.745] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Tora'/61295, l='ServerLevel[world]', x=-1004.96, y=117.88, z=126.30] died, message: 'Tora was killed by magic'
+[07Feb2025 03:20:18.746] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Tora'/61295, l='ServerLevel[world]', x=-1004.96, y=117.88, z=126.30] died: Tora was killed by magic
+[07Feb2025 03:20:18.746] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Seymour'/61296, l='ServerLevel[world]', x=-1005.70, y=117.56, z=126.70] died, message: 'Seymour was killed by magic'
+[07Feb2025 03:20:18.746] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Seymour'/61296, l='ServerLevel[world]', x=-1005.70, y=117.56, z=126.70] died: Seymour was killed by magic
+[07Feb2025 03:22:11.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer has made the advancement [Mine? Mine? Mine?]
+[07Feb2025 03:22:49.713] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1910, y=-50, z=-13} but found not block entity block Block{minecraft:cave_air} at location
+[07Feb2025 03:22:49.714] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:cave_air} but failed at location BlockPos{x=1910, y=-50, z=-13}
+[07Feb2025 03:22:49.714] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1906, y=-50, z=-13} but found not block entity block Block{minecraft:cave_air} at location
+[07Feb2025 03:22:49.714] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:cave_air} but failed at location BlockPos{x=1906, y=-50, z=-13}

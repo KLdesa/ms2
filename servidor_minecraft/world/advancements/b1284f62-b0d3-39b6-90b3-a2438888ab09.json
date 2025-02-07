@@ -9594,6 +9594,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sugar_cube": {
+    "criteria": {
+      "has_sugar": "2025-02-07 03:14:17 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/black_stool": {
     "criteria": {
       "has_wool": "2025-02-07 02:11:36 +0000"
@@ -9726,6 +9732,12 @@
     },
     "done": true
   },
+  "delightful:recipes/food/marshmallow_stick": {
+    "criteria": {
+      "has_sugar": "2025-02-07 03:14:17 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/building_blocks/smooth_allurite": {
     "criteria": {
       "has_allurite_block": "2025-02-07 02:35:17 +0000"
@@ -9777,6 +9789,12 @@
   "galosphere:recipes/building_blocks/allurite_slab_from_allurite_block_stonecutting": {
     "criteria": {
       "has_allurite_block": "2025-02-07 02:35:17 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/cave_pumpkin_pie": {
+    "criteria": {
+      "has_sugar": "2025-02-07 03:14:17 +0000"
     },
     "done": true
   },

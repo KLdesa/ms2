@@ -9997,6 +9997,12 @@
     },
     "done": true
   },
+  "illagerinvasion:recipes/misc/hallowed_gem": {
+    "criteria": {
+      "has_unusual_dust_and_illusionary_dust": "2025-02-07 03:16:59 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/leather_helmet_repairing": {
     "criteria": {
       "has_leather_helmet": "2025-02-07 01:39:35 +0000"
