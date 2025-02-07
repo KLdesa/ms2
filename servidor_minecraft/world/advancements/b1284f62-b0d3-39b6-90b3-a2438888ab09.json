@@ -9654,6 +9654,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/whos_the_pillager_now": {
+    "criteria": {
+      "kill_pillager": "2025-02-07 03:12:06 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/black_lamp": {
     "criteria": {
       "has_wool": "2025-02-07 02:11:36 +0000"
@@ -9753,6 +9759,12 @@
   "galosphere:recipes/building_blocks/smooth_allurite_stairs_from_allurite_block_stonecutting": {
     "criteria": {
       "has_allurite_block": "2025-02-07 02:35:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-02-07 03:00:14 +0000"
     },
     "done": true
   },

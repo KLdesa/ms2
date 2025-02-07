@@ -5481,10 +5481,12 @@
   },
   "adorabuild_structures:tireless_legs": {
     "criteria": {
+      "prison_small_1": "2025-02-07 03:10:19 +0000",
       "spruce_house_large_1": "2025-02-05 02:57:13 +0000",
       "oak_house_small_3": "2025-02-05 02:39:24 +0000",
       "oak_tree_1": "2025-02-05 05:06:05 +0000",
-      "oak_ship_1": "2025-02-04 06:11:05 +0000"
+      "oak_ship_1": "2025-02-04 06:11:05 +0000",
+      "spruce_house_small_1": "2025-02-07 02:56:51 +0000"
     },
     "done": false
   },
@@ -8409,11 +8411,12 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
+      "in_better_zombie_dungeon": "2025-02-07 02:59:09 +0000",
       "in_better_monster_room": "2025-02-05 07:02:23 +0000",
       "in_better_spider_dungeon": "2025-02-05 05:37:38 +0000",
       "in_better_skeleton_dungeon": "2025-02-06 07:20:04 +0000"
     },
-    "done": false
+    "done": true
   },
   "farmersdelight:main/eat_nourishing_food": {
     "criteria": {
@@ -9958,15 +9961,81 @@
     },
     "done": true
   },
+  "betternether:all_the_biomes": {
+    "criteria": {
+      "betternether:crimson_glowing_woods": "2025-02-07 03:01:26 +0000"
+    },
+    "done": false
+  },
   "supplementaries:recipes/flint_block": {
     "criteria": {
       "has_flint": "2025-02-07 02:43:02 +0000"
     },
     "done": true
   },
+  "betterend:recipes/decorations/lucernia_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-02-07 03:02:55 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/nether_reed_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-02-07 03:02:55 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/willow_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-02-07 03:02:55 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/stalagnate_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-02-07 03:02:55 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/leather_helmet_repairing": {
     "criteria": {
       "has_leather_helmet": "2025-02-07 01:39:35 +0000"
+    },
+    "done": true
+  },
+  "bygonenether:root": {
+    "criteria": {
+      "entered_nether": "2025-02-07 03:01:21 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/lacugrove_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-02-07 03:02:55 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/umbrella_tree_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-02-07 03:02:55 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/dragon_tree_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-02-07 03:02:55 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/mossy_glowshroom_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-02-07 03:02:55 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/end_lotus_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-02-07 03:02:55 +0000"
     },
     "done": true
   },
@@ -9988,6 +10057,18 @@
     },
     "done": true
   },
+  "netherexp:recipes/ivy/weeping_ivy": {
+    "criteria": {
+      "has_item": "2025-02-07 03:02:16 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/nether_mushroom_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-02-07 03:02:55 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/leather_boots_repairing": {
     "criteria": {
       "has_leather_boots": "2025-02-07 01:37:46 +0000"
@@ -10006,9 +10087,87 @@
     },
     "done": true
   },
+  "twigs:recipes/decorated_blackstone_bricks/weeping_polished_blackstone_bricks": {
+    "criteria": {
+      "has_item": "2025-02-07 03:02:16 +0000"
+    },
+    "done": true
+  },
+  "adorabuild_structures:nether_structures": {
+    "criteria": {
+      "example": "2025-02-07 03:01:21 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/leather_chestplate_repairing": {
     "criteria": {
       "has_leather_chestplate": "2025-02-07 01:39:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-02-07 03:01:21 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/anchor_tree_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-02-07 03:02:55 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:ruins": {
+    "criteria": {
+      "in_ruins_land_icy": "2025-02-07 02:55:54 +0000"
+    },
+    "done": false
+  },
+  "betterend:recipes/decorations/lucernia_jellyshroom_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-02-07 03:02:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-02-07 03:01:21 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/rubeus_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-02-07 03:02:55 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/helix_tree_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-02-07 03:02:55 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/bn_red_mushroom": {
+    "criteria": {
+      "has_wall_mushroom_red": "2025-02-07 03:02:08 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/wart_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-02-07 03:02:55 +0000"
+    },
+    "done": true
+  },
+  "betternether:enter_nether": {
+    "criteria": {
+      "entered_nether": "2025-02-07 03:01:21 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-02-07 02:59:09 +0000"
     },
     "done": true
   },
@@ -10018,9 +10177,45 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/nether_sakura_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-02-07 03:02:55 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/stone_sword_repairing": {
+    "criteria": {
+      "has_stone_sword": "2025-02-07 02:54:04 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/skyroot_fletching_table": {
     "criteria": {
       "has_flint": "2025-02-07 02:43:02 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/tenanea_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-02-07 03:02:55 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/jellyshroom_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-02-07 03:02:55 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/pythadendron_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-02-07 03:02:55 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/mushroom_fir_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-02-07 03:02:55 +0000"
     },
     "done": true
   },

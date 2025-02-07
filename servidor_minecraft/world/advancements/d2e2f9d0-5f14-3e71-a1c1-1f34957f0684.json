@@ -76,6 +76,7 @@
       "minecraft:snowy_taiga": "2025-02-05 02:09:06 +0000",
       "minecraft:cold_ocean": "2025-02-04 05:14:38 +0000",
       "minecraft:forest": "2025-02-04 04:40:07 +0000",
+      "minecraft:ocean": "2025-02-07 03:08:05 +0000",
       "minecraft:snowy_beach": "2025-02-05 02:31:26 +0000",
       "minecraft:meadow": "2025-02-06 03:38:03 +0000",
       "minecraft:plains": "2025-02-05 02:31:47 +0000"
@@ -2545,6 +2546,7 @@
       "golden_apple": "2025-02-04 05:37:52 +0000",
       "rotten_flesh": "2025-02-04 05:09:05 +0000",
       "golden_carrot": "2025-02-05 02:28:53 +0000",
+      "beetroot": "2025-02-07 03:02:43 +0000",
       "cooked_chicken": "2025-02-05 04:30:11 +0000"
     },
     "done": false
@@ -5480,9 +5482,11 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "muskeg": "2025-02-05 02:16:23 +0000",
+      "jacaranda_glade": "2025-02-07 03:07:18 +0000",
       "maple_woods": "2025-02-05 02:06:03 +0000",
       "coniferous_forest": "2025-02-05 02:46:16 +0000",
       "aspen_glade": "2025-02-06 05:08:55 +0000",
+      "dune_beach": "2025-02-07 03:07:25 +0000",
       "seasonal_forest": "2025-02-06 05:08:15 +0000",
       "dead_forest": "2025-02-05 02:50:21 +0000",
       "fir_clearing": "2025-02-06 03:37:32 +0000",
@@ -8991,6 +8995,18 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/jacaranda_planks": {
+    "criteria": {
+      "has_logs": "2025-02-07 03:07:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-02-07 03:09:08 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/gray_tall_stool": {
     "criteria": {
       "has_wool": "2025-02-07 02:43:41 +0000"
@@ -9093,6 +9109,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2025-02-07 03:09:08 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/white_cup": {
     "criteria": {
       "has_white_cup": "2025-02-07 02:29:19 +0000"
@@ -9141,9 +9163,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-02-07 02:52:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_candle": {
     "criteria": {
       "has_white_dye": "2025-02-07 02:29:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-07 02:52:24 +0000"
     },
     "done": true
   },
@@ -9192,6 +9226,12 @@
   "galosphere:recipes/building_blocks/chiseled_allurite_from_allurite_block_stonecutting": {
     "criteria": {
       "has_allurite_block": "2025-02-07 02:34:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-02-07 02:52:24 +0000"
     },
     "done": true
   },
@@ -9249,6 +9289,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/jacaranda_wood": {
+    "criteria": {
+      "has_log": "2025-02-07 03:07:45 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/quartz_glass_framed_pane_white": {
     "criteria": {
       "has_white_dye": "2025-02-07 02:29:19 +0000"
@@ -9303,6 +9349,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/soap/map": {
+    "criteria": {
+      "has_filled_map": "2025-02-07 03:09:21 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/gray_stool": {
     "criteria": {
       "has_wool": "2025-02-07 02:43:41 +0000"
@@ -9312,6 +9364,12 @@
   "galosphere:recipes/building_blocks/smooth_lumiere_slab_from_lumiere_block_stonecutting": {
     "criteria": {
       "has_lumiere_block": "2025-02-07 02:30:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
+    "criteria": {
+      "has_pumpkin": "2025-02-07 02:52:24 +0000"
     },
     "done": true
   },
@@ -9405,6 +9463,13 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-02-07 02:52:24 +0000",
+      "has_the_recipe": "2025-02-07 02:52:24 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/gray_sheet": {
     "criteria": {
       "has_gray_sheet": "2025-02-07 02:43:41 +0000"
@@ -9426,6 +9491,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
     "criteria": {
       "has_oxeye_daisy": "2025-02-07 01:42:16 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/food/moa_egg_pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-02-07 02:52:24 +0000"
     },
     "done": true
   },
