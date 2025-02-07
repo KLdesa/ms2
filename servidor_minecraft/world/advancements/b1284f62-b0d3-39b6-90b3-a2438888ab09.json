@@ -9595,6 +9595,7 @@
   },
   "betternether:all_the_biomes": {
     "criteria": {
+      "betternether:crimson_pinewood": "2025-02-07 04:33:26 +0000",
       "betternether:crimson_glowing_woods": "2025-02-07 04:25:48 +0000"
     },
     "done": false
@@ -9611,6 +9612,18 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-02-07 04:36:04 +0000"
+    },
+    "done": false
+  },
+  "netherexp:nether/gravedigger": {
+    "criteria": {
+      "has_item": "2025-02-07 04:42:13 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cracked_netherrack_bricks_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-02-07 04:30:00 +0000"
@@ -9620,6 +9633,12 @@
   "boatload:recipes/transportation/bamboo_furnace_raft": {
     "criteria": {
       "has_boat": "2025-02-07 04:27:54 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/soul_skeleton_skull_candle": {
+    "criteria": {
+      "has_item": "2025-02-07 04:37:48 +0000"
     },
     "done": true
   },
@@ -9671,6 +9690,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/soul_slate/pale": {
+    "criteria": {
+      "has_planks": "2025-02-07 04:41:13 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/combat/netherite_knife_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-02-07 04:07:48 +0000"
@@ -9692,6 +9717,12 @@
   "bygonenether:root": {
     "criteria": {
       "entered_nether": "2025-02-07 04:25:47 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate/slab": {
+    "criteria": {
+      "has_planks": "2025-02-07 04:41:13 +0000"
     },
     "done": true
   },
@@ -9743,6 +9774,12 @@
     },
     "done": true
   },
+  "delightful:recipes/knives/nether_quartz_knife": {
+    "criteria": {
+      "has_gems/quartz": "2025-02-07 04:36:23 +0000"
+    },
+    "done": true
+  },
   "boatload:recipes/transportation/mangrove_furnace_boat": {
     "criteria": {
       "has_boat": "2025-02-07 04:27:54 +0000"
@@ -9752,6 +9789,12 @@
   "boatload:recipes/transportation/jungle_furnace_boat": {
     "criteria": {
       "has_boat": "2025-02-07 04:27:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-02-07 04:36:23 +0000"
     },
     "done": true
   },
@@ -9785,6 +9828,12 @@
     },
     "done": true
   },
+  "netherexp:nether/frightening_rush": {
+    "criteria": {
+      "condition": "2025-02-07 04:38:41 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/sugar_cube": {
     "criteria": {
       "has_sugar": "2025-02-07 03:14:17 +0000"
@@ -9812,6 +9861,12 @@
   "galosphere:recipes/building_blocks/smooth_allurite_from_allurite_block_stonecutting": {
     "criteria": {
       "has_allurite_block": "2025-02-07 02:35:17 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/glowing_blinding_stone": {
+    "criteria": {
+      "has_item": "2025-02-07 04:32:38 +0000"
     },
     "done": true
   },
@@ -9845,6 +9900,12 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/brick_pot": {
+    "criteria": {
+      "has_soul_sand": "2025-02-07 04:38:16 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/steak_and_potatoes": {
     "criteria": {
       "has_baked_potato": "2025-02-07 04:22:32 +0000"
@@ -9854,6 +9915,12 @@
   "minecraft:recipes/decorations/black_carpet": {
     "criteria": {
       "has_black_wool": "2025-02-07 02:11:36 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate/jagged": {
+    "criteria": {
+      "has_planks": "2025-02-07 04:41:13 +0000"
     },
     "done": true
   },
@@ -9875,15 +9942,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-02-07 04:37:48 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/palm_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-07 04:27:54 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-02-07 04:36:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-02-07 04:36:23 +0000"
+    },
+    "done": true
+  },
   "boatload:recipes/transportation/large_birch_boat": {
     "criteria": {
       "has_boat": "2025-02-07 04:27:54 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cincinnasite_fire_bowl_soul": {
+    "criteria": {
+      "has_soul_sand": "2025-02-07 04:38:16 +0000"
     },
     "done": true
   },
@@ -9941,6 +10032,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-02-07 04:32:38 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/brown_dye_from_fossil_fuel": {
+    "criteria": {
+      "has_item": "2025-02-07 04:42:14 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_slab_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-02-07 04:30:00 +0000"
@@ -9965,6 +10068,18 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/bricks_fire_bowl_soul": {
+    "criteria": {
+      "has_soul_sand": "2025-02-07 04:38:16 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/wither/soul_burning_skull_block": {
+    "criteria": {
+      "has_item": "2025-02-07 04:37:48 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_netherrack_brick_wall_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-02-07 04:30:00 +0000"
@@ -9980,6 +10095,12 @@
   "twilightforest:recipes/transportation/canopy_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-07 04:27:54 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/soul_magma_block": {
+    "criteria": {
+      "has_item2": "2025-02-07 04:37:48 +0000"
     },
     "done": true
   },
@@ -10004,6 +10125,12 @@
   "minecraft:adventure/hero_of_the_village": {
     "criteria": {
       "hero_of_the_village": "2025-02-07 03:30:05 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate/wall": {
+    "criteria": {
+      "has_planks": "2025-02-07 04:41:13 +0000"
     },
     "done": true
   },
@@ -10067,9 +10194,33 @@
     },
     "done": true
   },
+  "twigs:recipes/bloodstone/bloodstone": {
+    "criteria": {
+      "has_item": "2025-02-07 04:36:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-02-07 04:32:38 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/glowing_nature_stone": {
+    "criteria": {
+      "has_item": "2025-02-07 04:32:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/netherite_pickaxe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-02-07 04:07:48 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/soul_sand_soul_sandstone": {
+    "criteria": {
+      "has_soul_sand": "2025-02-07 04:38:16 +0000"
     },
     "done": true
   },
@@ -10109,6 +10260,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/misc/torch_from_fossil_fuel": {
+    "criteria": {
+      "has_item": "2025-02-07 04:42:14 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/jacaranda_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-07 04:27:54 +0000"
@@ -10118,6 +10275,12 @@
   "handcrafted:recipes/misc/black_sheet": {
     "criteria": {
       "has_black_sheet": "2025-02-07 02:11:36 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/soul_torch_from_fossil_fuel": {
+    "criteria": {
+      "has_item": "2025-02-07 04:37:48 +0000"
     },
     "done": true
   },
@@ -10160,6 +10323,12 @@
   "stoneworks:recipes/building_blocks/cobbled_netherrack_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-02-07 04:30:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-02-07 04:36:23 +0000"
     },
     "done": true
   },
@@ -10211,6 +10380,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/soul_slate/stairs": {
+    "criteria": {
+      "has_planks": "2025-02-07 04:41:13 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/umbran_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-07 04:27:54 +0000"
@@ -10220,6 +10395,12 @@
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2025-02-07 04:30:00 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/glowing_poison_stone": {
+    "criteria": {
+      "has_item": "2025-02-07 04:32:38 +0000"
     },
     "done": true
   },
@@ -10241,6 +10422,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/soul_slate/bricks": {
+    "criteria": {
+      "has_item": "2025-02-07 04:41:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-02-07 04:25:47 +0000"
@@ -10259,9 +10446,21 @@
     },
     "done": true
   },
+  "netherexp:recipes/bone_blocks/soul_burning_skull_block": {
+    "criteria": {
+      "has_item": "2025-02-07 04:37:48 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/redwood_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-07 04:27:54 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/ssv_sub_biomes": {
+    "criteria": {
+      "netherexp:black_ice_glaciers": "2025-02-07 04:36:55 +0000"
     },
     "done": true
   },
@@ -10301,6 +10500,24 @@
     },
     "done": true
   },
+  "netherexp:recipes/misc/soul_soil_layer": {
+    "criteria": {
+      "has_item": "2025-02-07 04:41:12 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/quartz_glass_smelting": {
+    "criteria": {
+      "has_item.minecraft.quartz": "2025-02-07 04:36:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-02-07 04:37:48 +0000"
+    },
+    "done": true
+  },
   "aether_redux:recipes/transportation/jellyshroom_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-07 04:27:54 +0000"
@@ -10313,9 +10530,21 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/cincinnasite_pot": {
+    "criteria": {
+      "has_soul_sand": "2025-02-07 04:38:16 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/building_blocks/lumiere_brick_slab_from_lumiere_block_stonecutting": {
     "criteria": {
       "has_lumiere_block": "2025-02-07 02:35:26 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/soul_jack_o_lantern": {
+    "criteria": {
+      "has_item": "2025-02-07 04:37:48 +0000"
     },
     "done": true
   },
@@ -10388,6 +10617,12 @@
   "minecraft:adventure/ol_betsy": {
     "criteria": {
       "shot_crossbow": "2025-02-07 03:00:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-02-07 04:36:23 +0000"
     },
     "done": true
   },
@@ -10481,6 +10716,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/soul_slate/bricks_from_etched": {
+    "criteria": {
+      "has_item": "2025-02-07 04:41:13 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/building_blocks/allurite_brick_stairs_from_allurite_block_stonecutting": {
     "criteria": {
       "has_allurite_block": "2025-02-07 02:35:17 +0000"
@@ -10493,6 +10734,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/sanctum/gargoyle_statue": {
+    "criteria": {
+      "has_item": "2025-02-07 04:39:00 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_black": {
     "criteria": {
       "has_black_wool": "2025-02-07 02:11:36 +0000"
@@ -10502,6 +10749,18 @@
   "minecraft:recipes/tools/netherite_hoe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-02-07 04:07:48 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/schist/schist": {
+    "criteria": {
+      "has_item": "2025-02-07 04:36:23 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite": {
+    "criteria": {
+      "has_item": "2025-02-07 04:36:23 +0000"
     },
     "done": true
   },
@@ -10523,6 +10782,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/glowing_nature_stonebrick_from_glowstone": {
+    "criteria": {
+      "has_item": "2025-02-07 04:32:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2025-02-07 02:11:36 +0000"
@@ -10538,6 +10803,12 @@
   "biomesoplenty:recipes/transportation/dead_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-07 04:27:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-02-07 04:36:23 +0000"
     },
     "done": true
   },
@@ -10565,6 +10836,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/misc/soul_candle": {
+    "criteria": {
+      "has_planks": "2025-02-07 04:37:48 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_stairs_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-02-07 04:30:00 +0000"
@@ -10586,6 +10863,12 @@
   "biomesoplenty:recipes/transportation/mahogany_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-07 04:27:54 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/ecto_soul_sand": {
+    "criteria": {
+      "has_item": "2025-02-07 04:39:00 +0000"
     },
     "done": true
   },
