@@ -9120,6 +9120,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/leather_helmet_repairing": {
+    "criteria": {
+      "has_leather_helmet": "2025-02-07 00:48:04 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/dead_fence_gate": {
     "criteria": {
       "has_planks": "2025-02-07 00:24:59 +0000"
@@ -9174,9 +9180,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2025-02-07 00:55:46 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/dead_stairs": {
     "criteria": {
       "has_planks": "2025-02-07 00:24:59 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/dispenser_minecart": {
+    "criteria": {
+      "has_minecart": "2025-02-07 00:55:46 +0000"
     },
     "done": true
   },
@@ -9234,6 +9252,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/golden_leggings_repairing": {
+    "criteria": {
+      "has_golden_leggings": "2025-02-07 00:54:06 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/hc/biomesoplenty/dead_chair": {
     "criteria": {
       "has_planks": "2025-02-07 00:24:59 +0000"
@@ -9255,6 +9279,12 @@
   "everycomp:recipes/decorations/bp/biomesoplenty/dead_backpack_shelf": {
     "criteria": {
       "has_planks": "2025-02-07 00:24:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2025-02-07 00:55:46 +0000"
     },
     "done": true
   },
@@ -9330,9 +9360,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2025-02-07 00:55:46 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/decorations/biomesoplenty/sign_post_dead": {
     "criteria": {
       "has_planks": "2025-02-07 00:24:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2025-02-07 00:55:46 +0000"
     },
     "done": true
   },
@@ -9351,6 +9393,12 @@
   "everycomp:recipes/decorations/hnhome/biomesoplenty/dead_trim_1": {
     "criteria": {
       "has_planks": "2025-02-07 00:24:59 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/chainmail_boots_repairing": {
+    "criteria": {
+      "has_chainmail_boots": "2025-02-07 00:51:14 +0000"
     },
     "done": true
   },
@@ -9432,9 +9480,21 @@
     },
     "done": true
   },
+  "aether:recipes/combat/leather_leggings_repairing": {
+    "criteria": {
+      "has_leather_leggings": "2025-02-07 00:51:14 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/faf/biomesoplenty/dead_beehive": {
     "criteria": {
       "has_planks": "2025-02-07 00:24:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2025-02-07 00:55:46 +0000"
     },
     "done": true
   },
