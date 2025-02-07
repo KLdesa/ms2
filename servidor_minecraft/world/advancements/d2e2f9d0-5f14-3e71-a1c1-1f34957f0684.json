@@ -7106,6 +7106,8 @@
       "sugar_cane": "2025-02-06 04:32:01 +0000",
       "potato": "2025-02-06 04:35:48 +0000",
       "wheat": "2025-02-06 04:51:51 +0000",
+      "melon": "2025-02-07 02:42:52 +0000",
+      "pumpkin": "2025-02-07 02:42:24 +0000",
       "carrot": "2025-02-06 05:30:35 +0000"
     },
     "done": false
@@ -8899,9 +8901,21 @@
     },
     "done": true
   },
+  "galosphere:recipes/building_blocks/allurite_bricks_from_allurite_block_stonecutting": {
+    "criteria": {
+      "has_allurite_block": "2025-02-07 02:34:00 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_white_dye": {
     "criteria": {
       "forge:dyes/white": "2025-02-07 02:29:19 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/gray_cushion": {
+    "criteria": {
+      "has_gray_cushion": "2025-02-07 02:43:41 +0000"
     },
     "done": true
   },
@@ -8920,6 +8934,18 @@
   "betterend:recipes/misc/thallasium_bulb_lantern_white": {
     "criteria": {
       "has_white_dye": "2025-02-07 02:29:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2025-02-07 02:46:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-02-07 02:43:41 +0000"
     },
     "done": true
   },
@@ -8965,6 +8991,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/gray_tall_stool": {
+    "criteria": {
+      "has_wool": "2025-02-07 02:43:41 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/chainmail_chestplate_repairing": {
     "criteria": {
       "has_chainmail_chestplate": "2025-02-07 02:21:12 +0000"
@@ -8974,6 +9006,12 @@
   "minecraft:recipes/building_blocks/dye_white_carpet": {
     "criteria": {
       "has_needed_dye": "2025-02-07 02:29:19 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/gray_lamp": {
+    "criteria": {
+      "has_wool": "2025-02-07 02:43:41 +0000"
     },
     "done": true
   },
@@ -8989,9 +9027,27 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2025-02-07 02:46:18 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/smooth_allurite_from_allurite_block_stonecutting": {
+    "criteria": {
+      "has_allurite_block": "2025-02-07 02:34:00 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/building_blocks/cabbage_crate": {
     "criteria": {
       "has_cabbage": "2025-02-07 01:57:29 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/allurite_stairs": {
+    "criteria": {
+      "has_allurite_block": "2025-02-07 02:34:00 +0000"
     },
     "done": true
   },
@@ -9010,6 +9066,12 @@
   "aether:recipes/combat/leather_boots_repairing": {
     "criteria": {
       "has_leather_boots": "2025-02-07 02:20:39 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/gray_curtain": {
+    "criteria": {
+      "has_wool": "2025-02-07 02:43:41 +0000"
     },
     "done": true
   },
@@ -9043,9 +9105,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2025-02-07 02:46:18 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/building_blocks/smooth_lumiere_stairs_from_lumiere_block_stonecutting": {
     "criteria": {
       "has_lumiere_block": "2025-02-07 02:30:53 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/allurite_stairs_from_allurite_block_stonecutting": {
+    "criteria": {
+      "has_allurite_block": "2025-02-07 02:34:00 +0000"
     },
     "done": true
   },
@@ -9061,6 +9135,12 @@
     },
     "done": true
   },
+  "comforts:hammock_gray": {
+    "criteria": {
+      "has_gray_wool": "2025-02-07 02:43:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_candle": {
     "criteria": {
       "has_white_dye": "2025-02-07 02:29:19 +0000"
@@ -9070,6 +9150,12 @@
   "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_white_dye": "2025-02-07 02:29:19 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/gray_sofa": {
+    "criteria": {
+      "has_wool": "2025-02-07 02:43:41 +0000"
     },
     "done": true
   },
@@ -9097,6 +9183,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-02-07 02:43:41 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/chiseled_allurite_from_allurite_block_stonecutting": {
+    "criteria": {
+      "has_allurite_block": "2025-02-07 02:34:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/flower_banner_pattern": {
     "criteria": {
       "has_oxeye_daisy": "2025-02-07 01:42:16 +0000"
@@ -9106,6 +9204,12 @@
   "minecraft:recipes/misc/lime_dye": {
     "criteria": {
       "has_white_dye": "2025-02-07 02:29:19 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/decorations/warped_anchor": {
+    "criteria": {
+      "has_allurite_block": "2025-02-07 02:34:00 +0000"
     },
     "done": true
   },
@@ -9157,9 +9261,21 @@
     },
     "done": true
   },
+  "galosphere:recipes/building_blocks/allurite_brick_slab_from_allurite_block_stonecutting": {
+    "criteria": {
+      "has_allurite_block": "2025-02-07 02:34:00 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/golden_chestplate_repairing": {
     "criteria": {
       "has_golden_chestplate": "2025-02-07 01:50:26 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_gray": {
+    "criteria": {
+      "has_gray_wool": "2025-02-07 02:43:41 +0000"
     },
     "done": true
   },
@@ -9175,15 +9291,39 @@
     },
     "done": true
   },
+  "galosphere:recipes/building_blocks/smooth_allurite": {
+    "criteria": {
+      "has_allurite_block": "2025-02-07 02:33:59 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/building_blocks/lumiere_brick_slab_from_lumiere_block_stonecutting": {
     "criteria": {
       "has_lumiere_block": "2025-02-07 02:30:53 +0000"
     },
     "done": true
   },
+  "another_furniture:recipes/gray_stool": {
+    "criteria": {
+      "has_wool": "2025-02-07 02:43:41 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/building_blocks/smooth_lumiere_slab_from_lumiere_block_stonecutting": {
     "criteria": {
       "has_lumiere_block": "2025-02-07 02:30:53 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/smooth_allurite_slab_from_allurite_block_stonecutting": {
+    "criteria": {
+      "has_allurite_block": "2025-02-07 02:33:59 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/smooth_allurite_stairs_from_allurite_block_stonecutting": {
+    "criteria": {
+      "has_allurite_block": "2025-02-07 02:34:00 +0000"
     },
     "done": true
   },
@@ -9211,6 +9351,12 @@
     },
     "done": true
   },
+  "galosphere:recipes/building_blocks/allurite_slab_from_allurite_block_stonecutting": {
+    "criteria": {
+      "has_allurite_block": "2025-02-07 02:34:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gray_dye": {
     "criteria": {
       "has_white_dye": "2025-02-07 02:29:19 +0000"
@@ -9220,6 +9366,24 @@
   "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
     "criteria": {
       "has_white_dye": "2025-02-07 02:29:19 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/allurite_slab": {
+    "criteria": {
+      "has_allurite_block": "2025-02-07 02:34:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-02-07 02:43:41 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/allurite_brick_stairs_from_allurite_block_stonecutting": {
+    "criteria": {
+      "has_allurite_block": "2025-02-07 02:34:00 +0000"
     },
     "done": true
   },
@@ -9238,6 +9402,12 @@
   "galosphere:recipes/building_blocks/lumiere_slab": {
     "criteria": {
       "has_lumiere_block": "2025-02-07 02:30:53 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/gray_sheet": {
+    "criteria": {
+      "has_gray_sheet": "2025-02-07 02:43:41 +0000"
     },
     "done": true
   },

@@ -9406,6 +9406,12 @@
     },
     "done": true
   },
+  "shieldexp:get_diamond_shield": {
+    "criteria": {
+      "diamond_shield": "2025-02-07 02:48:28 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/diamond_leggings_repairing": {
     "criteria": {
       "has_diamond_leggings": "2025-02-07 01:36:52 +0000"
@@ -9421,6 +9427,12 @@
   "aether:recipes/combat/leather_chestplate_repairing": {
     "criteria": {
       "has_leather_chestplate": "2025-02-07 02:00:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/egg_sandwich": {
+    "criteria": {
+      "has_fried_egg": "2025-02-07 02:47:22 +0000"
     },
     "done": true
   },

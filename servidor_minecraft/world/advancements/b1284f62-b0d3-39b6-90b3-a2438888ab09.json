@@ -9570,9 +9570,27 @@
     },
     "done": true
   },
+  "galosphere:recipes/building_blocks/allurite_bricks_from_allurite_block_stonecutting": {
+    "criteria": {
+      "has_allurite_block": "2025-02-07 02:35:17 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/black_cushion": {
     "criteria": {
       "has_black_cushion": "2025-02-07 02:11:36 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/smooth_lumiere_from_lumiere_block_stonecutting": {
+    "criteria": {
+      "has_lumiere_block": "2025-02-07 02:35:26 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/decorations/monstrometer": {
+    "criteria": {
+      "has_lumiere_block": "2025-02-07 02:35:26 +0000"
     },
     "done": true
   },
@@ -9582,9 +9600,33 @@
     },
     "done": true
   },
+  "galosphere:recipes/building_blocks/lumiere_bricks_from_lumiere_block_stonecutting": {
+    "criteria": {
+      "has_lumiere_block": "2025-02-07 02:35:26 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/black_sofa": {
     "criteria": {
       "has_wool": "2025-02-07 02:11:36 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/smooth_allurite_from_allurite_block_stonecutting": {
+    "criteria": {
+      "has_allurite_block": "2025-02-07 02:35:17 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/allurite_stairs": {
+    "criteria": {
+      "has_allurite_block": "2025-02-07 02:35:17 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/lumiere_stairs": {
+    "criteria": {
+      "has_lumiere_block": "2025-02-07 02:35:26 +0000"
     },
     "done": true
   },
@@ -9594,9 +9636,21 @@
     },
     "done": true
   },
+  "galosphere:recipes/building_blocks/smooth_lumiere_stairs_from_lumiere_block_stonecutting": {
+    "criteria": {
+      "has_lumiere_block": "2025-02-07 02:35:26 +0000"
+    },
+    "done": true
+  },
   "shieldexp:get_diamond_shield": {
     "criteria": {
       "diamond_shield": "2025-02-07 02:20:06 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/allurite_stairs_from_allurite_block_stonecutting": {
+    "criteria": {
+      "has_allurite_block": "2025-02-07 02:35:17 +0000"
     },
     "done": true
   },
@@ -9606,9 +9660,21 @@
     },
     "done": true
   },
+  "galosphere:recipes/building_blocks/lumiere_slab_from_lumiere_block_stonecutting": {
+    "criteria": {
+      "has_lumiere_block": "2025-02-07 02:35:26 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/black_curtain": {
     "criteria": {
       "has_wool": "2025-02-07 02:11:36 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/lumiere_brick_stairs_from_lumiere_block_stonecutting": {
+    "criteria": {
+      "has_lumiere_block": "2025-02-07 02:35:26 +0000"
     },
     "done": true
   },
@@ -9618,15 +9684,99 @@
     },
     "done": true
   },
+  "galosphere:recipes/building_blocks/chiseled_allurite_from_allurite_block_stonecutting": {
+    "criteria": {
+      "has_allurite_block": "2025-02-07 02:35:17 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/decorations/warped_anchor": {
+    "criteria": {
+      "has_allurite_block": "2025-02-07 02:35:17 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/smooth_lumiere": {
+    "criteria": {
+      "has_lumiere_block": "2025-02-07 02:35:26 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/chiseled_lumiere_from_lumiere_block_stonecutting": {
+    "criteria": {
+      "has_lumiere_block": "2025-02-07 02:35:26 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/lumiere_stairs_from_lumiere_block_stonecutting": {
+    "criteria": {
+      "has_lumiere_block": "2025-02-07 02:35:26 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/allurite_brick_slab_from_allurite_block_stonecutting": {
+    "criteria": {
+      "has_allurite_block": "2025-02-07 02:35:17 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/smooth_allurite": {
+    "criteria": {
+      "has_allurite_block": "2025-02-07 02:35:17 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/lumiere_brick_slab_from_lumiere_block_stonecutting": {
+    "criteria": {
+      "has_lumiere_block": "2025-02-07 02:35:26 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/smooth_lumiere_slab_from_lumiere_block_stonecutting": {
+    "criteria": {
+      "has_lumiere_block": "2025-02-07 02:35:26 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/black_tall_stool": {
     "criteria": {
       "has_wool": "2025-02-07 02:11:36 +0000"
     },
     "done": true
   },
+  "galosphere:recipes/building_blocks/smooth_allurite_slab_from_allurite_block_stonecutting": {
+    "criteria": {
+      "has_allurite_block": "2025-02-07 02:35:17 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/smooth_allurite_stairs_from_allurite_block_stonecutting": {
+    "criteria": {
+      "has_allurite_block": "2025-02-07 02:35:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_bed": {
     "criteria": {
       "has_black_wool": "2025-02-07 02:11:36 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/allurite_slab_from_allurite_block_stonecutting": {
+    "criteria": {
+      "has_allurite_block": "2025-02-07 02:35:17 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/allurite_slab": {
+    "criteria": {
+      "has_allurite_block": "2025-02-07 02:35:17 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/allurite_brick_stairs_from_allurite_block_stonecutting": {
+    "criteria": {
+      "has_allurite_block": "2025-02-07 02:35:17 +0000"
     },
     "done": true
   },
@@ -9639,6 +9789,12 @@
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2025-02-07 02:11:36 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/lumiere_slab": {
+    "criteria": {
+      "has_lumiere_block": "2025-02-07 02:35:26 +0000"
     },
     "done": true
   },

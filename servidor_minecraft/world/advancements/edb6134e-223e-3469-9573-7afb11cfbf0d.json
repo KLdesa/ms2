@@ -9958,9 +9958,33 @@
     },
     "done": true
   },
+  "supplementaries:recipes/flint_block": {
+    "criteria": {
+      "has_flint": "2025-02-07 02:43:02 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/leather_helmet_repairing": {
     "criteria": {
       "has_leather_helmet": "2025-02-07 01:39:35 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/decorations/allurite_lamp": {
+    "criteria": {
+      "has_allurite_shard": "2025-02-07 02:33:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-02-07 02:43:02 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_ferrous_wroughtnaut": {
+    "criteria": {
+      "ferrous_wroughtnaut": "2025-02-07 02:37:16 +0000"
     },
     "done": true
   },
@@ -9976,6 +10000,12 @@
     },
     "done": true
   },
+  "galosphere:recipes/building_blocks/allurite_block": {
+    "criteria": {
+      "has_allurite_shard": "2025-02-07 02:33:59 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/leather_chestplate_repairing": {
     "criteria": {
       "has_leather_chestplate": "2025-02-07 01:39:35 +0000"
@@ -9985,6 +10015,12 @@
   "aether:recipes/combat/chainmail_helmet_repairing": {
     "criteria": {
       "has_chainmail_helmet": "2025-02-07 01:36:39 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_fletching_table": {
+    "criteria": {
+      "has_flint": "2025-02-07 02:43:02 +0000"
     },
     "done": true
   },
