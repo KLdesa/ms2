@@ -9070,12 +9070,6 @@
     },
     "done": true
   },
-  "farmersdelight:main/place_campfire": {
-    "criteria": {
-      "campfire": "2025-02-06 23:47:19 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/decorations/stove": {
     "criteria": {
       "has_campfire": "2025-02-06 23:47:14 +0000"
@@ -9085,6 +9079,18 @@
   "hearth_and_home:recipes/cobblestone_bricks": {
     "criteria": {
       "has_item": "2025-02-06 23:47:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2025-02-06 23:47:19 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/flint_and_steel_repairing": {
+    "criteria": {
+      "has_flint_and_steel": "2025-02-07 00:00:46 +0000"
     },
     "done": true
   },
