@@ -3999,3 +3999,6 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [08Feb2025 04:20:28.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar has reached the goal [Embers of the Nether]
 [08Feb2025 04:21:23.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer drowned
 [08Feb2025 04:22:42.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer was impaled by Drowned
+[08Feb2025 04:28:30.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer drowned
+[08Feb2025 04:29:11.443] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Feb2025 04:32:24.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer was slain by Zombie
