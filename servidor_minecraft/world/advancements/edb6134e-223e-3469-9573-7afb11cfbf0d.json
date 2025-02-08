@@ -7653,6 +7653,7 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "cabbage": "2025-02-06 07:01:04 +0000",
+      "onion": "2025-02-08 05:03:39 +0000",
       "sweet_berries": "2025-02-05 03:43:43 +0000",
       "sugar_cane": "2025-02-05 05:11:29 +0000"
     },
@@ -11293,9 +11294,39 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/salmon_roll": {
+    "criteria": {
+      "has_salmon_slice": "2025-02-08 05:01:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2025-02-08 05:03:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_salmon_slice_from_campfire_cooking": {
+    "criteria": {
+      "cooked_salmon_slice": "2025-02-08 05:01:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/spyglass": {
     "criteria": {
       "has_amethyst_shard": "2025-02-08 04:54:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-02-08 05:03:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cabbage_from_leaves": {
+    "criteria": {
+      "has_cabbage_leaf": "2025-02-08 05:02:52 +0000"
     },
     "done": true
   },
@@ -11308,6 +11339,12 @@
   "minecraft:recipes/redstone/calibrated_sculk_sensor": {
     "criteria": {
       "has_amethyst_shard": "2025-02-08 04:54:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_salmon_slice_from_smoking": {
+    "criteria": {
+      "cooked_salmon_slice": "2025-02-08 05:01:44 +0000"
     },
     "done": true
   },
@@ -11326,6 +11363,12 @@
   "magnumtorch:recipes/decorations/amethyst_magnum_torch": {
     "criteria": {
       "has_amethyst_shard": "2025-02-08 04:54:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_salmon_slice": {
+    "criteria": {
+      "cooked_salmon_slice": "2025-02-08 05:01:44 +0000"
     },
     "done": true
   },

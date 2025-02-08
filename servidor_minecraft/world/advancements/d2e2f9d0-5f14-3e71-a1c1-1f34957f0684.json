@@ -11172,6 +11172,7 @@
   },
   "farmersdelight:main/master_chef": {
     "criteria": {
+      "beef_stew": "2025-02-08 05:04:27 +0000",
       "pasta_with_mutton_chop": "2025-02-07 04:47:07 +0000"
     },
     "done": false
@@ -11575,6 +11576,12 @@
   "stoneworks:recipes/building_blocks/prismarine_paver_wall_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2025-02-08 04:16:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-02-08 05:04:27 +0000"
     },
     "done": true
   },

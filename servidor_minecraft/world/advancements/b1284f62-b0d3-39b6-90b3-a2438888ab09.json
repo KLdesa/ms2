@@ -7266,6 +7266,7 @@
   "repurposed_structures:mineshafts": {
     "criteria": {
       "in_mineshaft_icy": "2025-02-05 06:31:38 +0000",
+      "in_mineshaft_warped": "2025-02-08 05:01:21 +0000",
       "in_mineshaft_nether": "2025-02-07 04:46:57 +0000"
     },
     "done": false
