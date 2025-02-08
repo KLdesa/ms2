@@ -3912,3 +3912,5 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [08Feb2025 02:59:32.542] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [08Feb2025 02:59:32.645] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [08Feb2025 03:00:11.548] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Feb2025 03:05:50.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar has made the advancement [Into Fire]
+[08Feb2025 03:06:17.894] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
