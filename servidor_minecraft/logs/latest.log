@@ -4057,3 +4057,24 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [08Feb2025 05:10:10.599] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [08Feb2025 05:24:04.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Digigamerfer> zzz
 [08Feb2025 05:24:29.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shinkar> zzzz
+[08Feb2025 05:27:21.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sirfafnir55 has reached the goal [The Fright Before Xmas]
+[08Feb2025 05:30:02.805] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-46, y=15, z=-459} BlockPos{x=-47, y=15, z=-459}
+[08Feb2025 05:30:02.853] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-46, y=15, z=-459} BlockPos{x=-47, y=15, z=-459}
+[08Feb2025 05:30:02.903] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-46, y=15, z=-459} BlockPos{x=-47, y=15, z=-459}
+[08Feb2025 05:30:02.954] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-46, y=15, z=-459} BlockPos{x=-47, y=15, z=-459}
+[08Feb2025 05:30:37.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer has made the advancement [You Are A Pirate]
+[08Feb2025 05:31:08.757] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Digigamerfer) moved wrongly! 0.25543510796819646
+[08Feb2025 05:34:13.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sirfafnir55 has made the advancement [A glorious Past]
+[08Feb2025 05:36:10.054] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Feb2025 05:36:17.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Digigamerfer> zzzz
+[08Feb2025 05:36:19.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Digigamerfer> zzzz
+[08Feb2025 05:36:20.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Digigamerfer> zzz
+[08Feb2025 05:36:20.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Digigamerfer> z
+[08Feb2025 05:36:22.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Digigamerfer> zz
+[08Feb2025 05:36:23.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Digigamerfer> zzz
+[08Feb2025 05:36:25.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Digigamerfer> zz
+[08Feb2025 05:36:26.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Digigamerfer> z
+[08Feb2025 05:36:27.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Digigamerfer> zz
+[08Feb2025 05:36:28.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Digigamerfer> zzz
+[08Feb2025 05:36:29.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Digigamerfer> zz
+[08Feb2025 05:36:32.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Digigamerfer> z
