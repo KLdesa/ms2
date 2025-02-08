@@ -3992,3 +3992,10 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [08Feb2025 04:12:10.772] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=174, y=63, z=-929} BlockPos{x=187, y=61, z=-937}
 [08Feb2025 04:12:48.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar has made the advancement [A glorious Past]
 [08Feb2025 04:13:46.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer was impaled by Drowned
+[08Feb2025 04:16:56.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer was impaled by Drowned
+[08Feb2025 04:17:57.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer drowned
+[08Feb2025 04:18:47.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer was impaled by Drowned
+[08Feb2025 04:19:35.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer drowned whilst trying to escape Drowned
+[08Feb2025 04:20:28.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar has reached the goal [Embers of the Nether]
+[08Feb2025 04:21:23.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer drowned
+[08Feb2025 04:22:42.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer was impaled by Drowned
