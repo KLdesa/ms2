@@ -10986,6 +10986,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/netherite_trapdoor": {
+    "criteria": {
+      "has_netherite_scrap": "2025-02-08 03:34:01 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/nether_brick_pillar_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-02-08 02:52:29 +0000"
@@ -11013,6 +11019,12 @@
   "betternether:recipes/building_blocks/blue_obsidian_bricks_stairs_stonecutter": {
     "criteria": {
       "has_block.betternether.blue_obsidian": "2025-02-08 03:11:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-02-08 03:34:01 +0000"
     },
     "done": true
   },
@@ -11211,6 +11223,12 @@
   "minecraft:nether/get_wither_skull": {
     "criteria": {
       "wither_skull": "2025-02-08 02:54:51 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/netherite_door": {
+    "criteria": {
+      "has_netherite_scrap": "2025-02-08 03:34:01 +0000"
     },
     "done": true
   },
@@ -11640,6 +11658,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-02-08 03:33:28 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/blue_obsidian_bricks_slab_stonecutter": {
     "criteria": {
       "has_block.betternether.blue_obsidian": "2025-02-08 03:11:57 +0000"
@@ -11859,6 +11883,12 @@
   "betternether:recipes/tools/nether_ruby_axe": {
     "criteria": {
       "has_nether_ruby": "2025-02-08 02:49:19 +0000"
+    },
+    "done": true
+  },
+  "netherchested:recipes/decorations/nether_chest": {
+    "criteria": {
+      "has_netherite_scrap": "2025-02-08 03:34:01 +0000"
     },
     "done": true
   },

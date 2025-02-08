@@ -3936,3 +3936,21 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [08Feb2025 03:31:24.265] [Worker-Main-10/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Finished recycling features. Took 375ms
 [08Feb2025 03:33:06.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer has made the advancement [A Little Hot Rod Red]
 [08Feb2025 03:33:31.627] [Worker-Main-9/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[08Feb2025 03:35:42.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer was blown up by Creeper
+[08Feb2025 03:35:46.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shinkar> vaia
+[08Feb2025 03:38:35.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Digigamerfer> baia
+[08Feb2025 03:38:42.438] [Worker-Main-10/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:iron_fishing_rod",tag:{Damage:0,Inventory:{Items:[{Count:1b,Slot:1,id:"aquaculture:worm",tag:{Damage:0}},{Count:1b,Slot:2,id:"aquaculture:fishing_line"},{Count:1b,Slot:3,id:"aquaculture:bobber"}],Size:4}}}
+[08Feb2025 03:38:42.439] [Worker-Main-10/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:oak_fish_mount
+[08Feb2025 03:38:42.439] [Worker-Main-10/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:iron_fillet_knife",tag:{Damage:0}}
+[08Feb2025 03:38:42.440] [Worker-Main-10/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:fish_fillet_raw"}
+[08Feb2025 03:38:42.440] [Worker-Main-10/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[08Feb2025 03:38:42.461] [Worker-Main-20/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[08Feb2025 03:38:42.461] [Worker-Main-20/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[08Feb2025 03:38:42.461] [Worker-Main-20/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[08Feb2025 03:38:42.462] [Worker-Main-20/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[08Feb2025 03:38:45.178] [Worker-Main-20/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[08Feb2025 03:38:45.420] [Worker-Main-10/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[08Feb2025 03:40:51.183] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2861, y=-13, z=227} but found not block entity block Block{minecraft:cave_air} at location
+[08Feb2025 03:40:51.183] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:cave_air} but failed at location BlockPos{x=2861, y=-13, z=227}
+[08Feb2025 03:41:48.893] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[08Feb2025 03:41:58.452] [pool-10-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_swedish], ResourceKey[minecraft:worldgen/structure / blue_skies:village_slushlands], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_oak], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_mushroom_fields], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_swamp], ResourceKey[minecraft:worldgen/structure / blue_skies:village_crystal_dunes], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sunflower_plains], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_meadow]] from pos BlockPos{x=2971, y=67, z=357}
