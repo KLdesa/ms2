@@ -2476,6 +2476,7 @@
       "minecraft:blaze": "2025-02-07 04:30:26 +0000",
       "minecraft:skeleton": "2025-02-04 05:42:30 +0000",
       "minecraft:ravager": "2025-02-05 04:14:13 +0000",
+      "minecraft:hoglin": "2025-02-08 05:23:58 +0000",
       "minecraft:vindicator": "2025-02-05 03:24:23 +0000",
       "minecraft:spider": "2025-02-04 05:30:37 +0000",
       "minecraft:creeper": "2025-02-05 02:32:04 +0000",
@@ -11294,15 +11295,39 @@
     },
     "done": true
   },
+  "quark:overlevel_enchant": {
+    "criteria": {
+      "overlevel_enchant": "2025-02-08 05:07:12 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/salmon_roll": {
     "criteria": {
       "has_salmon_slice": "2025-02-08 05:01:44 +0000"
     },
     "done": true
   },
+  "mynethersdelight:recipes/food/hoglin_loin_from_campfire_cooking": {
+    "criteria": {
+      "hoglin_loin": "2025-02-08 05:24:03 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/mixed_salad": {
     "criteria": {
       "has_bowl": "2025-02-08 05:03:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/master_chef": {
+    "criteria": {
+      "grilled_salmon": "2025-02-08 05:07:32 +0000"
+    },
+    "done": false
+  },
+  "mynethersdelight:recipes/cooking/spicy_hoglin_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-08 05:24:03 +0000"
     },
     "done": true
   },
@@ -11315,6 +11340,12 @@
   "minecraft:recipes/tools/spyglass": {
     "criteria": {
       "has_amethyst_shard": "2025-02-08 04:54:27 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/food/hoglin_loin_from_smoking": {
+    "criteria": {
+      "hoglin_loin": "2025-02-08 05:24:03 +0000"
     },
     "done": true
   },
@@ -11342,9 +11373,21 @@
     },
     "done": true
   },
+  "quark:throw_pickarang": {
+    "criteria": {
+      "throw_pickarang": "2025-02-08 05:08:34 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/cooked_salmon_slice_from_smoking": {
     "criteria": {
       "cooked_salmon_slice": "2025-02-08 05:01:44 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/food/hoglin_loin_cooking": {
+    "criteria": {
+      "hoglin_loin": "2025-02-08 05:24:03 +0000"
     },
     "done": true
   },
@@ -11369,6 +11412,18 @@
   "farmersdelight:recipes/food/cooked_salmon_slice": {
     "criteria": {
       "cooked_salmon_slice": "2025-02-08 05:01:44 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/blue_tenderloin_steak": {
+    "criteria": {
+      "has_hoglin_loin": "2025-02-08 05:24:03 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/fried_hoglin_chop": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-08 05:24:03 +0000"
     },
     "done": true
   },
