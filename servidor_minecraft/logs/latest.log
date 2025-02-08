@@ -4078,3 +4078,42 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [08Feb2025 05:36:28.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Digigamerfer> zzz
 [08Feb2025 05:36:29.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Digigamerfer> zz
 [08Feb2025 05:36:32.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Digigamerfer> z
+[08Feb2025 05:36:55.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sirfafnir55 has made the advancement [Spooky Scary Skeleton]
+[08Feb2025 05:37:22.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shinkar> bueno gente gg
+[08Feb2025 05:37:26.453] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sirfafnir55 lost connection: Disconnected
+[08Feb2025 05:37:26.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sirfafnir55 left the game
+[08Feb2025 05:37:26.454] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for edb6134e-223e-3469-9573-7afb11cfbf0d
+[08Feb2025 05:37:35.591] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Digigamerfer lost connection: Disconnected
+[08Feb2025 05:37:35.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer left the game
+[08Feb2025 05:37:35.592] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for d2e2f9d0-5f14-3e71-a1c1-1f34957f0684
+[08Feb2025 05:37:37.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shinkar> mi viejo ya me dijo que apague
+[08Feb2025 05:37:41.838] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shinkar lost connection: Disconnected
+[08Feb2025 05:37:41.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar left the game
+[08Feb2025 05:37:41.838] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for b1284f62-b0d3-39b6-90b3-a2438888ab09
+[08Feb2025 05:38:03.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[08Feb2025 05:38:03.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[08Feb2025 05:38:03.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[08Feb2025 05:38:03.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[08Feb2025 05:38:03.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[08Feb2025 05:38:03.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[08Feb2025 05:38:03.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everdawn
+[08Feb2025 05:38:03.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[08Feb2025 05:38:03.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everbright
+[08Feb2025 05:38:03.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[08Feb2025 05:38:03.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[08Feb2025 05:38:03.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[08Feb2025 05:38:03.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[08Feb2025 05:38:03.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08Feb2025 05:38:03.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everdawn): All chunks are saved
+[08Feb2025 05:38:03.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08Feb2025 05:38:03.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everbright): All chunks are saved
+[08Feb2025 05:38:03.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[08Feb2025 05:38:03.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[08Feb2025 05:38:03.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[08Feb2025 05:38:03.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[08Feb2025 05:38:03.812] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Stopping IO worker...
+[08Feb2025 05:38:03.821] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Stopped IO worker!
+[08Feb2025 05:38:03.825] [Server thread/INFO] [Framework/]: Unloading server configs...
+[08Feb2025 05:38:03.827] [Server thread/INFO] [Framework/]: Sending config unload event for backpacked.server.toml
+[08Feb2025 05:38:03.827] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[08Feb2025 05:38:03.828] [Server thread/INFO] [Framework/]: Finished unloading server configs

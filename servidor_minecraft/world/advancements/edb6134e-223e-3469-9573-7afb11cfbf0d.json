@@ -11338,6 +11338,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-02-08 05:36:55 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/mixed_salad": {
     "criteria": {
       "has_bowl": "2025-02-08 05:03:13 +0000"
@@ -11349,6 +11355,12 @@
       "grilled_salmon": "2025-02-08 05:07:32 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-02-08 05:36:55 +0000"
+    },
+    "done": true
   },
   "mynethersdelight:recipes/cooking/spicy_hoglin_stew": {
     "criteria": {
