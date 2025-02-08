@@ -10966,6 +10966,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/tw/betternether/willow_table": {
+    "criteria": {
+      "has_planks": "2025-02-08 04:46:25 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_blackstone_brick_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-08 03:25:02 +0000"
@@ -11068,6 +11074,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/hnhome/betternether/willow_lattice": {
+    "criteria": {
+      "has_planks": "2025-02-08 04:46:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-02-08 02:52:29 +0000"
@@ -11098,6 +11110,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/hc/betternether/willow_bench": {
+    "criteria": {
+      "has_planks": "2025-02-08 04:46:25 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/blackstone_tile_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-08 03:25:02 +0000"
@@ -11116,6 +11134,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/af/betternether/willow_table": {
+    "criteria": {
+      "has_planks": "2025-02-08 04:46:25 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/blackstone_pavers_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-08 03:25:02 +0000"
@@ -11128,9 +11152,21 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/q/betternether/vertical_willow_planks": {
+    "criteria": {
+      "has_planks": "2025-02-08 04:46:25 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/tools/nether_ruby_boots": {
     "criteria": {
       "has_nether_ruby": "2025-02-08 02:49:19 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/betternether/willow_dining_bench": {
+    "criteria": {
+      "has_planks": "2025-02-08 04:46:25 +0000"
     },
     "done": true
   },
@@ -11155,6 +11191,12 @@
   "handcrafted:recipes/misc/golden_thin_pot": {
     "criteria": {
       "has_golden_thin_pot": "2025-02-08 03:18:10 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/willow_boat": {
+    "criteria": {
+      "has_willow_planks": "2025-02-08 04:46:25 +0000"
     },
     "done": true
   },
@@ -11209,6 +11251,24 @@
   "stoneworks:recipes/building_blocks/nether_brick_shingle_wall_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-02-08 02:52:28 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/betternether/willow_drawer": {
+    "criteria": {
+      "has_planks": "2025-02-08 04:46:25 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/willow_crafting_table": {
+    "criteria": {
+      "has_willow_planks": "2025-02-08 04:46:25 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/abnbl/betternether/large_willow_boat": {
+    "criteria": {
+      "has_planks": "2025-02-08 04:46:25 +0000"
     },
     "done": true
   },
@@ -11272,6 +11332,12 @@
     },
     "done": true
   },
+  "betternether:recipes/redstone/willow_button": {
+    "criteria": {
+      "has_willow_planks": "2025-02-08 04:46:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-08 03:25:02 +0000"
@@ -11287,6 +11353,12 @@
   "betternether:recipes/building_blocks/nether_tile_large": {
     "criteria": {
       "has_nether_brick_slab": "2025-02-08 03:09:59 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/betternether/stripped_willow_post": {
+    "criteria": {
+      "has_planks": "2025-02-08 04:46:25 +0000"
     },
     "done": true
   },
@@ -11350,6 +11422,24 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/af/betternether/willow_chair": {
+    "criteria": {
+      "has_planks": "2025-02-08 04:46:25 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/willow_slab": {
+    "criteria": {
+      "has_willow_planks": "2025-02-08 04:46:25 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/betternether/willow_counter": {
+    "criteria": {
+      "has_planks": "2025-02-08 04:46:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-02-08 03:10:35 +0000"
@@ -11392,6 +11482,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/af/betternether/willow_shelf": {
+    "criteria": {
+      "has_planks": "2025-02-08 04:46:25 +0000"
+    },
+    "done": true
+  },
   "mynethersdelight:recipes/food/hoglin_loin_from_smoking": {
     "criteria": {
       "hoglin_loin": "2025-02-08 03:25:02 +0000"
@@ -11428,9 +11524,21 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/abnbl/betternether/willow_furnace_boat": {
+    "criteria": {
+      "has_planks": "2025-02-08 04:46:25 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/golden_medium_pot": {
     "criteria": {
       "has_golden_medium_pot": "2025-02-08 03:18:10 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/tf/betternether/willow_banister": {
+    "criteria": {
+      "has_planks": "2025-02-08 04:46:25 +0000"
     },
     "done": true
   },
@@ -11464,9 +11572,21 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/af/betternether/willow_flower_box": {
+    "criteria": {
+      "has_planks": "2025-02-08 04:46:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/find_fortress": {
     "criteria": {
       "in_better_fortress": "2025-02-08 03:16:54 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/betternether/willow_drawer": {
+    "criteria": {
+      "has_planks": "2025-02-08 04:46:25 +0000"
     },
     "done": true
   },
@@ -11524,9 +11644,21 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/hc/betternether/willow_corner_trim": {
+    "criteria": {
+      "has_planks": "2025-02-08 04:46:25 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/brewing/nether_brewing_stand": {
     "criteria": {
       "has_nether_bricks": "2025-02-08 02:52:28 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/db/betternether/willow_seat": {
+    "criteria": {
+      "has_planks": "2025-02-08 04:46:25 +0000"
     },
     "done": true
   },
@@ -11548,6 +11680,12 @@
     },
     "done": true
   },
+  "betternether:recipes/misc/willow_wall": {
+    "criteria": {
+      "has_willow_planks": "2025-02-08 04:46:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_nether_bricks": {
     "criteria": {
       "has_item": "2025-02-08 02:52:28 +0000"
@@ -11557,6 +11695,24 @@
   "stoneworks:recipes/building_blocks/mossy_cobbled_blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-08 03:25:02 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/betternether/willow_cupboard": {
+    "criteria": {
+      "has_planks": "2025-02-08 04:46:25 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/redstone/willow_door": {
+    "criteria": {
+      "has_willow_planks": "2025-02-08 04:46:25 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/betternether/willow_side_table": {
+    "criteria": {
+      "has_planks": "2025-02-08 04:46:25 +0000"
     },
     "done": true
   },
@@ -11590,9 +11746,21 @@
     },
     "done": true
   },
+  "betternether:recipes/redstone/willow_plate": {
+    "criteria": {
+      "has_willow_planks": "2025-02-08 04:46:25 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/misc/aether_gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_gloves": "2025-02-08 03:00:03 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/bp/betternether/willow_backpack_shelf": {
+    "criteria": {
+      "has_planks": "2025-02-08 04:46:25 +0000"
     },
     "done": true
   },
@@ -11602,9 +11770,27 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/willow_barrel": {
+    "criteria": {
+      "has_willow_planks": "2025-02-08 04:46:25 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-08 03:25:02 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/betternether/willow_trim_1": {
+    "criteria": {
+      "has_planks": "2025-02-08 04:46:25 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/betternether/willow_nightstand": {
+    "criteria": {
+      "has_planks": "2025-02-08 04:46:25 +0000"
     },
     "done": true
   },
@@ -11632,6 +11818,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/hc/betternether/willow_shelf": {
+    "criteria": {
+      "has_planks": "2025-02-08 04:46:25 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/nether_brick_paver_wall_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-02-08 02:52:29 +0000"
@@ -11647,6 +11839,12 @@
   "stoneworks:recipes/building_blocks/cobbled_blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-08 03:25:02 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/betternether/hollow_willow_log": {
+    "criteria": {
+      "has_planks": "2025-02-08 04:46:25 +0000"
     },
     "done": true
   },
@@ -11686,9 +11884,39 @@
     },
     "done": true
   },
+  "everycomp:recipes/building_blocks/db/betternether/willow_palisade": {
+    "criteria": {
+      "has_planks": "2025-02-08 04:46:25 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/betternether/willow_parquet": {
+    "criteria": {
+      "has_planks": "2025-02-08 04:46:25 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/betternether/willow_fancy_bed": {
+    "criteria": {
+      "has_planks": "2025-02-08 04:46:25 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/betternether/willow_post": {
+    "criteria": {
+      "has_planks": "2025-02-08 04:46:25 +0000"
+    },
+    "done": true
+  },
   "mynethersdelight:recipes/cooking/rock_soup": {
     "criteria": {
       "has_any_ingredient": "2025-02-08 03:21:50 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/betternether/willow_trim": {
+    "criteria": {
+      "has_planks": "2025-02-08 04:46:25 +0000"
     },
     "done": true
   },
@@ -11713,6 +11941,18 @@
   "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
     "criteria": {
       "has_snout_armor_trim_smithing_template": "2025-02-08 04:11:13 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/willow_roof": {
+    "criteria": {
+      "has_willow_planks": "2025-02-08 04:46:25 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/willow_stairs": {
+    "criteria": {
+      "has_willow_planks": "2025-02-08 04:46:25 +0000"
     },
     "done": true
   },
@@ -11746,6 +11986,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/hc/betternether/willow_desk": {
+    "criteria": {
+      "has_planks": "2025-02-08 04:46:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
     "criteria": {
       "has_rib_armor_trim_smithing_template": "2025-02-08 02:53:21 +0000"
@@ -11755,6 +12001,12 @@
   "stoneworks:recipes/building_blocks/cobbled_blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-08 03:25:02 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/betternether/willow_couch": {
+    "criteria": {
+      "has_planks": "2025-02-08 04:46:25 +0000"
     },
     "done": true
   },
@@ -11830,6 +12082,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/building_blocks/db/betternether/willow_support": {
+    "criteria": {
+      "has_planks": "2025-02-08 04:46:25 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/columns/blackstone_column_stonecutting": {
     "criteria": {
       "has_item": "2025-02-08 03:25:02 +0000"
@@ -11896,6 +12154,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/hnhome/betternether/willow_sanded_wood": {
+    "criteria": {
+      "has_planks": "2025-02-08 04:46:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-08 03:25:02 +0000"
@@ -11911,6 +12175,12 @@
   "stoneworks:recipes/building_blocks/nether_brick_plate_stairs_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-02-08 02:52:28 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/betternether/sign_post_willow": {
+    "criteria": {
+      "has_planks": "2025-02-08 04:46:25 +0000"
     },
     "done": true
   },
@@ -11950,9 +12220,33 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/hc/betternether/willow_pillar_trim": {
+    "criteria": {
+      "has_planks": "2025-02-08 04:46:25 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/vp/betternether/willow_horticulturist_table": {
+    "criteria": {
+      "has_planks": "2025-02-08 04:46:25 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/faf/betternether/willow_beehive": {
+    "criteria": {
+      "has_planks": "2025-02-08 04:46:25 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/blackstone_plate_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-08 03:25:02 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/betternether/willow_table": {
+    "criteria": {
+      "has_planks": "2025-02-08 04:46:25 +0000"
     },
     "done": true
   },
@@ -11974,11 +12268,23 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/af/betternether/willow_bench": {
+    "criteria": {
+      "has_planks": "2025-02-08 04:46:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-08 03:25:02 +0000"
     },
     "done": true
+  },
+  "betternether:nether_wood": {
+    "criteria": {
+      "got_willow": "2025-02-08 04:46:25 +0000"
+    },
+    "done": false
   },
   "betternether:recipes/building_blocks/roof_tile_nether_brick_stonecutting": {
     "criteria": {
@@ -12082,6 +12388,24 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/fd/betternether/willow_cabinet": {
+    "criteria": {
+      "has_planks": "2025-02-08 04:46:25 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/betternether/willow_vertical_trim": {
+    "criteria": {
+      "has_planks": "2025-02-08 04:46:25 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/willow_chest": {
+    "criteria": {
+      "has_willow_planks": "2025-02-08 04:46:25 +0000"
+    },
+    "done": true
+  },
   "mynethersdelight:recipes/cooking/fried_hoglin_chop": {
     "criteria": {
       "has_any_ingredient": "2025-02-08 03:25:02 +0000"
@@ -12160,9 +12484,21 @@
     },
     "done": false
   },
+  "everycomp:recipes/decorations/af/betternether/willow_shutter": {
+    "criteria": {
+      "has_planks": "2025-02-08 04:46:25 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/blackstone_plate_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-08 03:25:02 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/db/betternether/willow_beam": {
+    "criteria": {
+      "has_planks": "2025-02-08 04:46:25 +0000"
     },
     "done": true
   },
@@ -12172,9 +12508,21 @@
     },
     "done": true
   },
+  "suppsquared:recipes/decorations/betternether/item_shelf_willow": {
+    "criteria": {
+      "has_planks": "2025-02-08 04:46:25 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/nether_ruby_block": {
     "criteria": {
       "has_nether_ruby": "2025-02-08 02:49:19 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/redstone/willow_trapdoor": {
+    "criteria": {
+      "has_willow_planks": "2025-02-08 04:46:25 +0000"
     },
     "done": true
   },
@@ -12199,6 +12547,12 @@
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2025-02-08 03:05:50 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/tf/betternether/hollow_willow_log": {
+    "criteria": {
+      "has_planks": "2025-02-08 04:46:25 +0000"
     },
     "done": true
   },
