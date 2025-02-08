@@ -3930,3 +3930,9 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [08Feb2025 03:22:08.447] [Server thread/INFO] [Jade/]: Syncing config to Sirfafnir55 (edb6134e-223e-3469-9573-7afb11cfbf0d)
 [08Feb2025 03:22:10.523] [Server thread/INFO] [ping-wheel/]: Channel update: Sirfafnir55 -> default
 [08Feb2025 03:22:23.507] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
+[08Feb2025 03:24:51.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar has made the advancement [Oh Shiny]
+[08Feb2025 03:25:50.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar has made the advancement [Who is Cutting Onions?]
+[08Feb2025 03:31:23.890] [Worker-Main-10/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Starting feature recycler...
+[08Feb2025 03:31:24.265] [Worker-Main-10/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Finished recycling features. Took 375ms
+[08Feb2025 03:33:06.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer has made the advancement [A Little Hot Rod Red]
+[08Feb2025 03:33:31.627] [Worker-Main-9/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
