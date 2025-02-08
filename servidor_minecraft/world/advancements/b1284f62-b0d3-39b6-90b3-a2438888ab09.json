@@ -11176,6 +11176,12 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/cincinnasite_lantern_small": {
+    "criteria": {
+      "has_cincinnasite_lantern": "2025-02-08 04:40:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-02-08 02:52:28 +0000"
@@ -11395,6 +11401,12 @@
   "netherexp:recipes/nether_bricks/nether_brick_pillar": {
     "criteria": {
       "has_item": "2025-02-08 02:52:28 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/cincinnasite_tile_large": {
+    "criteria": {
+      "has_cincinnasite_slab": "2025-02-08 04:40:11 +0000"
     },
     "done": true
   },
@@ -12076,6 +12088,12 @@
     },
     "done": true
   },
+  "betternether:flaming_tools": {
+    "criteria": {
+      "flaming_ruby_EquipmentSlot[name\u003dsword, category\u003dCOMBAT]": "2025-02-08 04:40:29 +0000"
+    },
+    "done": false
+  },
   "handcrafted:recipes/misc/blackstone_corner_trim": {
     "criteria": {
       "has_blackstone_corner_trim": "2025-02-08 03:25:02 +0000"
@@ -12135,6 +12153,12 @@
       "has_any_ingredient": "2025-02-08 03:25:50 +0000"
     },
     "done": true
+  },
+  "betternether:ruby_gear": {
+    "criteria": {
+      "nether_ruby_EquipmentSlot[name\u003dhelmet, category\u003dCOMBAT]": "2025-02-08 04:41:01 +0000"
+    },
+    "done": false
   },
   "stoneworks:recipes/building_blocks/blackstone_plate_wall_from_blackstone_stonecutting": {
     "criteria": {

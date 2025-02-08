@@ -4002,3 +4002,5 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [08Feb2025 04:28:30.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer drowned
 [08Feb2025 04:29:11.443] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [08Feb2025 04:32:24.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer was slain by Zombie
+[08Feb2025 04:36:45.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer was slain by Susanna
+[08Feb2025 04:45:23.796] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
