@@ -3862,3 +3862,20 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [09Feb2025 04:38:42.280] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
 [09Feb2025 04:38:42.332] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11745ms or 234 ticks behind
 [09Feb2025 04:41:23.147] [Server thread/INFO] [TerraBlenderFix/]: Optimizing surface rules
+[09Feb2025 04:44:47.171] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Shinkar[/127.250.238.57:59341] logged in with entity id 2105 at (-675.4072297403764, 96.0, 24.389374457361868)
+[09Feb2025 04:44:47.177] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Shinkar
+[09Feb2025 04:44:47.178] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Shinkar
+[09Feb2025 04:44:47.179] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Shinkar
+[09Feb2025 04:44:47.180] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Shinkar
+[09Feb2025 04:44:47.183] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Shinkar
+[09Feb2025 04:44:47.185] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Shinkar
+[09Feb2025 04:44:47.186] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Shinkar
+[09Feb2025 04:44:47.197] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[09Feb2025 04:44:47.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar joined the game
+[09Feb2025 04:44:47.277] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for b1284f62-b0d3-39b6-90b3-a2438888ab09
+[09Feb2025 04:44:47.289] [Server thread/INFO] [Jade/]: Syncing config to Shinkar (b1284f62-b0d3-39b6-90b3-a2438888ab09)
+[09Feb2025 04:45:04.834] [Server thread/INFO] [ping-wheel/]: Channel update: Shinkar -> default
+[09Feb2025 04:45:04.881] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
+[09Feb2025 04:48:14.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer was slain by Zombie
+[09Feb2025 04:49:57.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer was slain by Enderman
+[09Feb2025 04:53:29.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer tried to swim in lava
