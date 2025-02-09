@@ -3879,3 +3879,4 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [09Feb2025 04:48:14.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer was slain by Zombie
 [09Feb2025 04:49:57.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer was slain by Enderman
 [09Feb2025 04:53:29.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer tried to swim in lava
+[09Feb2025 05:13:39.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer has made the advancement [Fishy Business]
