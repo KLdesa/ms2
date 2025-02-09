@@ -12577,5 +12577,11 @@
     },
     "done": true
   },
+  "aether:recipes/combat/chainmail_leggings_repairing": {
+    "criteria": {
+      "has_chainmail_leggings": "2025-02-09 05:27:08 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
