@@ -11939,5 +11939,17 @@
     },
     "done": true
   },
+  "aether:recipes/tools/fishing_rod_repairing": {
+    "criteria": {
+      "has_fishing_rod": "2025-02-09 04:57:40 +0000"
+    },
+    "done": true
+  },
+  "betternether:flaming_tools": {
+    "criteria": {
+      "flaming_ruby_EquipmentSlot[name\u003dsword, category\u003dCOMBAT]": "2025-02-09 04:53:54 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }
